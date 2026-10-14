@@ -1,0 +1,1001 @@
+customer_id,full_name,email,signup_date,country,spend,segment,is_active
+CUST-1387,Aisha Brennan,aisha.brennan@mail.test,NULL,Germany,-,enterprise,N
+CUST-1943, omar Brennan,omar.brennan@example.com,25 Jan 2025,uk,$100.66,enterprise,N
+CUST-1007,ravi okafor,ravi[at]example.com,2024-10-18,Brazil,$273.67,ENT,1
+CUST-1249,Leilani da silva,leilani.dasilva@corp.example,"Jun 26, 2024",United Kingdom,$84.38,Mid-Market,yes
+CUST-1900, Marcus Kowalski,marcus.kowalski@example.com,"Sep 26, 2024",germany,NULL,midmarket,true
+CUST-1841, Leilani ODWYER  ,leilani.odwyer@example.com,19 Jun 2023,Brazil,122.09,Consumer,yes
+CUST-1433,tomás ODWYER,toms.odwyer@corp.example,2024-04-06,Brazil,USD 139.54,Enterprise,FALSE
+CUST-1194,PRIYA Costa,priya.costa@mail.test,08.01.2023,u.s.,$461.54,smb,false
+CUST-1466,ana Nakamura,ana.nakamura@mail.test,10 Dec 2023,United States,$341.62,Mid-Market,no
+CUST-1116,Yuki Nguyen,yuki.nguyen@example.com,05.02.2025,GB,$242.52,Consumer,FALSE
+CUST-1811,Leilani PATEL,leilani.patel@example.com,14 Jun 2024,DE,136.26,Mid Market,Y
+CUST-1580,Yuki okafor,yuki.okafor@corp.example,"Aug 18, 2023",Brazil,$189.67,ENT,no
+CUST-00001248,Yuki Ferrari,yuki.ferrari@mail.test,none,usa,751,Mid Market,1
+CUST-1882,Grace Ferrari,grace.ferrari@mail.test,09/18/2024,usa,44518,Enterprise,N
+CUST-00001563,omar haddad,omar.haddad@corp.example,31 Jul 2023,FR,NULL,enterprise,no
+CUST-00001854,PRIYA Ferrari,priya.ferrari@example.com,05.07.2024,Brazil,65,smb,true
+CUST-1083,Grace Brennan,grace.brennan@mail.test,27 Jul 2023,usa,1652.39,Small Business,yes
+CUST-00001273, GRACE FERRARI ,GRACE.FERRARI@MAIL.TEST,"Apr 19, 2025",u.s.,238.7,small business,FALSE
+CUST-1146, omar PATEL,omar.patel@corp.example,04/05/2023,france,-999,Consumer,no
+CUST-1028,ravi Lindqvist,ravi.lindqvist@example.com,05/28/2023,Germany,130.12,Enterprise,FALSE
+CUST-1544,PRIYA Ferrari  ,priya.ferrari@corp.example,28.10.2024,usa,$672.66,SMB ,TRUE
+CUST-1872, Mikael weber,mikael.weber@corp.example,2025-03-21,u.s.,54,ENT,no
+CUST-00001552,omar okafor,omar.okafor@corp.example,18.06.2023,uk,6630,consumer,FALSE
+CUST-1937,Grace Nakamura,grace.nakamura@example.com,11 Mar 2025,BR,USD 92.2,ENT,N
+CUST-1431,ravi PATEL,ravi.patel@corp.example,2023-12-03,france,$398.01,Consumer,FALSE
+CUST-1520,tomás Nakamura,toms.nakamura@example.com,2025-01-30,FR,USD 419.49,ENT,no
+CUST-1324,Mikael PATEL  ,mikael.patel@example.com,06/21/2023,BR,USD 445,consumer,yes
+CUST-1740, Yuki weber,yuki.weber@corp.example,12/21/2023,Brazil,USD 455.31,Mid-Market,true
+CUST-00001822,Yuki Kowalski,yuki.kowalski@example.com,03/06/2025,BR,USD 108.58,Enterprise,true
+CUST-1395,jonas Kowalski,jonas.kowalski@example.com,"Jan 28, 2024",france,223,Enterprise,TRUE
+CUST-1150,omar Nguyen,omar.nguyen@example.com,14.10.2024,DE,11097,SMB ,false
+CUST-1885,Noor da silva,noor.dasilva@mail.test,04/10/2025,GB,46753,consumer,Y
+CUST-00001133, Leilani Ferrari,leilani.ferrari@mail.test,10 Apr 2023,Germany,209,Enterprise,no
+CUST-1915,PRIYA Nguyen  ,priya.nguyen@mail.test,2023-10-15,DE,9143,midmarket,TRUE
+CUST-1734,ravi Brennan,ravi.brennan@mail.test,NULL,usa,450,Small Business,FALSE
+CUST-1237, Yuki PATEL,yuki.patel@example.com,14 Jan 2025,GB,49,midmarket,1
+CUST-00001577,Grace ODWYER,grace.odwyer@example.com,2024-03-03,france,229.74,smb,0
+CUST-1921,Yuki da silva,yuki.dasilva@mail.test,19.10.2023,Germany,USD 267.54,smb,yes
+CUST-00001221,Sofia weber,sofia.weber@example.com,none,FR,$33.32,midmarket,TRUE
+CUST-1270,Noor Brennan,noor.brennan@corp.example,24.05.2024,Germany,257.74,ENT,no
+CUST-1102,Mikael PATEL,mikael.patel@mail.test,,usa,112.83,Enterprise,TRUE
+CUST-1541,Aisha haddad,aisha.haddad@mail.test,2023-08-28,uk,-999,Mid-Market,0
+CUST-1836, Chen Costa  ,chen.costa@example.com,"Jul 22, 2023",United States,151,Mid Market,TRUE
+CUST-1927,Yuki haddad,Yuki <Yuki@example.com>,03/20/2024,US,,Consumer,FALSE
+CUST-1425,tomás haddad,toms.haddad@corp.example,2023-03-18,US,$89.12,SMB ,N
+CUST-1575,Sofia weber,sofia.weber@mail.test,"Mar 22, 2023",United States,USD 192.17,ENT,Y
+CUST-1802,Leilani PATEL,leilani.patel@corp.example,2023-11-19,FR,49919,Small Business,no
+CUST-1685,ravi Costa,ravi.costa@corp.example,02.09.2024,FR,USD 286.67,midmarket,N
+CUST-1091,Aisha da silva,aisha.dasilva@corp.example,11/06/2024,DE,304.25,Mid Market,0
+CUST-1244,Aisha Costa,aisha.costa@example.com,23.08.2023,uk,180.91,Consumer,true
+CUST-1848,Grace Costa,grace.costa@corp.example,28 Apr 2024,u.s.,$353.7,midmarket,1
+CUST-1045, YUKI NAKAMURA ,YUKI.NAKAMURA@CORP.EXAMPLE,"Apr 28, 2025",germany,USD 596.05,smb,false
+CUST-00001444, Noor Ferrari,noor.ferrari@corp.example,05/31/2025,DE,USD 419.18,Mid Market,1
+CUST-1117,Mikael Ferrari,mikael.ferrari@example.com,"Jun 28, 2023",Germany,USD 291.17,Consumer,FALSE
+CUST-00001894,Mikael ODWYER,mikael.odwyer@mail.test,2024-12-17,usa,93,Consumer,Y
+CUST-00001775,Noor weber,,16 Apr 2023,Brazil,$269.94,smb,yes
+CUST-1374,jonas Ferrari,jonas.ferrari@corp.example,"Oct 14, 2023",usa,167,ENT,Y
+CUST-1812,Mikael da silva,mikael.dasilva@example.com,"Jul 23, 2024",United States,53.22,Consumer,N
+CUST-1180,omar weber,omar.weber@mail.test,"Feb 26, 2023",GB,422.85,smb,false
+CUST-1336,Yuki weber,yuki.weber@corp.example,"Jun 19, 2025",Brazil,232,SMB ,0
+CUST-1119,Noor Kowalski  ,noor.kowalski@mail.test,2025-06-09,Brazil,USD 66.98,enterprise,1
+CUST-1418,omar haddad,omar.haddad@example.com,08/03/2023,usa,USD 233.64,Small Business,1
+CUST-1694, MARCUS FERRARI ,MARCUS.FERRARI@MAIL.TEST,14.06.2025,FR,22557,smb,Y
+CUST-1473,Noor da silva,noor.dasilva@mail.test,05/20/2024,US,$499.6,smb,Y
+CUST-1040,Mikael Brennan,mikael.brennan@mail.test,28 Sep 2024,FR,2787.22,Mid Market,FALSE
+CUST-1726,ana Ferrari,ana.ferrari@corp.example,"Dec 26, 2023",GB,$392.09,SMB ,Y
+CUST-1670,ana da silva,ana.dasilva@corp.example,31.01.2025,u.s.,199,enterprise,Y
+CUST-1176, ravi Costa,ravi.costa@example.com,16.02.2023,United States,35016,Mid Market,yes
+CUST-1449,Sofia Costa,sofia.costa@corp.example,22.11.2023,uk,$73.04,SMB ,false
+CUST-1610,omar Nakamura  ,omar.nakamura@example.com,"Aug 27, 2024",DE,261.98,Consumer,Y
+CUST-1485,jonas da silva,jonas.dasilva@mail.test,,United Kingdom,USD 52.22,Consumer,no
+CUST-1161, AISHA KOWALSKI ,AISHA[AT]EXAMPLE.COM,"May 16, 2023",u.s.,N/A,consumer,Y
+CUST-1056,omar weber,omar.weber@example.com,17 Jul 2024,france,USD 386.86,consumer,0
+CUST-1809,Aisha PATEL,aisha.patel@example.com,05.08.2023,DE,USD 28.54,enterprise,FALSE
+CUST-1946,Marcus Ferrari,Marcus <Marcus@example.com>,"Oct 29, 2024",france,9003,Mid Market,yes
+CUST-1452,Chen Brennan,chen.brennan@mail.test,2025-05-25,Brazil,-999,Small Business,false
+CUST-00001168, ravi haddad,ravi.haddad@corp.example,"Jun 12, 2023",Brazil,USD 221.48,smb,yes
+CUST-1386,Grace Costa,grace.costa@corp.example,,FR,652,SMB ,0
+CUST-1059,ana Lindqvist,,"Aug 10, 2023",US,150,Enterprise,false
+CUST-1271,ravi haddad  ,ravi.haddad@mail.test,2 Oct 2023,germany,864.05,enterprise,Y
+CUST-00001530,jonas okafor,jonas.okafor@example.com,"Nov 24, 2023",United States,$223.12,Mid Market,true
+CUST-1369,PRIYA weber,priya.weber@example.com,30 Jan 2025,france,USD 520.86,Enterprise,true
+CUST-1620,Yuki Lindqvist,yuki.lindqvist@mail.test,-999,United Kingdom,114,consumer,0
+CUST-00001316,ana PATEL,ana.patel@mail.test,02/21/2023,United Kingdom,220,Small Business,1
+CUST-1929,ravi Costa,ravi.costa@mail.test,30 Apr 2025,Brazil,$85.25,SMB ,false
+CUST-1161, Aisha Kowalski,Aisha[at]example.com,"May 16, 2023",u.s.,N/A,Consumer,Y
+CUST-1319,ana haddad,ana.haddad@mail.test,28.05.2023,United Kingdom,USD 361.07,midmarket,FALSE
+CUST-1063,PRIYA ODWYER,priya.odwyer@corp.example,04/28/2025,Brazil,137.74,Mid-Market,1
+CUST-1464,Grace Kowalski,grace.kowalski@corp.example,2 Aug 2024,GB,255.48,Mid-Market,FALSE
+CUST-1831,ana haddad  ,ana.haddad@mail.test,-,GB,$1342.36,ENT,no
+CUST-1593,jonas Nguyen,jonas.nguyen@mail.test,01/10/2025,usa,204.94,smb,1
+CUST-00001088,Leilani ODWYER,leilani.odwyer@corp.example,2023-09-06,uk,"1,007",Consumer,0
+CUST-00001149,Noor Nguyen,noor.nguyen@mail.test,2024-05-11,u.s.,195,ENT,TRUE
+CUST-00001549, jonas Ferrari,jonas[at]example.com,12.11.2023,BR,USD 140.44,consumer,false
+CUST-1340,jonas okafor,jonas.okafor@example.com,28.11.2024,GB,314.01,SMB ,no
+CUST-00001050,Marcus weber,marcus.weber@example.com,08/03/2023,Germany,USD 119.97,SMB ,no
+CUST-1022,Leilani PATEL,leilani.patel@mail.test,2023-07-20,DE,244,Mid Market,Y
+CUST-1829,PRIYA Ferrari,priya.ferrari@corp.example,01.07.2024,france,$170.41,Mid-Market,0
+CUST-00001243,PRIYA da silva,priya.dasilva@mail.test,2023-08-07,Brazil,$293.13,enterprise,FALSE
+CUST-1182,ravi Kowalski,ravi.kowalski@example.com,1 Oct 2023,DE,$475.35,Enterprise,N
+CUST-00001604,jonas Ferrari,jonas.ferrari@corp.example,2023-12-31,germany,$653.85,Consumer,0
+CUST-00001288, PRIYA PATEL,priya.patel@example.com,26 Apr 2024,BR,250.4,Mid-Market,1
+CUST-00001853,Sofia ODWYER,sofia.odwyer@mail.test,2023-04-04,United Kingdom,295,Mid Market,0
+CUST-1037, MIKAEL ODWYER ,MIKAEL.ODWYER@CORP.EXAMPLE,04/18/2023,Brazil,USD 189.88,mid-market,0
+CUST-00001614,Leilani Brennan,leilani.brennan@example.com,2023-11-09,GB,USD 287.4,Mid-Market,Y
+CUST-1504,tomás Nguyen,toms.nguyen@mail.test,19.11.2024,GB,657,smb,FALSE
+CUST-00001266,Mikael Costa,mikael.costa@mail.test,NULL,germany,$479.26,Mid-Market,TRUE
+CUST-1755,jonas haddad,jonas.haddad@corp.example,29.03.2023,US,14062,smb,false
+CUST-1138, Chen weber,chen.weber@example.com,none,US,112.64,Mid Market,TRUE
+CUST-1881,Sofia Nguyen,sofia.nguyen@mail.test,05/08/2025,uk,$311.18,Mid-Market,N
+CUST-1844,Marcus Costa,marcus.costa@example.com,8 Dec 2023,United States,7101,enterprise,N
+CUST-1404,jonas da silva,,08/09/2024,Brazil,267.79,midmarket,yes
+CUST-00001767,Chen Nakamura,chen.nakamura@corp.example,31.08.2023,france,USD 1039.6,enterprise,false
+CUST-00001375,ana Nakamura,ana.nakamura@mail.test,2025-01-30,germany,N/A,Small Business,FALSE
+CUST-1128,Yuki da silva  ,yuki.dasilva@mail.test,02/23/2025,usa,117.83,consumer,false
+CUST-1774,omar da silva  ,omar.dasilva@example.com,04/24/2025,Brazil,75825,ENT,1
+CUST-00001631,ana weber,ana.weber@example.com,24 Dec 2024,Brazil,USD 126.25,smb,true
+CUST-00001363, Sofia ODWYER,sofia.odwyer@mail.test,06/17/2024,United Kingdom,$616.45,Small Business,1
+CUST-1343,Leilani weber  ,leilani.weber@corp.example,2024-05-24,france,NULL,Consumer,N
+CUST-1159,ravi Nguyen,ravi.nguyen@example.com,04/30/2023,United Kingdom,214.57,consumer,N
+CUST-1003, Yuki Nakamura,Yuki <Yuki@example.com>,2024-05-08,germany,82.23,consumer,TRUE
+CUST-1154,Mikael ODWYER,mikael.odwyer@example.com,19 Jun 2025,Brazil,"4,161",SMB ,no
+CUST-1886,Grace ODWYER,grace.odwyer@corp.example,12/23/2024,BR,USD 119.08,SMB ,false
+CUST-1607,Aisha da silva,aisha.dasilva@example.com,2023-02-13,Germany,214.17,ENT,true
+CUST-00001227,Yuki weber,yuki.weber@corp.example,14.09.2024,US,$39.19,enterprise,FALSE
+CUST-1686,Aisha ODWYER,aisha.odwyer@mail.test,N/A,BR,29702,enterprise,Y
+CUST-1066,Leilani Nakamura,leilani.nakamura@mail.test,2023-07-13,Brazil,457.05,Small Business,N
+CUST-1472,Yuki Ferrari,yuki.ferrari@mail.test,09/21/2023,DE,23784,Mid-Market,Y
+CUST-00001471, PRIYA LINDQVIST ,PRIYA.LINDQVIST@MAIL.TEST,"Dec 29, 2023",france,16393,smb,false
+CUST-00001223,Aisha ODWYER,aisha.odwyer@mail.test,15 Dec 2024,u.s.,459,Enterprise,Y
+CUST-1791,PRIYA okafor,priya.okafor@mail.test,"Jul 23, 2023",germany,338.63,Mid-Market,1
+CUST-1584, NOOR KOWALSKI ,NOOR.KOWALSKI@CORP.EXAMPLE,"Jan 7, 2023",DE,$357.33,enterprise,yes
+CUST-1135,Marcus ODWYER,marcus.odwyer@example.com,1 Mar 2025,FR,$27.9,midmarket,FALSE
+CUST-00001827,PRIYA weber  ,PRIYA[at]example.com,2025-02-15,BR,183.87,Small Business,1
+CUST-1327,Noor Nguyen,noor.nguyen@corp.example,2 Nov 2024,United Kingdom,162,Small Business,FALSE
+CUST-1603,Marcus Nakamura,marcus.nakamura@example.com,01/31/2023,u.s.,58,Small Business,no
+CUST-1313, Chen haddad,chen.haddad@corp.example,,u.s.,56.72,Small Business,N
+CUST-1357,Sofia okafor,Sofia <Sofia@example.com>,08/09/2024,france,$86.26,Enterprise,0
+CUST-00001758,ana Brennan,ana.brennan@corp.example,03/27/2025,germany,"1,476",Consumer,yes
+CUST-00001283,Yuki Nguyen  ,yuki.nguyen@corp.example,2025-03-21,germany,29156,midmarket,N
+CUST-00001104, OMAR WEBER ,OMAR.WEBER@CORP.EXAMPLE,2023-11-19,Germany,$268.81,midmarket,Y
+CUST-00001382,Grace Ferrari,grace.ferrari@corp.example,2025-02-24,United States,26508,Small Business,N
+CUST-00001346,Leilani Kowalski,leilani.kowalski@example.com,9 Oct 2023,DE,30356,Enterprise,yes
+CUST-1574,Chen Nguyen,chen.nguyen@example.com,07/27/2023,usa,$430.12,ENT,0
+CUST-1629,jonas Nguyen,jonas.nguyen@corp.example,15.05.2023,Germany,117,SMB ,false
+CUST-00001440, jonas weber,jonas.weber@example.com,2023-07-27,u.s.,50608,consumer,TRUE
+CUST-00001709,Aisha PATEL,aisha.patel@example.com,2023-09-28,uk,332.69,SMB ,FALSE
+CUST-1291,Grace Ferrari,grace.ferrari@mail.test,2 Dec 2024,BR,184.64,Consumer,Y
+CUST-1601,ana Ferrari,ana.ferrari@example.com,11.02.2024,france,$150.89,ENT,no
+CUST-00001420, Noor PATEL,noor.patel@mail.test,"Jan 15, 2025",US,USD 316.09,Mid Market,TRUE
+CUST-1039, OMAR COSTA ,OMAR.COSTA@MAIL.TEST,06.03.2024,FR,USD 76.77,ent,false
+CUST-1596, jonas Nguyen,jonas.nguyen@corp.example,2025-03-29,usa,$61.14,consumer,0
+CUST-1296,jonas Ferrari,jonas.ferrari@mail.test,"Jul 14, 2024",Germany,$79.44,Enterprise,TRUE
+CUST-00001238, ravi Lindqvist,ravi.lindqvist@corp.example,"Jul 13, 2023",US,$119.23,SMB ,true
+CUST-1639, PRIYA NAKAMURA ,PRIYA[AT]EXAMPLE.COM,"May 26, 2025",france,175.53,enterprise,TRUE
+CUST-1936,Noor Nakamura,noor.nakamura@example.com,"May 18, 2024",United Kingdom,$143.43,Mid Market,false
+CUST-1026,Chen weber,chen.weber@corp.example,-,Brazil,-999,midmarket,Y
+CUST-00001038,PRIYA weber,priya.weber@mail.test,2024-05-17,GB,990,Enterprise,TRUE
+CUST-1813,Yuki Kowalski,yuki.kowalski@example.com,"Aug 9, 2024",france,124.34,Enterprise,yes
+CUST-00001835,Mikael da silva,mikael.dasilva@example.com,4 Dec 2023,Brazil,161.16,midmarket,no
+CUST-00001598,ana Lindqvist,ana.lindqvist@example.com,24.05.2023,US,$347.58,ENT,true
+CUST-00001862,Leilani Costa,Leilani@@example..com,-,FR,160,midmarket,yes
+CUST-00001438,Sofia Lindqvist  ,sofia.lindqvist@mail.test,"Dec 20, 2023",US,159.53,enterprise,false
+CUST-1190,omar Nakamura,omar.nakamura@mail.test,-999,germany,$97.94,smb,yes
+CUST-1933, Noor okafor,noor.okafor@mail.test,15 Sep 2024,uk,USD 289.61,Mid Market,1
+CUST-1535, Mikael Brennan,mikael.brennan@example.com,"Oct 9, 2023",United States,$226.5,consumer,0
+CUST-1103,Chen weber,chen.weber@example.com,25 Feb 2025,uk,USD 451.12,Enterprise,1
+CUST-1523,Grace Nguyen,grace.nguyen@example.com,07/16/2024,u.s.,19.14,Enterprise,true
+CUST-1181,Leilani PATEL,leilani.patel@example.com,01.07.2024,france,$386.91,midmarket,N
+CUST-1021,PRIYA da silva,priya.dasilva@mail.test,2 Mar 2023,BR,15220,Small Business,true
+CUST-1587,Sofia Kowalski,sofia.kowalski@example.com,08/28/2024,United Kingdom,309,Small Business,yes
+CUST-00001118,jonas da silva  ,jonas.dasilva@mail.test,2023-06-21,US,USD 96.97,Enterprise,TRUE
+CUST-00001331,Grace Nguyen,grace.nguyen@corp.example,2024-03-22,u.s.,355.27,SMB ,N
+CUST-00001558,Mikael ODWYER,Mikael <Mikael@example.com>,05/20/2023,US,510.11,Small Business,1
+CUST-1911,tomás Costa,toms.costa@example.com,N/A,US,246,midmarket,Y
+CUST-1918,PRIYA da silva,priya.dasilva@corp.example,05.02.2024,germany,$409.21,enterprise,false
+CUST-1514,tomás Nakamura,toms.nakamura@mail.test,2023-10-29,GB,674,consumer,no
+CUST-00001664,ana Nguyen,ana.nguyen@mail.test,2 Sep 2023,Brazil,147.54,smb,FALSE
+CUST-1825, Noor Nakamura,noor.nakamura@corp.example,09.07.2024,United States,652.96,ENT,TRUE
+CUST-1477,Noor da silva,noor.dasilva@mail.test,18 Dec 2023,BR,USD 27.66,SMB ,1
+CUST-1286,tomás Kowalski,toms.kowalski@mail.test,03/08/2025,u.s.,647,smb,no
+CUST-1857,tomás PATEL,toms.patel@corp.example,29.04.2025,france,77,ENT,1
+CUST-1786, ravi Costa  ,ravi.costa@example.com,2023-08-06,u.s.,334.51,midmarket,true
+CUST-1935,Leilani Lindqvist,leilani.lindqvist@mail.test,08/28/2024,FR,8469,Consumer,N
+CUST-1660,omar ODWYER,omar.odwyer@example.com,4 Sep 2023,DE,92,ENT,FALSE
+CUST-1379,ravi Kowalski,ravi.kowalski@mail.test,20.03.2024,usa,18155,ENT,Y
+CUST-1380,Leilani Ferrari,,2 Mar 2025,usa,102.74,Mid Market,FALSE
+CUST-1186,omar da silva,omar.dasilva@mail.test,19 Jun 2025,United States,n/a,smb,no
+CUST-1870,Noor Kowalski,noor.kowalski@corp.example,11/09/2024,u.s.,15270,Enterprise,TRUE
+CUST-1721, MIKAEL OKAFOR ,MIKAEL.OKAFOR@MAIL.TEST,2023-11-30,United States,$137.67,smb,N
+CUST-1368, tomás Ferrari,toms.ferrari@example.com,"Apr 18, 2025",BR,129.31,Mid Market,no
+CUST-00001738,omar ODWYER,omar.odwyer@corp.example,06.07.2023,FR,376.39,ENT,yes
+CUST-1222,Yuki da silva,yuki.dasilva@corp.example,15 Feb 2023,usa,346,midmarket,true
+CUST-1250,jonas Costa,,n/a,france,$536.8,Enterprise,false
+CUST-1136,Leilani Nakamura,,03.02.2024,france,209.44,Mid Market,N
+CUST-1796,Marcus da silva,marcus.dasilva@example.com,"Sep 1, 2023",US,$986.75,smb,N
+CUST-00001793, PRIYA OKAFOR ,PRIYA.OKAFOR@CORP.EXAMPLE,02.08.2024,france,284,consumer,true
+CUST-1562,Leilani PATEL,leilani.patel@example.com,29.04.2025,u.s.,USD 85.7,SMB ,TRUE
+CUST-1308,jonas Kowalski  ,jonas.kowalski@corp.example,27.02.2023,usa,228,ENT,1
+CUST-1453,Yuki Kowalski,yuki.kowalski@example.com,2023-08-15,United States,16832,Mid Market,true
+CUST-1876,ana Costa,ana.costa@corp.example,2024-04-05,DE,191,Consumer,Y
+CUST-1646, Aisha haddad,aisha.haddad@example.com,07/10/2024,france,USD 643.33,smb,true
+CUST-1203,Aisha Costa,aisha.costa@corp.example,03.03.2023,DE,$289.09,enterprise,yes
+CUST-1826,Sofia Brennan,Sofia[at]example.com,8 May 2024,GB,258.2,Mid Market,FALSE
+CUST-1713,Chen ODWYER,chen.odwyer@example.com,02/08/2024,United States,22396,ENT,TRUE
+CUST-00001397, RAVI COSTA ,RAVI.COSTA@CORP.EXAMPLE,14.07.2024,Brazil,$442.66,consumer,FALSE
+CUST-1143,Marcus haddad,marcus.haddad@example.com,08/23/2024,DE,$111.65,Small Business,yes
+CUST-1301,Yuki okafor,yuki.okafor@example.com,03/29/2025,DE,128.16,smb,yes
+CUST-1268,PRIYA Nguyen,priya.nguyen@corp.example,18.03.2025,US,USD 68.11,Mid-Market,1
+CUST-1691,Aisha Nakamura,Aisha@@example..com,04/20/2024,france,$148.47,Enterprise,false
+CUST-1788,omar Ferrari,omar.ferrari@corp.example,02/18/2023,United States,17282,Consumer,yes
+CUST-00001376,omar okafor,omar.okafor@corp.example,"Aug 12, 2024",DE,511.99,SMB ,false
+CUST-00001309,ravi ODWYER,ravi.odwyer@example.com,21.11.2023,DE,$59.33,Mid Market,false
+CUST-1338,Yuki Costa,yuki.costa@mail.test,29.08.2023,GB,USD 108.03,Consumer,1
+CUST-1641,Marcus Brennan,marcus.brennan@example.com,2024-10-14,uk,11474,smb,N
+CUST-00001810,Mikael Brennan,mikael.brennan@mail.test,"Jul 12, 2024",Germany,$194.62,smb,false
+CUST-1792,ana da silva,ana.dasilva@example.com,4 Feb 2023,FR,USD 214.85,Mid-Market,1
+CUST-1058,Leilani da silva,leilani.dasilva@example.com,16 Apr 2024,United Kingdom,USD 105.91,Small Business,Y
+CUST-00001729,tomás PATEL,toms.patel@mail.test,04/06/2023,GB,$136.22,ENT,0
+CUST-1710, ANA OKAFOR ,ANA.OKAFOR@CORP.EXAMPLE,04.02.2024,u.s.,n/a,midmarket,Y
+CUST-1583,Grace Kowalski,grace.kowalski@corp.example,N/A,Germany,USD 93.84,smb,FALSE
+CUST-1498,Mikael Ferrari,mikael.ferrari@mail.test,28 Aug 2023,GB,443.94,Mid Market,yes
+CUST-1255,ana PATEL,ana.patel@corp.example,"Jun 24, 2024",u.s.,64.09,Small Business,0
+CUST-00001155,Sofia Kowalski,sofia.kowalski@corp.example,10/13/2024,DE,48092,ENT,TRUE
+CUST-00001799,Aisha Brennan,Aisha <Aisha@example.com>,3 Feb 2023,BR,USD 864.54,consumer,TRUE
+CUST-00001167,ana Nakamura,ana@@example..com,04.10.2023,usa,1159.16,Mid Market,no
+CUST-1060, Aisha Ferrari  ,aisha.ferrari@mail.test,"May 9, 2023",usa,$316.12,enterprise,true
+CUST-00001529,Marcus okafor,marcus.okafor@example.com,2024-03-07,usa,114,enterprise,false
+CUST-00001156,Leilani weber,leilani.weber@example.com,2023-03-12,france,8172,enterprise,FALSE
+CUST-00001945,Grace Nguyen,grace.nguyen@example.com,2024-08-22,u.s.,167,smb,1
+CUST-1924,Mikael Kowalski,mikael.kowalski@corp.example,1 Apr 2023,france,$124.31,Mid-Market,no
+CUST-00001838,Yuki haddad  ,yuki.haddad@corp.example,04.06.2025,DE,20511,enterprise,1
+CUST-1710,ana okafor,ana.okafor@corp.example,04.02.2024,u.s.,n/a,midmarket,Y
+CUST-1926,ravi Brennan,ravi.brennan@example.com,05/29/2024,US,USD 102.8,Consumer,1
+CUST-1025,ravi Nguyen  ,ravi.nguyen@mail.test,04/06/2024,Germany,772,Enterprise,false
+CUST-00001513, omar Kowalski,omar.kowalski@corp.example,1 Mar 2025,US,n/a,ENT,0
+CUST-1661,Mikael Ferrari,,12/09/2023,Germany,499.9,midmarket,Y
+CUST-1771,ravi ODWYER,ravi <ravi@example.com>,10/31/2023,GB,8720,Small Business,FALSE
+CUST-1546,Grace okafor,grace.okafor@example.com,17 Mar 2025,DE,USD 125.34,SMB ,TRUE
+CUST-1503,Grace Costa  ,grace.costa@corp.example,02/15/2024,Brazil,USD 204.69,ENT,false
+CUST-1090, Grace Nguyen,grace.nguyen@example.com,27 Apr 2023,DE,732,midmarket,Y
+CUST-1902,Noor Nakamura,Noor[at]example.com,06/09/2025,Germany,$69.95,enterprise,1
+CUST-1856, Noor da silva,noor.dasilva@mail.test,01/07/2024,United Kingdom,396.67,Mid Market,true
+CUST-1121,Grace weber,grace.weber@corp.example,"Dec 17, 2024",DE,USD 176.43,midmarket,Y
+CUST-1715,omar Kowalski,omar.kowalski@corp.example,01/29/2023,Germany,4199,ENT,1
+CUST-00001302, Sofia haddad,Sofia@@example..com,05/24/2024,Brazil,USD 96.28,SMB ,yes
+CUST-1715, OMAR KOWALSKI ,OMAR.KOWALSKI@CORP.EXAMPLE,01/29/2023,Germany,4199,ent,1
+CUST-1081,tomás weber,toms.weber@mail.test,08/20/2023,Brazil,USD 366.3,Mid-Market,Y
+CUST-1015,Grace weber,grace.weber@mail.test,23.11.2024,u.s.,$431.66,midmarket,yes
+CUST-1247, Marcus Ferrari,marcus.ferrari@mail.test,04/18/2023,GB,USD 1241.79,Mid-Market,no
+CUST-1616,Chen Nguyen,chen.nguyen@example.com,2025-06-16,uk,552.57,ENT,no
+CUST-00001273, Grace Ferrari,grace.ferrari@mail.test,"Apr 19, 2025",u.s.,238.7,Small Business,FALSE
+CUST-1677,ana weber,ana.weber@corp.example,25 Aug 2023,u.s.,USD 181.15,ENT,FALSE
+CUST-00001623,Mikael Nakamura,mikael.nakamura@corp.example,30.11.2023,germany,340.89,Enterprise,0
+CUST-00001550,tomás Ferrari,toms.ferrari@example.com,"Nov 23, 2023",germany,USD 201.96,Mid Market,yes
+CUST-1188,Chen da silva,chen.dasilva@example.com,5 Jan 2023,Germany,USD 594.22,SMB ,N
+CUST-1253,Mikael haddad,mikael.haddad@corp.example,10/09/2024,BR,184.8,ENT,yes
+CUST-1671,Mikael okafor,mikael.okafor@example.com,"Feb 8, 2025",uk,66.55,Small Business,N
+CUST-00001801,Yuki da silva,,23 Feb 2023,germany,USD 364.92,Consumer,no
+CUST-1415, Aisha ODWYER  ,aisha.odwyer@mail.test,2023-09-12,United States,227.52,midmarket,Y
+CUST-1252,tomás ODWYER,toms.odwyer@example.com,14.03.2024,Brazil,513.32,SMB ,true
+CUST-1704,Yuki Brennan  ,yuki.brennan@corp.example,2023-02-12,BR,USD 214.56,Small Business,Y
+CUST-1573,Noor okafor,noor.okafor@corp.example,-,DE,USD 161.72,ENT,N
+CUST-1483, tomás haddad,tomás[at]example.com,12/01/2024,United Kingdom,$384.65,enterprise,true
+CUST-1093, jonas ODWYER,jonas.odwyer@mail.test,03.05.2024,United Kingdom,178.09,Mid Market,false
+CUST-1282, Mikael weber,mikael.weber@example.com,"Jul 12, 2024",usa,31,Mid-Market,0
+CUST-1705,omar Brennan  ,omar.brennan@example.com,2023-01-20,FR,$35.7,midmarket,N
+CUST-00001105,PRIYA Lindqvist,priya.lindqvist@corp.example,2023-08-18,DE,706.13,smb,true
+CUST-00001235,Mikael Nguyen,mikael.nguyen@corp.example,18.12.2023,DE,118.7,SMB ,yes
+CUST-1823,Mikael weber,mikael.weber@example.com,2024-09-13,FR,$1829.96,Enterprise,no
+CUST-1325,tomás da silva,toms.dasilva@mail.test,2023-12-14,BR,335.01,SMB ,1
+CUST-00001735,Leilani da silva,leilani.dasilva@example.com,07.03.2023,DE,USD 210.64,smb,yes
+CUST-00001476, TOMÁS OKAFOR ,TOMS.OKAFOR@EXAMPLE.COM,11 Jul 2023,Brazil,$393.42,mid market,0
+CUST-1606,Yuki PATEL,yuki.patel@corp.example,15.03.2023,france,$178.87,Mid Market,true
+CUST-00001954,Mikael Nguyen,mikael.nguyen@corp.example,10/17/2024,u.s.,N/A,consumer,no
+CUST-1145,Aisha Kowalski,aisha.kowalski@example.com,27.09.2024,france,USD 128.49,ENT,N
+CUST-1651,jonas Kowalski,jonas.kowalski@mail.test,"Oct 13, 2023",BR,173.91,Consumer,false
+CUST-00001753,ravi Lindqvist  ,ravi.lindqvist@corp.example,2023-04-28,BR,33322,SMB ,FALSE
+CUST-1265, tomás weber,toms.weber@mail.test,"May 6, 2024",GB,404,ENT,true
+CUST-00001617, tomás haddad,toms.haddad@example.com,08.06.2025,germany,$103.44,ENT,N
+CUST-1850,PRIYA haddad  ,priya.haddad@corp.example,02.05.2023,usa,$219.12,smb,1
+CUST-1765,Grace okafor,grace.okafor@example.com,04/12/2024,United Kingdom,$104.78,consumer,FALSE
+CUST-1581, PRIYA Kowalski,priya.kowalski@example.com,10 May 2023,United Kingdom,$123.79,Mid-Market,Y
+CUST-1048,Leilani Lindqvist,leilani.lindqvist@mail.test,17 Jul 2023,US,187.82,midmarket,no
+CUST-00001157, ravi Nguyen,ravi.nguyen@corp.example,2023-03-23,Brazil,USD 100.44,ENT,Y
+CUST-1078, Grace Lindqvist,grace.lindqvist@corp.example,"Jul 9, 2023",GB,$197.87,enterprise,FALSE
+CUST-1259,Grace Lindqvist,grace.lindqvist@corp.example,01/21/2024,United States,80.7,midmarket,false
+CUST-1212, ravi haddad,ravi.haddad@example.com,03/30/2025,Brazil,177.11,Consumer,true
+CUST-1430,jonas Kowalski,jonas.kowalski@mail.test,2025-01-14,u.s.,$99.25,Mid-Market,Y
+CUST-1320,ana PATEL,ana.patel@corp.example,06/25/2023,DE,243.23,enterprise,FALSE
+CUST-1584,Noor Kowalski,noor.kowalski@corp.example,"Jan 7, 2023",DE,$357.33,enterprise,yes
+CUST-1674,Grace Nakamura,grace.nakamura@mail.test,17.05.2023,United States,"1,058",midmarket,false
+CUST-1484,Yuki weber  ,yuki.weber@mail.test,2024-07-28,DE,1396.98,smb,true
+CUST-1778,Noor Kowalski,noor.kowalski@mail.test,"Jan 7, 2024",BR,60600,consumer,false
+CUST-1144,tomás Kowalski,toms.kowalski@corp.example,22.02.2025,United States,24987,Enterprise,0
+CUST-1388,Noor Brennan  ,noor.brennan@corp.example,07/21/2023,u.s.,64607,enterprise,Y
+CUST-00001302, SOFIA HADDAD ,SOFIA@@EXAMPLE..COM,05/24/2024,Brazil,USD 96.28,smb,yes
+CUST-1391, NOOR OKAFOR ,NOOR.OKAFOR@EXAMPLE.COM,13 Jul 2024,uk,$48.17,enterprise,no
+CUST-00001669,Leilani Brennan,leilani.brennan@mail.test,2025-03-13,DE,$39.82,ENT,TRUE
+CUST-1414,Chen PATEL,chen.patel@example.com,31.03.2024,Brazil,$531.27,SMB ,TRUE
+CUST-1824,jonas weber,jonas.weber@mail.test,"May 19, 2024",france,none,SMB ,true
+CUST-00001246,Mikael Costa,mikael.costa@mail.test,03/31/2024,germany,$108.79,Small Business,TRUE
+CUST-00001307,Grace Lindqvist,grace.lindqvist@corp.example,"Sep 21, 2024",france,825.05,Enterprise,Y
+CUST-1200,Grace Nguyen,grace.nguyen@corp.example,22.12.2024,france,141.88,midmarket,N
+CUST-1014, Aisha Costa,aisha.costa@corp.example,"Apr 22, 2025",US,41226,ENT,true
+CUST-1578,Chen Lindqvist,chen.lindqvist@corp.example,16 Apr 2023,usa,USD 169.84,Mid-Market,yes
+CUST-1814,PRIYA weber,priya.weber@corp.example,12/24/2023,germany,34202,Consumer,true
+CUST-1389,omar Nakamura,omar.nakamura@mail.test,2024-08-11,uk,NULL,Consumer,Y
+CUST-1405,Aisha ODWYER,aisha.odwyer@mail.test,2024-03-09,usa,$398.82,consumer,TRUE
+CUST-1636,ravi ODWYER,ravi.odwyer@mail.test,"Jan 1, 2023",US,60,Small Business,FALSE
+CUST-1443,ravi Nguyen,ravi.nguyen@mail.test,"Jun 16, 2024",GB,NULL,enterprise,no
+CUST-1202,ana da silva  ,ana.dasilva@example.com,03.03.2024,Brazil,84.45,Mid Market,FALSE
+CUST-1486, PRIYA Costa,priya.costa@example.com,11.04.2024,Germany,27781,smb,Y
+CUST-00001948,omar Lindqvist,omar.lindqvist@mail.test,28 Apr 2024,DE,177,Enterprise,yes
+CUST-00001585,Chen PATEL,chen.patel@corp.example,2024-02-15,france,USD 124.02,Mid Market,1
+CUST-00001698, ana Ferrari  ,,21.04.2025,United Kingdom,USD 1569.13,Mid-Market,true
+CUST-1251, PRIYA Nakamura,priya.nakamura@example.com,01/08/2025,germany,781,Enterprise,0
+CUST-00001471,PRIYA Lindqvist,priya.lindqvist@mail.test,"Dec 29, 2023",france,16393,smb,false
+CUST-1518,Marcus okafor,marcus.okafor@corp.example,13.03.2023,BR,130.82,Consumer,FALSE
+CUST-00001330,Yuki Kowalski,yuki.kowalski@mail.test,05/09/2023,GB,214,Small Business,TRUE
+CUST-1347,Aisha haddad  ,aisha.haddad@corp.example,"Mar 20, 2023",Brazil,USD 39.34,Consumer,TRUE
+CUST-1313, CHEN HADDAD ,CHEN.HADDAD@CORP.EXAMPLE,,u.s.,56.72,small business,N
+CUST-00001537,Aisha Ferrari,aisha.ferrari@example.com,15.07.2024,Brazil,USD 261.97,ENT,true
+CUST-1542,ravi weber,ravi@@example..com,24.08.2024,United States,-999,Mid-Market,yes
+CUST-1158,Yuki weber,yuki.weber@corp.example,07/11/2023,United Kingdom,105,enterprise,TRUE
+CUST-1869,Mikael Nguyen,mikael.nguyen@example.com,03/05/2023,uk,108798,smb,1
+CUST-1044, jonas Ferrari,jonas.ferrari@corp.example,4 May 2024,FR,487,enterprise,yes
+CUST-1229, tomás Brennan,toms.brennan@example.com,28.01.2023,United States,USD 159.68,consumer,N
+CUST-00001576, Chen Lindqvist,chen.lindqvist@example.com,03/22/2023,United States,148,Mid-Market,TRUE
+CUST-1893,jonas Nguyen,jonas.nguyen@example.com,"Jun 30, 2023",GB,205.11,smb,false
+CUST-1867,Marcus da silva,marcus.dasilva@corp.example,28 Oct 2024,usa,USD 17.03,midmarket,0
+CUST-1370,Grace Lindqvist,grace.lindqvist@example.com,05/07/2025,United Kingdom,378.54,SMB ,false
+CUST-1548,PRIYA Costa  ,priya.costa@corp.example,10/02/2024,US,5726,Mid Market,FALSE
+CUST-1930,Marcus da silva,marcus.dasilva@mail.test,"Jun 11, 2025",france,952,Mid Market,N
+CUST-00001365,Chen PATEL,chen.patel@mail.test,11.03.2024,uk,406,Small Business,yes
+CUST-00001422,ravi Kowalski,ravi.kowalski@example.com,"Aug 11, 2023",u.s.,220.18,Consumer,N
+CUST-1210,Noor ODWYER,noor.odwyer@mail.test,2024-03-21,u.s.,USD 166.04,smb,N
+CUST-1784,ana da silva,ana.dasilva@corp.example,2025-03-31,DE,USD 35.31,smb,N
+CUST-1312,PRIYA weber,PRIYA <PRIYA@example.com>,2023-11-12,france,40.56,Consumer,N
+CUST-00001032, Marcus Lindqvist  ,marcus.lindqvist@mail.test,02.09.2024,GB,$514.98,SMB ,yes
+CUST-1046,tomás okafor,toms.okafor@corp.example,04/19/2025,United States,6426,Small Business,false
+CUST-1468,omar okafor  ,omar.okafor@mail.test,18.04.2024,BR,14805,consumer,no
+CUST-00001647,Mikael okafor  ,,10.06.2024,GB,N/A,Enterprise,no
+CUST-1499,PRIYA Ferrari  ,priya.ferrari@corp.example,2 Feb 2024,US,,Consumer,false
+CUST-1318,Mikael Costa,mikael.costa@example.com,"Apr 28, 2024",US,291.92,Mid Market,yes
+CUST-1695,Grace da silva,grace.dasilva@example.com,8 Mar 2023,US,$85.97,enterprise,0
+CUST-00001925,ravi Kowalski,ravi.kowalski@example.com,2 Jun 2025,uk,357.91,smb,TRUE
+CUST-00001586,Noor PATEL,noor.patel@example.com,01/30/2025,Germany,27494,Mid-Market,false
+CUST-00001690,Yuki Nakamura,yuki.nakamura@example.com,2023-06-01,uk,379,Mid-Market,N
+CUST-1950,omar Brennan,omar.brennan@corp.example,2025-02-22,u.s.,164.25,Consumer,no
+CUST-1172,Leilani Ferrari,leilani.ferrari@corp.example,06.10.2024,US,236,consumer,FALSE
+CUST-1730,PRIYA Nakamura,priya.nakamura@mail.test,2024-05-27,germany,$73.85,Mid-Market,N
+CUST-1408,ravi haddad,ravi.haddad@corp.example,17 Nov 2024,Brazil,325,ENT,0
+CUST-00001556,ana Lindqvist,ana.lindqvist@mail.test,2024-12-15,United States,227.36,enterprise,N
+CUST-1367,Marcus Brennan,,3 Apr 2024,Germany,56,consumer,N
+CUST-00001254, ravi Nguyen,ravi.nguyen@example.com,"Jul 15, 2023",germany,173,Mid Market,Y
+CUST-00001638,ana Lindqvist,ana.lindqvist@mail.test,02/05/2023,US,105.23,Consumer,yes
+CUST-1416,Leilani Lindqvist,leilani.lindqvist@example.com,1 Nov 2023,uk,730,SMB ,yes
+CUST-00001109,PRIYA weber,priya.weber@example.com,2023-01-19,france,152.15,midmarket,1
+CUST-1511,Sofia ODWYER  ,sofia.odwyer@example.com,01.04.2024,GB,USD 347.92,midmarket,no
+CUST-1435,ravi haddad,ravi.haddad@example.com,2024-01-09,FR,$195.53,consumer,TRUE
+CUST-1649,Grace Nguyen,grace.nguyen@example.com,11/03/2023,Germany,780.15,SMB ,Y
+CUST-1909,Leilani Nakamura,leilani.nakamura@corp.example,01/28/2025,germany,none,ENT,true
+CUST-1040, MIKAEL BRENNAN ,MIKAEL.BRENNAN@MAIL.TEST,28 Sep 2024,FR,2787.22,mid market,FALSE
+CUST-1242,Grace haddad,grace.haddad@corp.example,14.06.2023,Germany,USD 351.46,consumer,TRUE
+CUST-1245,Sofia Costa,Sofia <Sofia@example.com>,"Apr 28, 2023",DE,461.76,consumer,Y
+CUST-1644,ravi Brennan,ravi.brennan@mail.test,2024-09-15,FR,N/A,Mid Market,0
+CUST-1165,Mikael okafor,mikael.okafor@mail.test,10/13/2023,usa,$79.63,Consumer,Y
+CUST-1195,Aisha weber,aisha.weber@example.com,29.10.2023,Germany,113.29,smb,1
+CUST-1892,jonas da silva,jonas.dasilva@mail.test,"Apr 19, 2025",GB,$79.55,SMB ,true
+CUST-1023, omar haddad  ,omar.haddad@mail.test,"Nov 10, 2024",Brazil,849,midmarket,TRUE
+CUST-1806,Marcus Lindqvist  ,marcus.lindqvist@example.com,20 Feb 2023,DE,$102.81,Enterprise,TRUE
+CUST-00001794,PRIYA Ferrari,priya.ferrari@example.com,04/25/2025,germany,78491,ENT,TRUE
+CUST-1009, Leilani da silva,leilani.dasilva@corp.example,28.03.2025,US,81,Consumer,FALSE
+CUST-00001785,Grace da silva,grace.dasilva@mail.test,"Sep 16, 2024",United States,93,smb,TRUE
+CUST-00001012,Grace Nakamura,grace.nakamura@corp.example,2023-01-04,u.s.,USD 291.47,ENT,true
+CUST-1114,Grace Kowalski,Grace[at]example.com,"Apr 16, 2025",FR,$191.17,Consumer,true
+CUST-1275,Leilani Ferrari,leilani.ferrari@corp.example,10 Aug 2023,uk,USD 156.02,Consumer,yes
+CUST-1213,Noor ODWYER  ,noor.odwyer@mail.test,01.01.2024,germany,USD 114.82,Consumer,true
+CUST-00001018,Yuki haddad,yuki.haddad@mail.test,"Jul 31, 2024",u.s.,n/a,midmarket,1
+CUST-1366,Chen Lindqvist,chen.lindqvist@corp.example,02/06/2024,US,656,Mid Market,Y
+CUST-1762,Yuki ODWYER,yuki.odwyer@example.com,"Dec 26, 2023",FR,243,Small Business,1
+CUST-1934, Yuki Nakamura,yuki.nakamura@corp.example,26 Apr 2025,Germany,USD 156.67,SMB ,N
+CUST-1524,ravi Costa,ravi.costa@example.com,11/29/2024,BR,$180.42,Consumer,Y
+CUST-1837,PRIYA Nguyen,priya.nguyen@corp.example,12.11.2023,United Kingdom,34025,midmarket,0
+CUST-1748,jonas Nakamura,jonas.nakamura@corp.example,24 Jun 2023,uk,USD 338.13,Small Business,0
+CUST-1113,Noor Nakamura,,"Jul 22, 2023",BR,$104.75,enterprise,no
+CUST-1539, Sofia Brennan,sofia.brennan@corp.example,10/25/2023,Germany,$128.32,SMB ,N
+CUST-00001505,ravi PATEL,ravi.patel@mail.test,none,Germany,323.86,smb,1
+CUST-1665,Chen Costa,chen.costa@mail.test,2024-08-30,uk,USD 141.69,smb,false
+CUST-00001718,ravi da silva  ,ravi <ravi@example.com>,25 May 2024,FR,17.9,Mid-Market,FALSE
+CUST-1632,Noor Lindqvist  ,noor.lindqvist@example.com,"May 31, 2023",uk,$167.24,midmarket,TRUE
+CUST-1839, Chen Kowalski,chen.kowalski@mail.test,2024-11-13,usa,252,smb,Y
+CUST-1756,Marcus Nakamura  ,marcus.nakamura@corp.example,01/18/2025,BR,36462,consumer,FALSE
+CUST-00001174,omar Brennan,omar.brennan@corp.example,05/01/2024,u.s.,241.56,smb,yes
+CUST-1736,Yuki haddad,yuki.haddad@example.com,6 Oct 2024,US,87,SMB ,yes
+CUST-1011,PRIYA da silva,priya.dasilva@example.com,"Oct 8, 2023",u.s.,137,smb,0
+CUST-00001215,Marcus Costa,marcus.costa@example.com,2025-05-16,United Kingdom,540,enterprise,Y
+CUST-1615, AISHA FERRARI ,AISHA.FERRARI@EXAMPLE.COM,2024-12-11,FR,77,ent,Y
+CUST-1719,ravi ODWYER,ravi.odwyer@mail.test,14.07.2023,germany,199,enterprise,yes
+CUST-1840, tomás weber,toms.weber@corp.example,"Jan 14, 2025",u.s.,USD 107.53,enterprise,TRUE
+CUST-1333,ana ODWYER,ana.odwyer@example.com,26.02.2023,FR,N/A,smb,FALSE
+CUST-1567,Leilani da silva,leilani.dasilva@example.com,31.08.2024,u.s.,$70.23,ENT,false
+CUST-1566,Yuki Lindqvist,,"Dec 6, 2023",DE,85593,SMB ,no
+CUST-1701,Sofia Nakamura,sofia.nakamura@mail.test,20.01.2024,GB,856,SMB ,no
+CUST-1526,Chen Ferrari,chen.ferrari@corp.example,02/07/2024,germany,USD 341.28,enterprise,0
+CUST-1659,ana haddad,ana.haddad@example.com,18 Mar 2025,United Kingdom,647,Mid-Market,N
+CUST-1469,Marcus Nguyen,marcus.nguyen@mail.test,"May 6, 2023",DE,n/a,SMB ,Y
+CUST-00001509,Leilani Kowalski,leilani.kowalski@corp.example,2025-05-22,US,265.75,enterprise,TRUE
+CUST-1622,tomás okafor,toms.okafor@corp.example,2023-11-21,Brazil,USD 85.23,SMB ,true
+CUST-00001681,Aisha okafor,Aisha@@example..com,15.07.2024,france,USD 121.02,enterprise,1
+CUST-1164,Mikael Nguyen,mikael.nguyen@corp.example,N/A,Germany,284,SMB ,0
+CUST-1360,Aisha Nguyen,aisha.nguyen@example.com,"Jan 9, 2023",US,358.7,ENT,FALSE
+CUST-1193,Grace weber,grace.weber@example.com,17.06.2025,US,417,Small Business,false
+CUST-00001139, omar weber,omar.weber@mail.test,2024-02-12,GB,$152.76,consumer,1
+CUST-00001042,Sofia Nakamura,sofia.nakamura@example.com,30.03.2025,france,9114,ENT,Y
+CUST-1795,Aisha okafor,aisha.okafor@mail.test,"Jun 18, 2023",Brazil,$212.37,Mid Market,FALSE
+CUST-1807,ana Brennan,ana.brennan@example.com,"Dec 14, 2023",uk,$715.23,enterprise,FALSE
+CUST-1887,Grace Nguyen,,27 Nov 2023,uk,$134.23,Mid-Market,no
+CUST-1456, Sofia Lindqvist,,"Dec 22, 2024",Brazil,-,Enterprise,false
+CUST-00001189,ravi Nakamura,ravi@@example..com,01.04.2023,BR,85.05,enterprise,no
+CUST-1905,Aisha Ferrari,aisha.ferrari@mail.test,"Sep 21, 2024",germany,42920,consumer,FALSE
+CUST-1183,Aisha ODWYER,aisha.odwyer@corp.example,02/24/2024,france,168.1,Enterprise,yes
+CUST-1518, MARCUS OKAFOR ,MARCUS.OKAFOR@CORP.EXAMPLE,13.03.2023,BR,130.82,consumer,FALSE
+CUST-00001095, ana weber,ana.weber@example.com,"May 21, 2024",Brazil,399.79,SMB ,no
+CUST-1890,Chen Kowalski,chen.kowalski@example.com,2025-05-05,BR,USD 85.47,SMB ,no
+CUST-1111, PRIYA weber,priya.weber@example.com,07.07.2024,United States,$364.88,enterprise,true
+CUST-1633,Mikael Costa,mikael.costa@corp.example,11/26/2023,GB,22857,enterprise,N
+CUST-1398,Grace haddad,grace.haddad@example.com,03/01/2023,Brazil,$484.31,enterprise,N
+CUST-1569,Mikael okafor,Mikael@@example..com,2025-03-07,u.s.,150,SMB ,true
+CUST-1760,omar Nakamura,omar <omar@example.com>,26 Sep 2023,United Kingdom,"1,317",midmarket,true
+CUST-1351,Chen Costa,chen.costa@corp.example,"Dec 4, 2023",germany,144,SMB ,no
+CUST-00001527,Sofia Nakamura,Sofia[at]example.com,20.07.2024,DE,$681.52,smb,FALSE
+CUST-00001560,Chen Nakamura  ,chen.nakamura@example.com,09/23/2024,United States,369,ENT,0
+CUST-00001554, ravi weber,ravi.weber@corp.example,23 Jul 2023,US,n/a,midmarket,no
+CUST-00001717,Sofia da silva,Sofia[at]example.com,04.10.2023,Germany,USD 136.74,enterprise,yes
+CUST-1465,Mikael Ferrari  ,mikael.ferrari@corp.example,2024-11-30,Germany,161.19,Mid-Market,TRUE
+CUST-1349,Noor Nakamura,noor.nakamura@mail.test,2024-09-04,United States,$72.38,midmarket,yes
+CUST-1490,Leilani Nakamura,leilani.nakamura@corp.example,23.10.2024,france,USD 831.89,enterprise,false
+CUST-1920,tomás Brennan,toms.brennan@corp.example,06.07.2024,BR,"2,092",SMB ,FALSE
+CUST-1299,Aisha PATEL,aisha.patel@mail.test,11/30/2024,Brazil,302,SMB ,no
+CUST-1889, Aisha haddad,aisha.haddad@example.com,"May 31, 2023",Brazil,16075,enterprise,yes
+CUST-1260,tomás PATEL,toms.patel@corp.example,10/23/2023,GB,50912,Mid Market,yes
+CUST-1803,omar Lindqvist,omar.lindqvist@example.com,"Apr 25, 2025",United Kingdom,$152.16,SMB ,yes
+CUST-1124,ravi Brennan,ravi.brennan@corp.example,08/07/2024,FR,39989,Mid Market,FALSE
+CUST-1522,Leilani haddad,leilani.haddad@corp.example,05.09.2024,Germany,USD 113.55,SMB ,false
+CUST-00001501,ravi Lindqvist  ,ravi.lindqvist@corp.example,"Jul 20, 2023",france,19443,Small Business,false
+CUST-1035, AISHA BRENNAN ,AISHA.BRENNAN@CORP.EXAMPLE,02/07/2024,United States,236,smb,FALSE
+CUST-1345,ravi okafor,ravi.okafor@mail.test,2024-06-19,france,528,Consumer,Y
+CUST-00001276,omar da silva  ,omar.dasilva@example.com,12.01.2023,DE,$123.39,Consumer,FALSE
+CUST-1239, tomás ODWYER,toms.odwyer@corp.example,"Sep 9, 2023",france,388,Consumer,FALSE
+CUST-1613,Noor Nguyen,noor.nguyen@corp.example,04/07/2024,Brazil,N/A,Enterprise,0
+CUST-1226,Sofia Nakamura,sofia.nakamura@mail.test,2025-04-21,Brazil,$226.11,midmarket,TRUE
+CUST-00001611,Leilani Ferrari,leilani.ferrari@example.com,23 Mar 2024,u.s.,166.9,smb,Y
+CUST-1727,Yuki Lindqvist,yuki.lindqvist@example.com,26 Oct 2024,BR,9356,smb,N
+CUST-1214, omar weber,omar.weber@mail.test,9 Mar 2024,FR,62538,midmarket,yes
+CUST-1898,ana weber,ana.weber@corp.example,"Aug 17, 2023",United States,$68.43,Mid-Market,0
+CUST-1516,Aisha Costa,aisha.costa@mail.test,13 Jun 2023,Germany,$133.84,smb,true
+CUST-1029,PRIYA Nguyen,priya.nguyen@mail.test,"Jan 14, 2024",BR,USD 282.84,consumer,0
+CUST-1314,Sofia Nakamura,sofia.nakamura@example.com,"Mar 28, 2024",US,41543,SMB ,TRUE
+CUST-1391,Noor okafor,noor.okafor@example.com,13 Jul 2024,uk,$48.17,Enterprise,no
+CUST-00001407,ravi da silva,ravi.dasilva@example.com,07.12.2023,BR,522,Consumer,1
+CUST-1609,jonas okafor  ,jonas.okafor@corp.example,10/17/2023,DE,NULL,SMB ,false
+CUST-1944,Noor weber,noor.weber@example.com,16.11.2023,u.s.,$617.1,Mid-Market,false
+CUST-1687,jonas Nguyen  ,jonas.nguyen@corp.example,06.07.2024,BR,$59.23,smb,true
+CUST-00001804,Grace Lindqvist,,"Apr 24, 2024",DE,N/A,midmarket,TRUE
+CUST-1216,Sofia okafor,sofia.okafor@mail.test,09/26/2024,uk,48,midmarket,TRUE
+CUST-1830,Marcus PATEL,marcus.patel@mail.test,2 Apr 2023,u.s.,262.67,Mid-Market,TRUE
+CUST-1177,ravi Kowalski,ravi.kowalski@mail.test,26.12.2023,GB,198,consumer,no
+CUST-1315,Aisha Brennan  ,aisha.brennan@mail.test,2023-06-04,Brazil,$118.53,Enterprise,false
+CUST-00001323,Noor Ferrari,noor.ferrari@example.com,2023-07-27,FR,NULL,consumer,0
+CUST-00001916,Yuki Brennan  ,yuki.brennan@corp.example,"Jun 19, 2024",Germany,274.11,Enterprise,0
+CUST-1873,tomás Nakamura,toms.nakamura@corp.example,16.07.2023,DE,$355.78,Mid Market,true
+CUST-1772, Noor haddad,noor.haddad@example.com,23 Aug 2024,usa,659.43,ENT,0
+CUST-1262, Aisha haddad,aisha.haddad@mail.test,2024-06-17,Germany,11603,Mid Market,0
+CUST-1462,Sofia da silva,sofia.dasilva@corp.example,"Jan 14, 2023",germany,15492,consumer,no
+CUST-00001137, Yuki PATEL,,05/04/2024,Germany,273.58,ENT,0
+CUST-1866,Grace Brennan,grace.brennan@mail.test,"Jun 19, 2025",United States,$276.94,midmarket,0
+CUST-1808,Mikael Ferrari,mikael.ferrari@mail.test,-,FR,$352.34,smb,yes
+CUST-1482,Noor Lindqvist,noor.lindqvist@corp.example,5 Feb 2025,u.s.,$509.13,Enterprise,1
+CUST-1080,ravi Nakamura,ravi.nakamura@corp.example,16 Nov 2023,usa,USD 721.73,Mid-Market,0
+CUST-1493, ravi da silva  ,ravi.dasilva@mail.test,8 Apr 2023,u.s.,$747.48,Mid-Market,Y
+CUST-1761,Grace okafor,grace.okafor@mail.test,N/A,FR,1132.72,ENT,yes
+CUST-1089, ana ODWYER,ana.odwyer@mail.test,24.07.2024,u.s.,-999,Mid Market,0
+CUST-1094,ana Lindqvist  ,ana.lindqvist@corp.example,26.08.2024,FR,USD 113.73,smb,yes
+CUST-00001463,Sofia Kowalski,sofia.kowalski@corp.example,"Feb 28, 2023",DE,80,Small Business,1
+CUST-00001793,PRIYA okafor,priya.okafor@corp.example,02.08.2024,france,284,consumer,true
+CUST-00001289,Grace PATEL,grace.patel@mail.test,"May 16, 2025",United Kingdom,USD 284.79,Small Business,N
+CUST-1134,omar Costa,omar.costa@mail.test,2025-02-11,FR,38,consumer,FALSE
+CUST-00001895,Grace Ferrari,grace.ferrari@mail.test,2023-01-22,france,12780,smb,TRUE
+CUST-00001545,Noor Ferrari,noor.ferrari@corp.example,"Oct 9, 2024",u.s.,USD 107.31,ENT,yes
+CUST-1551,Leilani weber,leilani.weber@example.com,"Oct 3, 2024",FR,$192.34,SMB ,0
+CUST-1211,ana okafor  ,ana.okafor@example.com,-999,germany,56.39,Small Business,Y
+CUST-1500,omar Brennan,omar.brennan@mail.test,2024-06-27,usa,92.68,ENT,0
+CUST-00001655,Chen Ferrari,chen.ferrari@mail.test,31 Dec 2024,germany,125,smb,no
+CUST-1153,Sofia haddad,sofia.haddad@mail.test,02/08/2025,usa,$337.65,smb,no
+CUST-00001310,Noor Kowalski,noor.kowalski@example.com,7 Mar 2023,FR,383,ENT,FALSE
+CUST-1297,Sofia Ferrari,sofia.ferrari@corp.example,27.03.2025,usa,98.61,Mid-Market,no
+CUST-1324, MIKAEL PATEL ,MIKAEL.PATEL@EXAMPLE.COM,06/21/2023,BR,USD 445,consumer,yes
+CUST-00001421, jonas okafor,jonas.okafor@mail.test,,uk,126.03,Consumer,no
+CUST-1005,PRIYA PATEL,priya.patel@example.com,01/05/2025,france,159,enterprise,no
+CUST-1122,jonas Costa,jonas.costa@example.com,09/13/2024,usa,577,Enterprise,TRUE
+CUST-1564,Leilani Costa,leilani.costa@mail.test,01/24/2023,usa,540,Mid-Market,false
+CUST-1741,Marcus haddad  ,marcus.haddad@example.com,"Feb 18, 2024",germany,177.88,consumer,no
+CUST-1317,tomás da silva,tomás <tomás@example.com>,06/10/2025,uk,1369.31,consumer,FALSE
+CUST-00001428, ravi Nakamura  ,ravi.nakamura@corp.example,26 Jan 2023,FR,41.63,Mid-Market,N
+CUST-00001711,Yuki ODWYER,Yuki[at]example.com,19.06.2023,usa,664.33,midmarket,true
+CUST-1067,Leilani haddad,leilani.haddad@example.com,21 Mar 2024,United Kingdom,4385,consumer,yes
+CUST-00001752,Sofia Kowalski,sofia.kowalski@corp.example,02.05.2023,GB,14029,Small Business,1
+CUST-00001899,PRIYA Ferrari,priya.ferrari@mail.test,2023-04-05,france,7266,SMB ,FALSE
+CUST-00001236,omar okafor,omar.okafor@mail.test,"Aug 7, 2023",usa,2425.47,Small Business,0
+CUST-1267,PRIYA Brennan,priya.brennan@corp.example,2023-03-11,US,2075.62,ENT,1
+CUST-00001952,Aisha haddad,aisha.haddad@mail.test,none,uk,USD 236.59,ENT,1
+CUST-00001488,Leilani ODWYER,leilani.odwyer@example.com,18.03.2025,u.s.,$62.44,consumer,true
+CUST-00001779,ravi Nakamura,ravi.nakamura@mail.test,17 May 2023,United Kingdom,212,enterprise,false
+CUST-1515,Chen ODWYER,chen.odwyer@example.com,25 Nov 2024,US,2428,ENT,no
+CUST-1912, ANA NAKAMURA ,ANA.NAKAMURA@MAIL.TEST,"Sep 27, 2023",GB,$258.31,smb,N
+CUST-1922, Mikael ODWYER,mikael.odwyer@corp.example,03/30/2024,u.s.,USD 68.6,consumer,no
+CUST-1391, NOOR OKAFOR ,NOOR.OKAFOR@EXAMPLE.COM,13 Jul 2024,uk,$48.17,enterprise,no
+CUST-1191,jonas Nguyen,jonas.nguyen@corp.example,2024-03-04,Germany,USD 188.57,Consumer,false
+CUST-1800,PRIYA Ferrari,priya.ferrari@mail.test,30.03.2023,United Kingdom,8376,consumer,FALSE
+CUST-1130,Leilani Lindqvist,leilani.lindqvist@example.com,"Feb 27, 2024",FR,$107.89,consumer,0
+CUST-1818,Yuki da silva,Yuki <Yuki@example.com>,27 Jan 2024,BR,USD 241.39,enterprise,1
+CUST-1908,Sofia haddad,sofia.haddad@corp.example,22.11.2023,FR,630,smb,TRUE
+CUST-1855,tomás da silva,toms.dasilva@corp.example,11/15/2023,u.s.,USD 336.03,Enterprise,FALSE
+CUST-1411,Leilani Kowalski,leilani.kowalski@example.com,15 Jun 2023,GB,80.16,Mid Market,true
+CUST-1754,PRIYA da silva,PRIYA <PRIYA@example.com>,20 Feb 2023,BR,20,Consumer,N
+CUST-1280,omar ODWYER,omar.odwyer@mail.test,09.11.2024,GB,607,consumer,Y
+CUST-1311,Noor da silva,noor.dasilva@corp.example,09/04/2024,DE,$305.64,consumer,N
+CUST-1847,ana Brennan  ,ana.brennan@example.com,04.06.2023,United States,154,midmarket,TRUE
+CUST-00001131,Leilani okafor,leilani.okafor@example.com,23.02.2023,u.s.,USD 607.64,Mid Market,0
+CUST-1206,Leilani Brennan,,01/13/2024,usa,166,Enterprise,no
+CUST-1751,Sofia Kowalski,sofia.kowalski@mail.test,22.05.2024,BR,,smb,N
+CUST-1650, Leilani Nguyen,Leilani[at]example.com,02/28/2025,GB,$213.54,midmarket,TRUE
+CUST-1843, Noor Brennan,,"Feb 8, 2024",france,324.75,smb,0
+CUST-1148, Chen Nakamura,chen.nakamura@mail.test,26 Nov 2024,US,$948.21,Consumer,yes
+CUST-00001410,omar Ferrari,omar.ferrari@mail.test,2023-01-28,germany,147.81,Small Business,yes
+CUST-00001645,Grace Lindqvist,grace.lindqvist@example.com,10/24/2023,DE,134.36,ENT,Y
+CUST-1424, Marcus ODWYER,marcus.odwyer@mail.test,2024-08-13,france,654,Mid Market,TRUE
+CUST-00001781,Grace Nakamura,grace.nakamura@mail.test,09/17/2023,United Kingdom,$198.45,Small Business,true
+CUST-00001065,Grace da silva,grace.dasilva@example.com,2025-04-12,DE,302.8,consumer,Y
+CUST-1230,ravi weber,ravi.weber@corp.example,16 Apr 2023,france,USD 267.98,Small Business,Y
+CUST-1744,Chen Brennan,,08.08.2023,US,$397.07,Consumer,1
+CUST-00001861,Mikael PATEL,mikael.patel@example.com,,Brazil,215.43,Enterprise,Y
+CUST-1543,Noor Costa,noor.costa@corp.example,05/12/2023,Brazil,280,ENT,Y
+CUST-1364,tomás weber,toms.weber@mail.test,5 May 2024,usa,$467.29,enterprise,0
+CUST-00001298, jonas PATEL,jonas.patel@example.com,06.05.2024,u.s.,USD 77.01,enterprise,0
+CUST-1904,jonas Ferrari,jonas <jonas@example.com>,15.05.2023,FR,6132,Mid Market,true
+CUST-1269, YUKI HADDAD ,YUKI.HADDAD@EXAMPLE.COM,06/21/2023,United Kingdom,171623,mid-market,Y
+CUST-1942,ravi da silva,,2025-02-27,US,228.84,consumer,0
+CUST-1052,Leilani da silva  ,Leilani[at]example.com,-999,FR,32181,Consumer,FALSE
+CUST-00001423, MIKAEL BRENNAN ,MIKAEL[AT]EXAMPLE.COM,11/19/2024,BR,USD 145.69,small business,1
+CUST-1385, Marcus Ferrari,marcus.ferrari@corp.example,"May 19, 2023",FR,552.73,Mid Market,FALSE
+CUST-1412,PRIYA haddad  ,priya.haddad@corp.example,"Sep 13, 2024",US,45764,midmarket,1
+CUST-1457,Noor Ferrari,noor.ferrari@example.com,20.03.2023,usa,60.71,Consumer,1
+CUST-1098,Grace weber,grace.weber@example.com,16.04.2023,US,27025,Consumer,false
+CUST-00001938, Grace Brennan,grace.brennan@corp.example,11/28/2024,uk,$114.26,consumer,0
+CUST-00001725,Marcus ODWYER,marcus.odwyer@example.com,12 Jun 2023,United Kingdom,106,smb,no
+CUST-1491,Grace Nakamura,grace.nakamura@mail.test,02/08/2023,GB,23990,midmarket,Y
+CUST-1274,PRIYA Nakamura,priya.nakamura@corp.example,02/12/2023,DE,20.62,midmarket,true
+CUST-1371,Marcus Lindqvist,marcus.lindqvist@corp.example,10 May 2025,Germany,125.48,enterprise,1
+CUST-1879,ravi Costa,ravi.costa@example.com,05/05/2025,usa,-,Enterprise,1
+CUST-1292,Marcus Costa,marcus.costa@corp.example,11.06.2023,GB,1328.99,Mid-Market,FALSE
+CUST-1790,Chen haddad,chen.haddad@example.com,2024-09-11,BR,USD 88.42,enterprise,FALSE
+CUST-00001104,omar weber  ,omar.weber@corp.example,2023-11-19,Germany,$268.81,midmarket,Y
+CUST-1480,Sofia Nguyen,,27 Aug 2023,GB,USD 358.75,smb,N
+CUST-1571,ravi Nakamura  ,ravi.nakamura@mail.test,02/04/2025,United Kingdom,USD 86.41,consumer,FALSE
+CUST-1643,Chen haddad,chen.haddad@mail.test,"Apr 1, 2023",FR,USD 355.45,smb,no
+CUST-00001178,ravi Nakamura,ravi.nakamura@example.com,18 Nov 2024,DE,139.64,smb,0
+CUST-1592,Aisha da silva,aisha.dasilva@corp.example,n/a,GB,$206.27,ENT,TRUE
+CUST-1196,tomás Kowalski,toms.kowalski@mail.test,10.06.2024,u.s.,N/A,SMB ,1
+CUST-1534,Yuki Nguyen  ,yuki.nguyen@mail.test,2023-10-28,GB,$110.12,SMB ,0
+CUST-1939,Leilani ODWYER,leilani.odwyer@mail.test,2023-11-10,Brazil,234.13,midmarket,yes
+CUST-00001676,PRIYA Nakamura,priya.nakamura@example.com,11.01.2024,france,USD 43.95,Consumer,1
+CUST-1413, ana okafor,ana.okafor@mail.test,24 Nov 2024,United States,147.59,smb,TRUE
+CUST-1519, RAVI NAKAMURA ,RAVI.NAKAMURA@CORP.EXAMPLE,2024-09-27,Germany,49.63,smb,true
+CUST-1773,Leilani Ferrari,leilani.ferrari@example.com,10.03.2023,BR,456.83,Mid-Market,yes
+CUST-1287,ana Brennan  ,ana.brennan@example.com,27 Nov 2024,United Kingdom,USD 245.82,Small Business,Y
+CUST-00001507,Grace da silva,grace.dasilva@mail.test,3 Jul 2023,BR,11556,enterprise,true
+CUST-1615,Aisha Ferrari,aisha.ferrari@example.com,2024-12-11,FR,77,ENT,Y
+CUST-00001723,Chen weber,chen.weber@example.com,"Dec 5, 2024",United States,11184,midmarket,Y
+CUST-00001197,Noor da silva,noor.dasilva@example.com,23.04.2024,Germany,$391.69,Mid Market,no
+CUST-00001362,Aisha Nguyen,aisha.nguyen@corp.example,2023-07-31,DE,$2506.74,smb,no
+CUST-1521, tomás okafor,toms.okafor@mail.test,"Apr 25, 2025",BR,164,Enterprise,1
+CUST-1198,Grace PATEL,,"Jun 17, 2023",u.s.,107.7,SMB ,false
+CUST-1392,ana Nguyen,ana.nguyen@mail.test,2025-02-02,Brazil,165.12,ENT,TRUE
+CUST-1076,tomás ODWYER,toms.odwyer@mail.test,"Jan 15, 2025",u.s.,$117.62,midmarket,1
+CUST-1678,Leilani Costa,Leilani <Leilani@example.com>,n/a,Brazil,633,enterprise,false
+CUST-1817,Chen Brennan  ,chen.brennan@corp.example,"Jun 6, 2024",usa,USD 147.9,consumer,Y
+CUST-1334,omar Costa,omar.costa@corp.example,29 May 2025,u.s.,USD 206.49,Consumer,no
+CUST-1426,jonas Ferrari,jonas.ferrari@corp.example,08/27/2024,United Kingdom,$434.33,SMB ,false
+CUST-00001101,Aisha ODWYER  ,aisha.odwyer@mail.test,09/26/2024,BR,355,smb,TRUE
+CUST-1635,Aisha Nakamura,aisha.nakamura@mail.test,"Feb 7, 2024",United States,$491.19,Mid-Market,Y
+CUST-1819,Mikael da silva,mikael.dasilva@example.com,07/07/2024,Germany,USD 715.27,consumer,Y
+CUST-1459,Yuki PATEL,yuki.patel@example.com,11/12/2023,Brazil,51,Enterprise,TRUE
+CUST-1353,omar PATEL,omar.patel@mail.test,"Feb 17, 2024",france,USD 232.54,smb,TRUE
+CUST-1878,ravi Kowalski,ravi.kowalski@example.com,2024-04-18,US,-999,Small Business,TRUE
+CUST-1608,ana Nguyen,ana.nguyen@mail.test,2025-03-24,germany,19848,Mid Market,true
+CUST-1417, ravi Costa,ravi.costa@mail.test,21 Apr 2024,US,72,smb,N
+CUST-1335,Aisha weber,aisha.weber@corp.example,"Nov 18, 2024",BR,$68.35,Small Business,false
+CUST-00001682,ana weber,,2023-08-05,United Kingdom,75,enterprise,TRUE
+CUST-00001423,Mikael Brennan,Mikael[at]example.com,11/19/2024,BR,USD 145.69,Small Business,1
+CUST-1293,Leilani da silva,leilani.dasilva@example.com,04.12.2023,france,9320,enterprise,false
+CUST-1883,Noor Brennan,noor.brennan@mail.test,09/09/2024,Brazil,877,Consumer,1
+CUST-1390,Aisha PATEL,aisha.patel@mail.test,25.01.2024,u.s.,122,Small Business,N
+CUST-1833,Yuki Nakamura,yuki.nakamura@mail.test,"Aug 5, 2024",uk,77921,enterprise,false
+CUST-00001261,Sofia ODWYER  ,sofia.odwyer@corp.example,2024-10-07,Brazil,629,Small Business,1
+CUST-1470,Noor Nakamura,noor.nakamura@mail.test,17 Dec 2023,DE,"1,256",ENT,no
+CUST-1605,Chen Ferrari,chen.ferrari@mail.test,"May 3, 2024",BR,$87.81,Small Business,FALSE
+CUST-1579,tomás Ferrari  ,toms.ferrari@example.com,10.11.2023,usa,104.4,midmarket,yes
+CUST-1955,Chen Costa,chen.costa@mail.test,06/26/2024,u.s.,212.38,ENT,true
+CUST-00001224,Leilani okafor,leilani.okafor@mail.test,2023-05-06,GB,USD 93.15,midmarket,true
+CUST-1739,Sofia ODWYER,sofia.odwyer@corp.example,5 Feb 2023,usa,$708.3,enterprise,TRUE
+CUST-1845,PRIYA Costa,priya.costa@example.com,7 Dec 2024,usa,153,midmarket,no
+CUST-1205,Sofia Ferrari  ,sofia.ferrari@example.com,"Sep 30, 2023",US,476.65,Consumer,N
+CUST-00001013, Chen PATEL,chen.patel@corp.example,2023-03-20,United States,220,smb,FALSE
+CUST-1272,Leilani Costa,leilani.costa@example.com,07/29/2024,france,$142.31,Mid Market,no
+CUST-1949,ravi Costa,ravi <ravi@example.com>,02/07/2025,usa,51224,midmarket,false
+CUST-1163,Yuki weber,yuki.weber@example.com,"Jan 2, 2025",germany,$739.25,ENT,yes
+CUST-00001714, PRIYA Ferrari,priya.ferrari@mail.test,N/A,FR,USD 237.19,Mid-Market,false
+CUST-00001187,ana haddad,ana.haddad@mail.test,05/08/2023,germany,9863,Mid Market,yes
+CUST-00001506,Leilani Nakamura,leilani.nakamura@corp.example,2024-03-07,Germany,USD 659.6,enterprise,FALSE
+CUST-1031,Aisha Ferrari,aisha.ferrari@mail.test,"Jul 6, 2023",u.s.,$169.93,enterprise,0
+CUST-1461,jonas Costa,jonas.costa@example.com,9 Aug 2024,GB,$407.02,Mid-Market,N
+CUST-1147,Noor Kowalski,noor.kowalski@mail.test,05/08/2024,GB,,Small Business,N
+CUST-00001322, omar haddad,omar.haddad@example.com,12 Aug 2023,DE,152,ENT,N
+CUST-1359,ana Nguyen,ana.nguyen@example.com,"Apr 11, 2024",FR,$94.83,smb,yes
+CUST-1344,Aisha Brennan,aisha.brennan@corp.example,N/A,Germany,$28.8,Mid Market,TRUE
+CUST-1474,Mikael da silva,mikael.dasilva@mail.test,03/24/2024,Brazil,n/a,consumer,Y
+CUST-1460,Grace haddad,grace.haddad@example.com,20 Aug 2024,GB,$174.82,ENT,true
+CUST-1667, Sofia okafor,sofia.okafor@corp.example,"Aug 24, 2023",United States,73,midmarket,true
+CUST-00001445,omar PATEL  ,omar.patel@corp.example,05/20/2024,United States,381.62,consumer,N
+CUST-1337,Noor Kowalski  ,noor.kowalski@mail.test,10/05/2023,u.s.,76,midmarket,TRUE
+CUST-1702,omar Nakamura,omar.nakamura@mail.test,2023-10-30,GB,USD 129.56,Enterprise,Y
+CUST-1776,tomás okafor,toms.okafor@corp.example,"May 21, 2025",u.s.,277,ENT,FALSE
+CUST-1766,tomás Brennan,toms.brennan@mail.test,22.08.2024,Germany,1015.56,Mid Market,Y
+CUST-1108,ravi ODWYER,ravi.odwyer@example.com,09/18/2024,usa,166.74,Mid Market,yes
+CUST-1034,Grace Nguyen,grace.nguyen@mail.test,02/13/2025,uk,144,enterprise,N
+CUST-1721,Mikael okafor,mikael.okafor@mail.test,2023-11-30,United States,$137.67,smb,N
+CUST-1406,Yuki okafor,yuki.okafor@example.com,27.04.2025,BR,126.42,ENT,N
+CUST-1692,Marcus okafor,marcus.okafor@mail.test,2024-05-04,uk,256,Enterprise,no
+CUST-1914, PRIYA Lindqvist,priya.lindqvist@mail.test,2024-08-01,Brazil,$534.82,enterprise,no
+CUST-1627,tomás haddad  ,toms.haddad@example.com,2025-06-14,u.s.,USD 68.95,midmarket,no
+CUST-1006,jonas ODWYER,jonas.odwyer@corp.example,9 Sep 2023,FR,39352,Mid Market,Y
+CUST-00001731,Aisha ODWYER,aisha.odwyer@mail.test,2024-08-25,uk,7147,consumer,FALSE
+CUST-1047,omar Nakamura,omar.nakamura@mail.test,-,france,$365.15,Mid Market,1
+CUST-1849,omar okafor,omar.okafor@corp.example,03.04.2023,FR,$131.87,midmarket,true
+CUST-1074,Grace Kowalski,grace.kowalski@corp.example,7 Mar 2024,United Kingdom,-,consumer,Y
+CUST-1640,Aisha Kowalski,aisha.kowalski@corp.example,"May 27, 2025",United Kingdom,15568,Small Business,0
+CUST-1875,Chen PATEL  ,chen.patel@corp.example,2024-12-31,FR,USD 99.24,Mid-Market,N
+CUST-00001871,Aisha Brennan,aisha.brennan@mail.test,2024-02-09,United States,USD 68.24,enterprise,true
+CUST-1010,Leilani Nguyen,leilani.nguyen@mail.test,"Feb 20, 2025",US,253.3,midmarket,false
+CUST-1619,Mikael Costa,mikael.costa@example.com,2023-11-04,FR,511,Mid-Market,true
+CUST-00001555, jonas ODWYER,jonas.odwyer@corp.example,2025-04-22,FR,USD 206.5,Small Business,0
+CUST-00001863,tomás haddad,toms.haddad@example.com,"Aug 28, 2023",US,75.31,Small Business,false
+CUST-00001672,Leilani da silva,leilani.dasilva@corp.example,08/20/2024,usa,321,Mid-Market,1
+CUST-00001446,Mikael Costa,mikael.costa@corp.example,03/26/2024,GB,USD 210.08,SMB ,false
+CUST-1770, MIKAEL NGUYEN ,MIKAEL.NGUYEN@EXAMPLE.COM,24.10.2024,Germany,USD 150.53,enterprise,false
+CUST-00001928,Noor okafor,Noor <Noor@example.com>,2023-11-09,US,USD 189.53,Mid Market,0
+CUST-1663,Noor weber,noor.weber@corp.example,7 Apr 2024,US,80337,SMB ,Y
+CUST-00001075,Leilani Nguyen,leilani.nguyen@mail.test,03.07.2023,GB,28077,consumer,0
+CUST-1069,Chen Costa,chen.costa@corp.example,2023-09-30,germany,USD 246.63,ENT,yes
+CUST-00001285,Aisha Ferrari,aisha.ferrari@mail.test,2025-05-11,FR,4751,Mid-Market,N
+CUST-1842,ravi weber,ravi.weber@corp.example,26 Mar 2025,BR,400.77,midmarket,N
+CUST-00001621, Sofia da silva,sofia.dasilva@mail.test,2025-05-01,Brazil,USD 203.62,Consumer,FALSE
+CUST-1896,Mikael Ferrari,mikael.ferrari@example.com,29 Jul 2023,u.s.,100,consumer,1
+CUST-1834,Aisha da silva,aisha.dasilva@example.com,2024-08-02,germany,211,Mid-Market,1
+CUST-00001877, Chen Nakamura,chen.nakamura@example.com,04/25/2024,United States,728,SMB ,yes
+CUST-1859,jonas ODWYER,jonas.odwyer@mail.test,2024-03-30,GB,50536,Mid Market,true
+CUST-1865,tomás Nakamura,toms.nakamura@mail.test,15 Oct 2024,uk,168.8,midmarket,FALSE
+CUST-00001821,Leilani ODWYER,leilani.odwyer@corp.example,"Jan 27, 2024",germany,35377,Mid-Market,no
+CUST-1399,Yuki Kowalski,yuki.kowalski@corp.example,"Mar 13, 2024",usa,67496,Mid Market,1
+CUST-1487,Mikael weber  ,mikael.weber@corp.example,3 Jul 2024,uk,$43.73,midmarket,yes
+CUST-00001295,ravi haddad,ravi.haddad@example.com,25 Nov 2024,FR,$923.32,Small Business,no
+CUST-1764,omar Nakamura,omar.nakamura@corp.example,04/03/2024,u.s.,USD 460.11,enterprise,0
+CUST-00001510,ana Nakamura,ana.nakamura@mail.test,6 Jan 2023,usa,USD 276.84,Mid-Market,0
+CUST-1590,Mikael ODWYER,mikael.odwyer@mail.test,25 Dec 2023,United States,,Mid Market,1
+CUST-1086,PRIYA Brennan,priya.brennan@mail.test,n/a,germany,$110.8,SMB ,yes
+CUST-1070,omar Kowalski,omar.kowalski@corp.example,02.03.2023,United States,263.5,Small Business,N
+CUST-1027,ana Kowalski,ana.kowalski@corp.example,14.09.2024,u.s.,USD 177.69,SMB ,TRUE
+CUST-00001953,Chen PATEL  ,chen.patel@corp.example,31 Mar 2023,BR,230,SMB ,FALSE
+CUST-1648,PRIYA haddad,priya.haddad@mail.test,18.09.2023,usa,43,Mid-Market,false
+CUST-1033,Leilani haddad  ,leilani.haddad@mail.test,2023-06-24,FR,$90.6,smb,1
+CUST-1941,Chen Lindqvist,chen.lindqvist@corp.example,"Oct 30, 2023",FR,402.93,midmarket,no
+CUST-00001201,Grace Nguyen  ,grace.nguyen@example.com,N/A,GB,471.73,SMB ,1
+CUST-1602,Sofia okafor,sofia.okafor@mail.test,11 Mar 2024,US,$234.16,ENT,N
+CUST-1683,ravi Nakamura,ravi.nakamura@mail.test,12 Feb 2024,BR,$115.04,enterprise,no
+CUST-1234,Marcus Kowalski,marcus.kowalski@mail.test,2024-03-01,Germany,USD 85.67,midmarket,false
+CUST-1572,omar okafor,omar.okafor@corp.example,11.04.2025,Germany,$514.76,Consumer,FALSE
+CUST-00001383,PRIYA PATEL,priya.patel@corp.example,2025-03-23,BR,307.65,consumer,true
+CUST-00001956,Noor weber,noor.weber@mail.test,none,FR,100,midmarket,0
+CUST-1759,PRIYA Ferrari,priya.ferrari@mail.test,2023-06-03,United Kingdom,USD 138.43,Consumer,false
+CUST-1441,PRIYA okafor,priya.okafor@corp.example,none,United Kingdom,$192.51,Small Business,FALSE
+CUST-1112, RAVI WEBER ,RAVI.WEBER@MAIL.TEST,"Sep 1, 2024",United Kingdom,-,midmarket,TRUE
+CUST-1559,ana weber  ,ana.weber@mail.test,N/A,uk,361,ENT,TRUE
+CUST-1747,Grace ODWYER,Grace[at]example.com,"Jun 3, 2024",DE,$331.84,Enterprise,0
+CUST-00001502,Grace Nakamura,grace.nakamura@mail.test,11/11/2023,FR,USD 162.01,enterprise,yes
+CUST-1528, Leilani Brennan,leilani.brennan@corp.example,03/14/2024,u.s.,29694,ENT,yes
+CUST-1907,Marcus PATEL,marcus.patel@mail.test,05/13/2024,usa,12220,ENT,yes
+CUST-1326,Marcus ODWYER,marcus.odwyer@corp.example,18.06.2024,Brazil,"1,706",Small Business,0
+CUST-1173, jonas Costa,jonas.costa@corp.example,12/03/2023,Germany,321,Consumer,FALSE
+CUST-1662,ana Brennan,ana.brennan@example.com,24 May 2024,uk,231,Enterprise,yes
+CUST-1393,Sofia Kowalski,Sofia[at]example.com,2025-01-02,US,25044,SMB ,0
+CUST-00001298, JONAS PATEL ,JONAS.PATEL@EXAMPLE.COM,06.05.2024,u.s.,USD 77.01,enterprise,0
+CUST-1637,Chen Nakamura,chen.nakamura@corp.example,2023-06-24,germany,USD 429.36,Enterprise,yes
+CUST-1475,Marcus Ferrari,marcus.ferrari@mail.test,14 Sep 2023,US,69,Consumer,Y
+CUST-1508,tomás PATEL,toms.patel@corp.example,09/07/2023,US,USD 911.13,ENT,no
+CUST-1679,Sofia PATEL,sofia.patel@example.com,1 Jun 2024,germany,304.84,Enterprise,true
+CUST-00001540,PRIYA PATEL,priya.patel@mail.test,2025-04-05,germany,317,enterprise,yes
+CUST-00001757,Aisha Ferrari,aisha.ferrari@example.com,"Feb 26, 2023",GB,36,enterprise,no
+CUST-00001634,Chen Costa,chen.costa@corp.example,02/10/2023,US,USD 149.03,Mid-Market,no
+CUST-1931, Marcus Ferrari,marcus.ferrari@example.com,27.01.2025,uk,134.99,SMB ,Y
+CUST-1570,Leilani ODWYER,leilani.odwyer@corp.example,21 Jun 2024,US,419.19,enterprise,Y
+CUST-1284,PRIYA Nakamura,priya.nakamura@example.com,2 Feb 2024,Germany,296.03,smb,false
+CUST-1492, Mikael Nakamura,mikael.nakamura@mail.test,06.07.2023,Germany,USD 136.32,Enterprise,Y
+CUST-1733,Grace Lindqvist,grace.lindqvist@corp.example,27 May 2024,france,150.5,ENT,no
+CUST-1063, PRIYA ODWYER ,PRIYA.ODWYER@CORP.EXAMPLE,04/28/2025,Brazil,137.74,mid-market,1
+CUST-1680,omar haddad,omar.haddad@mail.test,"Mar 2, 2024",u.s.,73335,enterprise,Y
+CUST-1341,ravi Kowalski,ravi.kowalski@mail.test,"Aug 7, 2023",u.s.,33340,Mid Market,TRUE
+CUST-1017,omar Brennan,omar.brennan@example.com,"Oct 19, 2023",Germany,486.09,ENT,yes
+CUST-00001141,ravi ODWYER,ravi.odwyer@example.com,"Sep 5, 2023",uk,NULL,SMB ,yes
+CUST-1828,Leilani haddad,leilani.haddad@mail.test,"Oct 21, 2023",uk,USD 252.99,Mid-Market,TRUE
+CUST-00001400,Aisha Ferrari,aisha.ferrari@mail.test,02/20/2025,Brazil,137,consumer,false
+CUST-1361,Aisha weber,aisha.weber@corp.example,2025-02-06,u.s.,USD 525.6,consumer,true
+CUST-00001401,tomás Brennan,toms.brennan@mail.test,27 Mar 2023,germany,-999,Enterprise,yes
+CUST-00001001,Marcus da silva,marcus.dasilva@mail.test,08/18/2024,france,197.25,Small Business,0
+CUST-1281,Aisha Nakamura,aisha.nakamura@corp.example,11 Aug 2023,FR,USD 657.25,midmarket,TRUE
+CUST-00001020,Grace ODWYER,grace.odwyer@mail.test,2023-10-02,FR,USD 268.1,ENT,false
+CUST-1666,ana weber,ana.weber@mail.test,2025-02-14,GB,890.59,Mid Market,1
+CUST-00001599,ana okafor,ana.okafor@corp.example,05/30/2023,u.s.,18737,Enterprise,no
+CUST-1071,Grace Kowalski,grace.kowalski@example.com,2024-01-16,DE,146,ENT,yes
+CUST-1352,Aisha Ferrari,Aisha <Aisha@example.com>,"May 19, 2024",United Kingdom,14106,Mid-Market,N
+CUST-1053,tomás da silva,toms.dasilva@mail.test,2025-02-05,United Kingdom,$147.7,Consumer,FALSE
+CUST-1225,Aisha Lindqvist,Aisha@@example..com,"Jul 18, 2024",germany,106,SMB ,N
+CUST-00001820, ravi okafor,ravi.okafor@corp.example,7 Feb 2023,GB,USD 1085.7,Mid Market,true
+CUST-1653,Grace Ferrari  ,grace.ferrari@mail.test,12/28/2023,United Kingdom,5723,Enterprise,true
+CUST-1625,Aisha Nakamura,aisha.nakamura@mail.test,26.01.2023,GB,USD 50.4,Mid-Market,false
+CUST-1777,ana Brennan,ana.brennan@mail.test,2023-03-25,u.s.,$728.77,Consumer,true
+CUST-00001166,PRIYA Nguyen,priya.nguyen@corp.example,"Jun 5, 2024",Germany,$149.64,enterprise,1
+CUST-1372,Leilani haddad  ,leilani.haddad@corp.example,08/07/2024,Germany,127.5,Mid-Market,0
+CUST-1432,Leilani da silva,leilani.dasilva@corp.example,2024-04-02,DE,186.15,consumer,FALSE
+CUST-1077,ana Costa,ana.costa@corp.example,9 Dec 2024,FR,none,Mid-Market,yes
+CUST-00001082,Marcus weber,marcus.weber@mail.test,20 Jul 2024,United States,63544,SMB ,TRUE
+CUST-1531,ana okafor,ana.okafor@example.com,06/30/2023,FR,$187.56,Consumer,yes
+CUST-1434,ana PATEL,ana.patel@mail.test,16.09.2024,uk,153.78,Mid-Market,FALSE
+CUST-00001476,tomás okafor,toms.okafor@example.com,11 Jul 2023,Brazil,$393.42,Mid Market,0
+CUST-1630, Sofia da silva,sofia.dasilva@corp.example,2025-01-14,france,USD 427.3,Enterprise,Y
+CUST-1170,Sofia Nguyen,sofia.nguyen@mail.test,21 Apr 2024,GB,59.08,midmarket,0
+CUST-00001700, Leilani Brennan,leilani.brennan@example.com,2024-02-24,US,$775.85,Small Business,1
+CUST-00001706,Sofia Nguyen,sofia.nguyen@example.com,13.06.2023,US,15158,midmarket,FALSE
+CUST-1084, Leilani Costa  ,leilani.costa@example.com,22 May 2024,france,14279,SMB ,N
+CUST-1384, PRIYA Brennan,priya.brennan@example.com,"Mar 11, 2025",GB,162.67,midmarket,Y
+CUST-1436,Yuki weber  ,yuki.weber@example.com,"Mar 9, 2024",uk,USD 140.71,midmarket,FALSE
+CUST-1913,Grace Nguyen  ,grace.nguyen@mail.test,26 Jun 2024,Germany,10178,ENT,1
+CUST-1494, Leilani okafor,leilani.okafor@mail.test,5 Aug 2023,Germany,200.32,midmarket,false
+CUST-1743,Noor PATEL,noor.patel@mail.test,"Oct 23, 2024",United Kingdom,USD 45.03,Enterprise,FALSE
+CUST-1852,ravi Ferrari,ravi.ferrari@corp.example,2023-06-29,BR,USD 454.57,Mid-Market,FALSE
+CUST-1478,jonas Nakamura,jonas.nakamura@corp.example,04/24/2024,DE,$122.56,Mid Market,Y
+CUST-1110,Chen Kowalski,chen.kowalski@mail.test,29.02.2024,Brazil,9357,enterprise,0
+CUST-1257,tomás da silva,toms.dasilva@example.com,2024-04-22,u.s.,20006,ENT,TRUE
+CUST-1217,Yuki Nguyen,yuki.nguyen@mail.test,28 Aug 2024,FR,$195.33,Mid-Market,yes
+CUST-00001903,Mikael PATEL,mikael.patel@mail.test,17 Jan 2024,uk,$139.82,smb,true
+CUST-1184,Grace da silva,grace.dasilva@corp.example,08/29/2024,US,95,smb,0
+CUST-1030,jonas ODWYER,jonas.odwyer@corp.example,"Mar 16, 2025",GB,209.84,SMB ,Y
+CUST-1917,Aisha Nakamura  ,aisha.nakamura@mail.test,05.01.2023,DE,526,SMB ,0
+CUST-1947,Marcus Nguyen  ,marcus.nguyen@corp.example,10.06.2023,Brazil,49636,ENT,TRUE
+CUST-00001451,Sofia haddad,sofia.haddad@example.com,2025-04-21,germany,176.62,SMB ,FALSE
+CUST-1860,Chen Nguyen,chen.nguyen@mail.test,03/27/2025,Germany,103.9,consumer,false
+CUST-1532,Noor Nguyen,noor.nguyen@mail.test,none,United States,$52.19,smb,true
+CUST-1742,Marcus ODWYER,marcus.odwyer@example.com,"Aug 5, 2023",usa,-,SMB ,0
+CUST-1696,Leilani okafor,leilani.okafor@example.com,NULL,france,USD 114.02,ENT,true
+CUST-1092,PRIYA Nguyen,priya.nguyen@corp.example,07/23/2024,BR,117.34,consumer,no
+CUST-00001264, tomás Nguyen,toms.nguyen@corp.example,"Mar 30, 2023",BR,$188.28,enterprise,no
+CUST-1591,PRIYA Nakamura,priya.nakamura@mail.test,04/22/2023,uk,NULL,smb,N
+CUST-1348,Leilani Nguyen,leilani.nguyen@example.com,2025-01-23,u.s.,115,smb,FALSE
+CUST-1797,jonas Costa,jonas.costa@example.com,11.01.2025,United Kingdom,617.59,Mid-Market,TRUE
+CUST-1443, RAVI NGUYEN ,RAVI.NGUYEN@MAIL.TEST,"Jun 16, 2024",GB,NULL,enterprise,no
+CUST-1409,Marcus Lindqvist,marcus.lindqvist@corp.example,2023-06-30,Brazil,USD 156.32,Small Business,no
+CUST-1304,PRIYA Nakamura,priya.nakamura@corp.example,02/12/2023,GB,8637,midmarket,true
+CUST-1218,ravi okafor,ravi.okafor@corp.example,2024-02-25,Germany,950.8,SMB ,0
+CUST-00001612,ana Lindqvist,ana[at]example.com,11.04.2023,United States,47997,Mid Market,yes
+CUST-1489,ana PATEL,ana.patel@mail.test,"Mar 30, 2023",germany,USD 222.6,Mid Market,N
+CUST-1332,Leilani Ferrari,Leilani <Leilani@example.com>,25.04.2023,US,84,Enterprise,no
+CUST-00001157, RAVI NGUYEN ,RAVI.NGUYEN@CORP.EXAMPLE,2023-03-23,Brazil,USD 100.44,ent,Y
+CUST-1192,Aisha Costa,aisha.costa@corp.example,"Apr 3, 2025",United States,$573.63,Mid Market,N
+CUST-1442, Mikael ODWYER,mikael.odwyer@corp.example,10 Dec 2024,DE,285.51,Enterprise,FALSE
+CUST-00001874,Aisha haddad,aisha.haddad@mail.test,26.12.2023,US,235.76,SMB ,1
+CUST-1099,jonas ODWYER,jonas.odwyer@example.com,"Jan 20, 2024",germany,116,Enterprise,Y
+CUST-1002,Yuki Lindqvist  ,yuki.lindqvist@corp.example,23.01.2024,DE,USD 637.06,Small Business,1
+CUST-00001712,Leilani Nguyen,leilani.nguyen@example.com,"Nov 30, 2024",United Kingdom,USD 329.24,smb,FALSE
+CUST-1000,ana haddad,ana.haddad@corp.example,02.12.2023,uk,$689.97,Mid-Market,true
+CUST-1123,Aisha okafor,aisha.okafor@mail.test,02/03/2024,GB,206,Enterprise,TRUE
+CUST-1864,omar Ferrari,omar[at]example.com,10 Apr 2024,US,192,enterprise,N
+CUST-1016,Grace haddad,grace.haddad@corp.example,17.06.2024,United Kingdom,USD 217.87,SMB ,no
+CUST-00001328,omar Nakamura,omar.nakamura@mail.test,28 Aug 2023,BR,$848.37,Small Business,FALSE
+CUST-1467,Mikael Ferrari,mikael.ferrari@example.com,"Jun 12, 2025",US,48582,consumer,false
+CUST-1339,ana Ferrari,ana.ferrari@corp.example,17.12.2024,uk,15143,Mid-Market,0
+CUST-00001588,ana Nguyen,ana.nguyen@example.com,2025-06-08,United States,$318.18,ENT,FALSE
+CUST-1287, ANA BRENNAN ,ANA.BRENNAN@EXAMPLE.COM,27 Nov 2024,United Kingdom,USD 245.82,small business,Y
+CUST-1685, RAVI COSTA ,RAVI.COSTA@CORP.EXAMPLE,02.09.2024,FR,USD 286.67,midmarket,N
+CUST-1321,Grace haddad,grace.haddad@mail.test,2023-05-03,uk,231,Mid-Market,yes
+CUST-1703,ravi Nguyen,ravi.nguyen@mail.test,"Dec 17, 2023",germany,97,smb,false
+CUST-1111, PRIYA WEBER ,PRIYA.WEBER@EXAMPLE.COM,07.07.2024,United States,$364.88,enterprise,true
+CUST-1673,Grace da silva,grace.dasilva@corp.example,06/11/2024,FR,405.54,Mid Market,false
+CUST-00001258,Chen Costa,chen.costa@mail.test,"Aug 11, 2023",Brazil,USD 52.39,consumer,FALSE
+CUST-1746,ana Costa,ana.costa@corp.example,6 Sep 2024,uk,53.71,midmarket,false
+CUST-1373,ravi PATEL,ravi.patel@example.com,28 Jul 2023,usa,$115.98,Mid-Market,1
+CUST-00001910,omar PATEL,omar.patel@corp.example,04/30/2024,United Kingdom,USD 64.7,Mid-Market,FALSE
+CUST-1851,jonas Brennan,jonas.brennan@corp.example,01.04.2023,GB,USD 349.06,smb,Y
+CUST-1277,ravi Nakamura,ravi.nakamura@mail.test,2024-04-01,Germany,USD 939.41,Mid Market,1
+CUST-1142, Noor da silva,noor.dasilva@mail.test,17 Apr 2024,usa,-,Small Business,TRUE
+CUST-1749,ravi Costa,ravi.costa@corp.example,05/03/2023,United States,USD 126.8,SMB ,TRUE
+CUST-1582,omar weber,,02/06/2025,FR,USD 107.81,Mid-Market,0
+CUST-00001716, tomás Kowalski,toms.kowalski@mail.test,01.09.2024,u.s.,USD 139.65,SMB ,TRUE
+CUST-00001054, Sofia Nguyen,sofia.nguyen@example.com,24 Jun 2023,france,$311.53,SMB ,FALSE
+CUST-1495,jonas Lindqvist,jonas.lindqvist@mail.test,7 Feb 2024,Brazil,732.61,ENT,true
+CUST-1381,Sofia Kowalski,sofia.kowalski@mail.test,20 Aug 2024,germany,139,SMB ,N
+CUST-1036,Yuki weber,,03.01.2023,FR,n/a,Consumer,false
+CUST-1413, ANA OKAFOR ,ANA.OKAFOR@MAIL.TEST,24 Nov 2024,United States,147.59,smb,TRUE
+CUST-1538,tomás Kowalski,toms.kowalski@corp.example,"May 16, 2023",United Kingdom,34347,Mid Market,no
+CUST-1846,PRIYA Nakamura,priya.nakamura@example.com,20 Jan 2025,GB,120,midmarket,false
+CUST-1112,ravi weber,ravi.weber@mail.test,"Sep 1, 2024",United Kingdom,-,midmarket,TRUE
+CUST-1519,ravi Nakamura,ravi.nakamura@corp.example,2024-09-27,Germany,49.63,smb,true
+CUST-1151,PRIYA okafor,priya.okafor@example.com,3 Nov 2023,United Kingdom,USD 90.49,ENT,0
+CUST-1162, ravi Nguyen,ravi@@example..com,02.02.2023,u.s.,n/a,Small Business,TRUE
+CUST-1209,ravi Nguyen,ravi.nguyen@mail.test,08/26/2024,germany,76.16,ENT,1
+CUST-00001816,Noor ODWYER,noor.odwyer@example.com,"Dec 24, 2024",Brazil,36.75,consumer,yes
+CUST-1906,Aisha Kowalski,aisha.kowalski@mail.test,2023-02-26,DE,$774.36,Mid-Market,true
+CUST-00001097, Chen Nguyen,chen.nguyen@example.com,"Jan 28, 2023",uk,456,enterprise,TRUE
+CUST-1305, Grace Ferrari,grace.ferrari@mail.test,2024-12-21,BR,USD 493.02,Small Business,Y
+CUST-00001481, Yuki PATEL,Yuki@@example..com,"Dec 3, 2023",US,94.08,Small Business,1
+CUST-1656,Mikael Ferrari,mikael.ferrari@example.com,none,france,USD 151.16,ENT,0
+CUST-00001396,ravi Nguyen,,05/31/2025,Brazil,USD 571.53,Mid Market,false
+CUST-1832,Leilani Kowalski,leilani.kowalski@corp.example,04/26/2023,FR,30142,Mid-Market,no
+CUST-1787,Leilani PATEL  ,leilani.patel@example.com,22 Jul 2024,United Kingdom,-999,enterprise,Y
+CUST-1668,Marcus PATEL,marcus.patel@corp.example,16 Jan 2023,BR,658,midmarket,N
+CUST-1940,tomás Nguyen,,"Apr 25, 2025",Germany,618,Mid-Market,1
+CUST-1039,omar Costa,omar.costa@mail.test,06.03.2024,FR,USD 76.77,ENT,false
+CUST-1547,Yuki okafor,yuki.okafor@mail.test,2024-03-11,usa,16027,consumer,yes
+CUST-1923,Aisha Costa,aisha.costa@corp.example,2025-05-12,United States,$167.11,consumer,1
+CUST-00001240,Aisha PATEL,aisha.patel@example.com,"Feb 19, 2023",US,none,consumer,N
+CUST-1888,Leilani Kowalski,leilani.kowalski@corp.example,2024-06-11,germany,"1,442",SMB ,no
+CUST-1491, GRACE NAKAMURA ,GRACE.NAKAMURA@MAIL.TEST,02/08/2023,GB,23990,midmarket,Y
+CUST-1897,Aisha Lindqvist,aisha.lindqvist@corp.example,01.06.2025,uk,363,midmarket,true
+CUST-1868,omar haddad,omar.haddad@corp.example,9 Oct 2024,United States,472,Consumer,no
+CUST-00001354,Mikael okafor,Mikael <Mikael@example.com>,03/28/2023,usa,$1009.64,Mid-Market,TRUE
+CUST-00001233,ravi PATEL,ravi.patel@corp.example,6 Mar 2023,US,USD 120.88,Enterprise,false
+CUST-1169,Grace Nakamura,grace.nakamura@example.com,"Nov 26, 2024",BR,$306.15,enterprise,0
+CUST-1079,Chen okafor,Chen@@example..com,02/19/2023,usa,165,enterprise,0
+CUST-1763,jonas Nakamura,jonas.nakamura@mail.test,25 Oct 2023,Brazil,USD 172.34,Small Business,N
+CUST-1561,Grace PATEL,grace.patel@example.com,02/22/2025,United Kingdom,499,consumer,N
+CUST-00001688,ana Brennan  ,ana.brennan@corp.example,2024-09-27,Germany,46174,Consumer,FALSE
+CUST-1019,PRIYA da silva,priya.dasilva@mail.test,2023-01-16,germany,$338.98,consumer,TRUE
+CUST-1171,Yuki weber,yuki.weber@mail.test,17.02.2023,uk,USD 483.16,enterprise,Y
+CUST-1454,ravi Nguyen,ravi.nguyen@example.com,28 Feb 2024,GB,132.26,midmarket,N
+CUST-1199,tomás Kowalski,toms.kowalski@corp.example,"Feb 10, 2024",BR,USD 1455.7,smb,TRUE
+CUST-1068,ravi weber,ravi.weber@corp.example,10/13/2024,Brazil,6701,Consumer,false
+CUST-1064, Leilani Nguyen,leilani.nguyen@example.com,31 Oct 2024,United States,USD 205.13,Enterprise,false
+CUST-1750,Grace Nakamura,grace.nakamura@example.com,2023-01-29,germany,USD 477.03,ENT,yes
+CUST-1024, GRACE FERRARI ,GRACE.FERRARI@EXAMPLE.COM,2023-04-26,BR,115.96,mid market,TRUE
+CUST-1694,Marcus Ferrari,marcus.ferrari@mail.test,14.06.2025,FR,22557,smb,Y
+CUST-1004,Aisha Lindqvist  ,aisha.lindqvist@mail.test,2024-08-28,BR,USD 131.33,ENT,false
+CUST-1595,Grace okafor,grace.okafor@example.com,12/23/2023,usa,16260,Enterprise,FALSE
+CUST-1087,Chen Kowalski,chen.kowalski@example.com,19.04.2025,United States,93,midmarket,false
+CUST-1232, Yuki okafor,Yuki <Yuki@example.com>,19 Feb 2025,u.s.,$1221.17,consumer,1
+CUST-1533,jonas Costa,jonas.costa@mail.test,2023-11-14,DE,684,smb,FALSE
+CUST-1951,ravi PATEL,ravi.patel@corp.example,"Mar 21, 2025",United Kingdom,USD 27.32,Consumer,FALSE
+CUST-1919,ravi Ferrari,ravi.ferrari@example.com,15.04.2025,usa,146,smb,yes
+CUST-1628,omar haddad,omar.haddad@mail.test,"Oct 29, 2024",GB,NULL,ENT,0
+CUST-00001057,ravi Nguyen,ravi.nguyen@corp.example,2024-06-06,u.s.,USD 206.59,smb,FALSE
+CUST-00001805,PRIYA Kowalski,priya.kowalski@corp.example,8 May 2025,usa,238.74,midmarket,false
+CUST-1278,jonas Ferrari,jonas.ferrari@example.com,03.03.2025,GB,USD 542.34,enterprise,false
+CUST-1045, Yuki Nakamura,yuki.nakamura@corp.example,"Apr 28, 2025",germany,USD 596.05,SMB ,false
+CUST-1355,Noor Nakamura,noor.nakamura@mail.test,08.06.2024,germany,$93.71,Consumer,1
+CUST-1152,Leilani haddad  ,leilani.haddad@corp.example,2 Nov 2024,DE,177.35,midmarket,FALSE
+CUST-00001300,Chen okafor,chen.okafor@corp.example,NULL,uk,USD 95.79,consumer,false
+CUST-1269,Yuki haddad,yuki.haddad@example.com,06/21/2023,United Kingdom,171623,Mid-Market,Y
+CUST-1279,Marcus Lindqvist,marcus.lindqvist@corp.example,8 Mar 2025,United States,$395.1,midmarket,yes
+CUST-1427,Aisha PATEL,aisha.patel@mail.test,11.03.2025,FR,201,enterprise,no
+CUST-1231,tomás Nakamura  ,toms.nakamura@example.com,N/A,FR,$212.78,consumer,yes
+CUST-00001356,omar Ferrari,omar.ferrari@mail.test,28 Oct 2023,Brazil,155.39,SMB ,Y
+CUST-1125,Chen Lindqvist,chen.lindqvist@example.com,2023-08-20,u.s.,297.54,SMB ,yes
+CUST-1497,Aisha Ferrari,aisha.ferrari@example.com,"Mar 21, 2024",france,62599,Mid-Market,Y
+CUST-00001728,tomás Kowalski,toms.kowalski@corp.example,2024-10-13,germany,363,Mid-Market,TRUE
+CUST-00001106,Sofia haddad,sofia.haddad@example.com,7 Apr 2025,BR,465.34,Enterprise,1
+CUST-1140,ana Nguyen,ana.nguyen@example.com,none,United States,2956,Mid-Market,Y
+CUST-00001215, MARCUS COSTA ,MARCUS.COSTA@EXAMPLE.COM,2025-05-16,United Kingdom,540,enterprise,Y
+CUST-00001175,tomás haddad,toms.haddad@corp.example,2023-06-15,uk,602.39,SMB ,1
+CUST-00001378,Leilani Ferrari,leilani.ferrari@mail.test,24.08.2024,Germany,$121.63,Mid Market,N
+CUST-1722,Yuki okafor,yuki.okafor@mail.test,"Apr 14, 2024",u.s.,41.84,Enterprise,FALSE
+CUST-00001597,ana ODWYER,ana.odwyer@corp.example,21.06.2024,germany,131,smb,1
+CUST-1126,ana okafor,ana.okafor@mail.test,"Oct 10, 2024",United States,USD 172.84,ENT,1
+CUST-1815, ana weber,ana.weber@example.com,4 Nov 2023,DE,USD 136.16,enterprise,N
+CUST-1179,Leilani Nguyen,leilani.nguyen@mail.test,10.09.2024,GB,62,midmarket,N
+CUST-1100,jonas Brennan,jonas.brennan@example.com,22.12.2024,FR,132,Enterprise,true
+CUST-1207,ravi Brennan,ravi.brennan@corp.example,10.10.2024,uk,64412,midmarket,FALSE
+CUST-1675,Grace Costa,grace.costa@mail.test,03.05.2023,US,-,smb,TRUE
+CUST-00001901,Grace Nguyen  ,grace.nguyen@mail.test,7 Oct 2024,Germany,77.74,ENT,1
+CUST-00001073,Sofia ODWYER,sofia.odwyer@corp.example,2023-09-24,United Kingdom,USD 107.16,Mid-Market,true
+CUST-1589, Noor PATEL,noor.patel@example.com,21.02.2024,US,$338.59,enterprise,false
+CUST-1204,Marcus haddad,marcus.haddad@corp.example,"May 9, 2024",Brazil,17988,Consumer,0
+CUST-1642,Mikael okafor,mikael.okafor@corp.example,21.03.2023,uk,404.01,Mid Market,yes
+CUST-1657,Chen Brennan,chen.brennan@corp.example,10 May 2023,BR,$61.37,smb,yes
+CUST-1035,Aisha Brennan,aisha.brennan@corp.example,02/07/2024,United States,236,SMB ,FALSE
+CUST-00001789,Marcus Nguyen,Marcus[at]example.com,"May 29, 2024",germany,USD 1388.68,Mid Market,1
+CUST-1884,Mikael okafor,mikael.okafor@corp.example,05/02/2024,BR,USD 647.9,enterprise,yes
+CUST-00001403,Leilani Costa,leilani.costa@example.com,n/a,FR,100223,Small Business,FALSE
+CUST-1041,ravi Brennan,ravi.brennan@mail.test,"Mar 5, 2024",Germany,$221.61,enterprise,N
+CUST-1624,Marcus Nguyen,,2023-08-05,uk,209,Mid Market,false
+CUST-1358,Chen Nguyen,chen.nguyen@corp.example,2024-03-10,US,$87.1,consumer,false
+CUST-00001085,tomás da silva  ,toms.dasilva@corp.example,07.05.2024,United Kingdom,USD 334.1,Consumer,FALSE
+CUST-1437,Aisha da silva,aisha.dasilva@example.com,07/31/2023,US,6112,enterprise,1
+CUST-1208,Sofia Nguyen,sofia.nguyen@mail.test,2024-05-14,usa,72,Mid-Market,false
+CUST-1618,Noor weber,noor.weber@mail.test,"Oct 30, 2023",france,$816.75,ENT,true
+CUST-00001450, Yuki ODWYER  ,yuki.odwyer@corp.example,2024-07-15,FR,94,SMB ,true
+CUST-00001043,Grace Ferrari,grace.ferrari@mail.test,19 Jul 2023,uk,946.7,smb,TRUE
+CUST-00001294, Yuki Brennan,yuki.brennan@example.com,2023-05-07,US,none,Enterprise,false
+CUST-00001329,Noor Lindqvist,noor.lindqvist@corp.example,"Mar 4, 2024",US,89.67,smb,0
+CUST-1496,Yuki PATEL,Yuki[at]example.com,09/14/2023,DE,86,Small Business,yes
+CUST-00001455,Grace PATEL,grace.patel@mail.test,10/27/2024,uk,136.19,enterprise,FALSE
+CUST-00001062,Sofia Kowalski,sofia.kowalski@mail.test,01/26/2024,usa,$1366.92,Mid-Market,true
+CUST-1241,Yuki weber  ,yuki.weber@example.com,"Aug 29, 2024",Germany,202,SMB ,1
+CUST-00001557,Mikael Brennan  ,mikael.brennan@example.com,N/A,GB,16583,Small Business,no
+CUST-1732, Leilani ODWYER,leilani.odwyer@corp.example,"Mar 23, 2024",Germany,132327,smb,0
+CUST-00001536,Yuki Nguyen,yuki.nguyen@example.com,11.04.2025,france,USD 33.26,Small Business,false
+CUST-00001525,Aisha Lindqvist,aisha.lindqvist@example.com,-,uk,185,enterprise,false
+CUST-1129,jonas Lindqvist,jonas.lindqvist@example.com,"Nov 26, 2023",United Kingdom,USD 1005.01,SMB ,Y
+CUST-00001594,omar Lindqvist,omar.lindqvist@mail.test,"Jan 19, 2023",BR,20114,Consumer,0
+CUST-1096,ana PATEL,ana.patel@mail.test,8 Jun 2024,uk,USD 149.67,Consumer,no
+CUST-1448,Yuki Costa,yuki.costa@mail.test,31.01.2024,FR,81.8,Enterprise,TRUE
+CUST-00001565,Chen Brennan,chen.brennan@example.com,"Jan 17, 2025",germany,USD 1229.05,Mid Market,no
+CUST-00001397,ravi Costa,ravi.costa@corp.example,14.07.2024,Brazil,$442.66,Consumer,FALSE
+CUST-1720,Aisha Nakamura  ,aisha.nakamura@corp.example,2023-12-14,germany,88.41,Enterprise,true
+CUST-1350,jonas ODWYER,jonas.odwyer@corp.example,2024-11-10,US,45,SMB ,no
+CUST-1120, Noor Kowalski,noor.kowalski@corp.example,01/16/2024,US,USD 392.31,Mid Market,yes
+CUST-1342,Marcus Nguyen,,17.04.2025,france,38857,Mid Market,FALSE
+CUST-1160,jonas weber,jonas.weber@example.com,2024-11-23,US,321,ENT,0
+CUST-1639,PRIYA Nakamura,PRIYA[at]example.com,"May 26, 2025",france,175.53,Enterprise,TRUE
+CUST-00001517,Yuki Ferrari,yuki.ferrari@corp.example,07/19/2024,uk,58405,Small Business,TRUE
+CUST-1051,Aisha da silva,aisha.dasilva@mail.test,12.11.2024,FR,267,midmarket,TRUE
+CUST-00001447,Sofia da silva  ,sofia.dasilva@mail.test,2023-12-16,United Kingdom,15.04,SMB ,no
+CUST-00001880,Mikael Nakamura,mikael.nakamura@corp.example,23.12.2024,usa,USD 220.12,consumer,true
+CUST-1707,Yuki weber,Yuki[at]example.com,30 Sep 2024,United States,USD 107.07,Consumer,Y
+CUST-1932, PRIYA PATEL,priya.patel@corp.example,05/20/2025,BR,"1,435",smb,TRUE
+CUST-1132,jonas okafor,jonas.okafor@corp.example,2023-12-06,usa,809.25,smb,TRUE
+CUST-1783,Mikael Costa  ,Mikael[at]example.com,15.03.2024,Brazil,NULL,Consumer,true
+CUST-1024,Grace Ferrari,grace.ferrari@example.com,2023-04-26,BR,115.96,Mid Market,TRUE
+CUST-1654,Marcus haddad,marcus.haddad@corp.example,12 May 2025,u.s.,$405.6,Enterprise,0
+CUST-1263,ravi Nakamura,ravi.nakamura@example.com,2023-06-08,u.s.,USD 67.17,midmarket,FALSE
+CUST-1107,tomás Costa,toms.costa@mail.test,none,uk,$564.71,Enterprise,N
+CUST-1600,Grace Nakamura,grace.nakamura@mail.test,29 Jul 2024,Brazil,$580.7,consumer,Y
+CUST-00001458, Sofia Nguyen,sofia.nguyen@example.com,8 Jan 2024,Brazil,$416.79,enterprise,false
+CUST-1891,ana okafor,ana.okafor@corp.example,14 Jan 2025,uk,280,consumer,yes
+CUST-1689,Chen ODWYER,chen.odwyer@example.com,06/10/2023,United States,USD 106.67,smb,yes
+CUST-1377,PRIYA PATEL,priya.patel@mail.test,18.01.2025,Germany,$553.37,enterprise,N
+CUST-1115, omar PATEL,omar.patel@corp.example,16 Nov 2024,Brazil,"1,298",enterprise,false
+CUST-1782,Marcus Brennan,Marcus@@example..com,13.03.2023,france,USD 265.97,SMB ,yes
+CUST-1684,Sofia da silva,sofia.dasilva@corp.example,29 May 2023,uk,$1358.35,Small Business,false
+CUST-1256,omar Nakamura,omar.nakamura@example.com,6 Apr 2025,US,73744,Mid Market,false
+CUST-00001588, ANA NGUYEN ,ANA.NGUYEN@EXAMPLE.COM,2025-06-08,United States,$318.18,ent,FALSE
+CUST-1037,Mikael ODWYER,mikael.odwyer@corp.example,04/18/2023,Brazil,USD 189.88,Mid-Market,0
+CUST-00001479,Aisha Lindqvist,aisha.lindqvist@corp.example,"Sep 9, 2024",Brazil,37.99,SMB ,TRUE
+CUST-1072, Mikael Costa,mikael.costa@example.com,01/05/2025,BR,USD 274.17,ENT,false
+CUST-00001394,Yuki weber,yuki.weber@example.com,n/a,usa,$1431.64,Small Business,N
+CUST-1912, ana Nakamura,ana.nakamura@mail.test,"Sep 27, 2023",GB,$258.31,smb,N
+CUST-00001127,Yuki okafor,yuki.okafor@example.com,2024-10-28,United States,$83.09,smb,no
+CUST-00001780,Leilani Nguyen,leilani.nguyen@mail.test,28.02.2024,BR,206,Consumer,1
+CUST-00001858,tomás Ferrari  ,toms.ferrari@example.com,"Mar 26, 2023",Brazil,406.27,Consumer,Y
+CUST-00001185, ravi PATEL  ,ravi.patel@corp.example,2024-07-22,Brazil,320,smb,false
+CUST-00001745,Mikael weber,mikael.weber@example.com,3 Mar 2023,DE,49.31,SMB ,no
+CUST-00001708,Yuki Nguyen,yuki.nguyen@mail.test,04/21/2023,DE,48807,midmarket,FALSE
+CUST-1553,Yuki Nakamura,yuki.nakamura@example.com,08.03.2023,Germany,-999,Mid-Market,1
+CUST-1737,Noor da silva,noor.dasilva@example.com,08/03/2024,DE,USD 449.56,consumer,yes
+CUST-00001049,Yuki weber,yuki.weber@corp.example,2024-12-21,US,$201.9,enterprise,TRUE
+CUST-00001768,Marcus Brennan,marcus.brennan@corp.example,23 Jan 2023,usa,376,enterprise,Y
+CUST-00001512,Noor PATEL,noor.patel@corp.example,"Jun 13, 2024",uk,USD 113.12,Enterprise,yes
+CUST-1770,Mikael Nguyen,mikael.nguyen@example.com,24.10.2024,Germany,USD 150.53,enterprise,false
+CUST-1055,Mikael okafor  ,mikael.okafor@corp.example,"Dec 17, 2024",BR,50,consumer,TRUE
+CUST-1061,Noor Nakamura,noor.nakamura@mail.test,"Oct 21, 2024",u.s.,USD 451.5,smb,Y
+CUST-1769,Aisha Lindqvist,aisha.lindqvist@example.com,"Feb 17, 2024",france,$43.79,SMB ,0
+CUST-00001798,jonas Costa,jonas.costa@mail.test,24.12.2024,usa,$213.42,Small Business,0
+CUST-00001228,Marcus okafor,marcus.okafor@mail.test,2024-07-09,GB,n/a,smb,false
+CUST-00001429,PRIYA Brennan,priya.brennan@example.com,10.09.2023,GB,$657.79,consumer,1
+CUST-1439,omar Kowalski,omar.kowalski@mail.test,18.12.2024,United States,USD 143.62,midmarket,yes
+CUST-1568,Sofia PATEL,sofia.patel@example.com,06.03.2024,DE,USD 107.73,ENT,1
+CUST-00001219,Leilani Kowalski,leilani.kowalski@mail.test,27 Dec 2024,United Kingdom,221.3,Consumer,no
+CUST-1220,Chen Lindqvist,chen.lindqvist@example.com,5 Sep 2023,Germany,USD 1011.09,ENT,Y
+CUST-1008, Marcus Costa  ,marcus.costa@mail.test,16.08.2024,usa,317,Small Business,FALSE
+CUST-00001306,Aisha Lindqvist,aisha.lindqvist@mail.test,"Jul 24, 2023",BR,103,Mid-Market,1
+CUST-00001697, Chen haddad,chen.haddad@example.com,2025-04-21,uk,USD 401.63,consumer,true
+CUST-1626,ana Costa,ana.costa@corp.example,13 Mar 2024,u.s.,112.65,Mid-Market,TRUE
+CUST-00001724, jonas da silva,jonas.dasilva@corp.example,NULL,france,$397.75,consumer,N
+CUST-00001652,Sofia okafor,sofia.okafor@corp.example,"Jul 26, 2024",United States,$567.1,midmarket,FALSE
+CUST-00001658,jonas Ferrari,jonas.ferrari@corp.example,27 Dec 2024,uk,$466.08,enterprise,no
+CUST-1419,ana Nguyen,ana[at]example.com,"Aug 29, 2024",usa,726.2,ENT,N
+CUST-1699,Leilani Kowalski  ,leilani.kowalski@corp.example,n/a,GB,USD 147.89,Consumer,0
+CUST-1402,omar Ferrari  ,omar.ferrari@example.com,none,FR,46221,Mid-Market,TRUE
+CUST-00001303,Mikael Ferrari,,01/19/2024,germany,730,midmarket,true
+CUST-1290,Grace Nguyen,grace.nguyen@mail.test,2024-07-05,germany,577.77,enterprise,1
+CUST-1693,tomás weber,toms.weber@corp.example,"Jan 2, 2023",usa,$67.71,ENT,FALSE

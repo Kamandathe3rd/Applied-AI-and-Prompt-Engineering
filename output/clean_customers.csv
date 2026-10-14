@@ -1,0 +1,1000 @@
+﻿customer_id,full_name,email,signup_date,country,spend,segment,is_active,source_row,email_normalized,email_status,email_group,signup_date_iso,signup_date_status,duplicate_group_id,review_flags,needs_review
+CUST-1387,Aisha Brennan,aisha.brennan@mail.test,,Germany,-,enterprise,N,2,aisha.brennan@mail.test,VALID,EMAIL-0001,,MISSING,DUP-0001,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1943,omar Brennan,omar.brennan@example.com,25 Jan 2025,uk,$100.66,enterprise,N,3,omar.brennan@example.com,VALID,EMAIL-0002,2025-01-25,VALID,DUP-0002,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1007,ravi okafor,ravi[at]example.com,2024-10-18,Brazil,$273.67,ENT,1,4,ravi[at]example.com,INVALID,,2024-10-18,VALID,DUP-0003,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1249,Leilani da silva,leilani.dasilva@corp.example,"Jun 26, 2024",United Kingdom,$84.38,Mid-Market,yes,5,leilani.dasilva@corp.example,VALID,EMAIL-0003,2024-06-26,VALID,DUP-0004,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1900,Marcus Kowalski,marcus.kowalski@example.com,"Sep 26, 2024",germany,,midmarket,true,6,marcus.kowalski@example.com,VALID,,2024-09-26,VALID,DUP-0005,POSSIBLE_DUPLICATE_LOW,N
+CUST-1841,Leilani ODWYER,leilani.odwyer@example.com,19 Jun 2023,Brazil,122.09,Consumer,yes,7,leilani.odwyer@example.com,VALID,EMAIL-0004,2023-06-19,VALID,DUP-0006,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1433,tomás ODWYER,toms.odwyer@corp.example,2024-04-06,Brazil,USD 139.54,Enterprise,FALSE,8,toms.odwyer@corp.example,VALID,EMAIL-0005,2024-04-06,VALID,DUP-0007,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1194,PRIYA Costa,priya.costa@mail.test,08.01.2023,u.s.,$461.54,smb,false,9,priya.costa@mail.test,VALID,,,AMBIGUOUS,DUP-0008,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1466,ana Nakamura,ana.nakamura@mail.test,10 Dec 2023,United States,$341.62,Mid-Market,no,10,ana.nakamura@mail.test,VALID,EMAIL-0006,2023-12-10,VALID,DUP-0009,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1116,Yuki Nguyen,yuki.nguyen@example.com,05.02.2025,GB,$242.52,Consumer,FALSE,11,yuki.nguyen@example.com,VALID,EMAIL-0007,,AMBIGUOUS,DUP-0010,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1811,Leilani PATEL,leilani.patel@example.com,14 Jun 2024,DE,136.26,Mid Market,Y,12,leilani.patel@example.com,VALID,EMAIL-0008,2024-06-14,VALID,DUP-0011,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1580,Yuki okafor,yuki.okafor@corp.example,"Aug 18, 2023",Brazil,$189.67,ENT,no,13,yuki.okafor@corp.example,VALID,,2023-08-18,VALID,DUP-0012,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001248,Yuki Ferrari,yuki.ferrari@mail.test,,usa,751,Mid Market,1,14,yuki.ferrari@mail.test,VALID,EMAIL-0009,,MISSING,DUP-0013,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1882,Grace Ferrari,grace.ferrari@mail.test,09/18/2024,usa,44518,Enterprise,N,15,grace.ferrari@mail.test,VALID,EMAIL-0010,2024-09-18,VALID,DUP-0014,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001563,omar haddad,omar.haddad@corp.example,31 Jul 2023,FR,,enterprise,no,16,omar.haddad@corp.example,VALID,EMAIL-0011,2023-07-31,VALID,DUP-0015,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001854,PRIYA Ferrari,priya.ferrari@example.com,05.07.2024,Brazil,65,smb,true,17,priya.ferrari@example.com,VALID,EMAIL-0012,,AMBIGUOUS,DUP-0016,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1083,Grace Brennan,grace.brennan@mail.test,27 Jul 2023,usa,1652.39,Small Business,yes,18,grace.brennan@mail.test,VALID,EMAIL-0013,2023-07-27,VALID,DUP-0017,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001273,GRACE FERRARI,GRACE.FERRARI@MAIL.TEST,"Apr 19, 2025",u.s.,238.7,small business,FALSE,19,grace.ferrari@mail.test,VALID,EMAIL-0010,2025-04-19,VALID,DUP-0014,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1146,omar PATEL,omar.patel@corp.example,04/05/2023,france,-999,Consumer,no,20,omar.patel@corp.example,VALID,EMAIL-0014,,AMBIGUOUS,DUP-0018,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1028,ravi Lindqvist,ravi.lindqvist@example.com,05/28/2023,Germany,130.12,Enterprise,FALSE,21,ravi.lindqvist@example.com,VALID,,2023-05-28,VALID,DUP-0019,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1544,PRIYA Ferrari,priya.ferrari@corp.example,28.10.2024,usa,$672.66,SMB,TRUE,22,priya.ferrari@corp.example,VALID,EMAIL-0015,2024-10-28,VALID,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1872,Mikael weber,mikael.weber@corp.example,2025-03-21,u.s.,54,ENT,no,23,mikael.weber@corp.example,VALID,EMAIL-0016,2025-03-21,VALID,DUP-0020,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001552,omar okafor,omar.okafor@corp.example,18.06.2023,uk,6630,consumer,FALSE,24,omar.okafor@corp.example,VALID,EMAIL-0017,2023-06-18,VALID,DUP-0021,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1937,Grace Nakamura,grace.nakamura@example.com,11 Mar 2025,BR,USD 92.2,ENT,N,25,grace.nakamura@example.com,VALID,EMAIL-0018,2025-03-11,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1431,ravi PATEL,ravi.patel@corp.example,2023-12-03,france,$398.01,Consumer,FALSE,26,ravi.patel@corp.example,VALID,EMAIL-0019,2023-12-03,VALID,DUP-0023,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1520,tomás Nakamura,toms.nakamura@example.com,2025-01-30,FR,USD 419.49,ENT,no,27,toms.nakamura@example.com,VALID,EMAIL-0020,2025-01-30,VALID,DUP-0024,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1324,Mikael PATEL,mikael.patel@example.com,06/21/2023,BR,USD 445,consumer,yes,28,mikael.patel@example.com,VALID,EMAIL-0021,2023-06-21,VALID,DUP-0025,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1740,Yuki weber,yuki.weber@corp.example,12/21/2023,Brazil,USD 455.31,Mid-Market,true,29,yuki.weber@corp.example,VALID,EMAIL-0022,2023-12-21,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001822,Yuki Kowalski,yuki.kowalski@example.com,03/06/2025,BR,USD 108.58,Enterprise,true,30,yuki.kowalski@example.com,VALID,EMAIL-0023,,AMBIGUOUS,DUP-0027,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1395,jonas Kowalski,jonas.kowalski@example.com,"Jan 28, 2024",france,223,Enterprise,TRUE,31,jonas.kowalski@example.com,VALID,,2024-01-28,VALID,DUP-0028,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1150,omar Nguyen,omar.nguyen@example.com,14.10.2024,DE,11097,SMB,false,32,omar.nguyen@example.com,VALID,,2024-10-14,VALID,,,N
+CUST-1885,Noor da silva,noor.dasilva@mail.test,04/10/2025,GB,46753,consumer,Y,33,noor.dasilva@mail.test,VALID,EMAIL-0024,,AMBIGUOUS,DUP-0029,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001133,Leilani Ferrari,leilani.ferrari@mail.test,10 Apr 2023,Germany,209,Enterprise,no,34,leilani.ferrari@mail.test,VALID,EMAIL-0025,2023-04-10,VALID,DUP-0030,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1915,PRIYA Nguyen,priya.nguyen@mail.test,2023-10-15,DE,9143,midmarket,TRUE,35,priya.nguyen@mail.test,VALID,EMAIL-0026,2023-10-15,VALID,DUP-0031,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1734,ravi Brennan,ravi.brennan@mail.test,,usa,450,Small Business,FALSE,36,ravi.brennan@mail.test,VALID,EMAIL-0027,,MISSING,DUP-0032,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1237,Yuki PATEL,yuki.patel@example.com,14 Jan 2025,GB,49,midmarket,1,37,yuki.patel@example.com,VALID,EMAIL-0028,2025-01-14,VALID,DUP-0033,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001577,Grace ODWYER,grace.odwyer@example.com,2024-03-03,france,229.74,smb,0,38,grace.odwyer@example.com,VALID,,2024-03-03,VALID,DUP-0034,POSSIBLE_DUPLICATE_LOW,N
+CUST-1921,Yuki da silva,yuki.dasilva@mail.test,19.10.2023,Germany,USD 267.54,smb,yes,39,yuki.dasilva@mail.test,VALID,EMAIL-0029,2023-10-19,VALID,DUP-0035,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001221,Sofia weber,sofia.weber@example.com,,FR,$33.32,midmarket,TRUE,40,sofia.weber@example.com,VALID,,,MISSING,DUP-0036,POSSIBLE_DUPLICATE_LOW,N
+CUST-1270,Noor Brennan,noor.brennan@corp.example,24.05.2024,Germany,257.74,ENT,no,41,noor.brennan@corp.example,VALID,EMAIL-0030,2024-05-24,VALID,DUP-0037,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1102,Mikael PATEL,mikael.patel@mail.test,,usa,112.83,Enterprise,TRUE,42,mikael.patel@mail.test,VALID,EMAIL-0031,,MISSING,DUP-0025,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1541,Aisha haddad,aisha.haddad@mail.test,2023-08-28,uk,-999,Mid-Market,0,43,aisha.haddad@mail.test,VALID,EMAIL-0032,2023-08-28,VALID,DUP-0038,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1836,Chen Costa,chen.costa@example.com,"Jul 22, 2023",United States,151,Mid Market,TRUE,44,chen.costa@example.com,VALID,,2023-07-22,VALID,DUP-0039,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1927,Yuki haddad,Yuki <Yuki@example.com>,03/20/2024,US,,Consumer,FALSE,45,yuki <yuki@example.com>,INVALID,,2024-03-20,VALID,DUP-0040,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1425,tomás haddad,toms.haddad@corp.example,2023-03-18,US,$89.12,SMB,N,46,toms.haddad@corp.example,VALID,EMAIL-0033,2023-03-18,VALID,DUP-0041,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1575,Sofia weber,sofia.weber@mail.test,"Mar 22, 2023",United States,USD 192.17,ENT,Y,47,sofia.weber@mail.test,VALID,,2023-03-22,VALID,DUP-0036,POSSIBLE_DUPLICATE_LOW,N
+CUST-1802,Leilani PATEL,leilani.patel@corp.example,2023-11-19,FR,49919,Small Business,no,48,leilani.patel@corp.example,VALID,,2023-11-19,VALID,DUP-0011,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1685,ravi Costa,ravi.costa@corp.example,02.09.2024,FR,USD 286.67,midmarket,N,49,ravi.costa@corp.example,VALID,EMAIL-0034,,AMBIGUOUS,DUP-0042,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1091,Aisha da silva,aisha.dasilva@corp.example,11/06/2024,DE,304.25,Mid Market,0,50,aisha.dasilva@corp.example,VALID,EMAIL-0035,,AMBIGUOUS,DUP-0043,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1244,Aisha Costa,aisha.costa@example.com,23.08.2023,uk,180.91,Consumer,true,51,aisha.costa@example.com,VALID,,2023-08-23,VALID,DUP-0044,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1848,Grace Costa,grace.costa@corp.example,28 Apr 2024,u.s.,$353.7,midmarket,1,52,grace.costa@corp.example,VALID,EMAIL-0036,2024-04-28,VALID,DUP-0045,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1045,YUKI NAKAMURA,YUKI.NAKAMURA@CORP.EXAMPLE,"Apr 28, 2025",germany,USD 596.05,smb,false,53,yuki.nakamura@corp.example,VALID,EMAIL-0037,2025-04-28,VALID,DUP-0046,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001444,Noor Ferrari,noor.ferrari@corp.example,05/31/2025,DE,USD 419.18,Mid Market,1,54,noor.ferrari@corp.example,VALID,EMAIL-0038,2025-05-31,VALID,DUP-0047,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1117,Mikael Ferrari,mikael.ferrari@example.com,"Jun 28, 2023",Germany,USD 291.17,Consumer,FALSE,55,mikael.ferrari@example.com,VALID,EMAIL-0039,2023-06-28,VALID,DUP-0048,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001894,Mikael ODWYER,mikael.odwyer@mail.test,2024-12-17,usa,93,Consumer,Y,56,mikael.odwyer@mail.test,VALID,EMAIL-0040,2024-12-17,VALID,DUP-0049,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001775,Noor weber,,16 Apr 2023,Brazil,$269.94,smb,yes,57,,MISSING,,2023-04-16,VALID,DUP-0050,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1374,jonas Ferrari,jonas.ferrari@corp.example,"Oct 14, 2023",usa,167,ENT,Y,58,jonas.ferrari@corp.example,VALID,EMAIL-0041,2023-10-14,VALID,DUP-0051,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1812,Mikael da silva,mikael.dasilva@example.com,"Jul 23, 2024",United States,53.22,Consumer,N,59,mikael.dasilva@example.com,VALID,EMAIL-0042,2024-07-23,VALID,DUP-0052,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1180,omar weber,omar.weber@mail.test,"Feb 26, 2023",GB,422.85,smb,false,60,omar.weber@mail.test,VALID,EMAIL-0043,2023-02-26,VALID,DUP-0053,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1336,Yuki weber,yuki.weber@corp.example,"Jun 19, 2025",Brazil,232,SMB,0,61,yuki.weber@corp.example,VALID,EMAIL-0022,2025-06-19,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1119,Noor Kowalski,noor.kowalski@mail.test,2025-06-09,Brazil,USD 66.98,enterprise,1,62,noor.kowalski@mail.test,VALID,EMAIL-0044,2025-06-09,VALID,DUP-0054,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1418,omar haddad,omar.haddad@example.com,08/03/2023,usa,USD 233.64,Small Business,1,63,omar.haddad@example.com,VALID,EMAIL-0045,,AMBIGUOUS,DUP-0015,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1694,MARCUS FERRARI,MARCUS.FERRARI@MAIL.TEST,14.06.2025,FR,22557,smb,Y,64,marcus.ferrari@mail.test,VALID,EMAIL-0046,2025-06-14,VALID,DUP-0055,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1473,Noor da silva,noor.dasilva@mail.test,05/20/2024,US,$499.6,smb,Y,65,noor.dasilva@mail.test,VALID,EMAIL-0024,2024-05-20,VALID,DUP-0029,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1040,Mikael Brennan,mikael.brennan@mail.test,28 Sep 2024,FR,2787.22,Mid Market,FALSE,66,mikael.brennan@mail.test,VALID,EMAIL-0047,2024-09-28,VALID,DUP-0056,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1726,ana Ferrari,ana.ferrari@corp.example,"Dec 26, 2023",GB,$392.09,SMB,Y,67,ana.ferrari@corp.example,VALID,EMAIL-0048,2023-12-26,VALID,DUP-0057,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1670,ana da silva,ana.dasilva@corp.example,31.01.2025,u.s.,199,enterprise,Y,68,ana.dasilva@corp.example,VALID,EMAIL-0049,2025-01-31,VALID,DUP-0058,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1176,ravi Costa,ravi.costa@example.com,16.02.2023,United States,35016,Mid Market,yes,69,ravi.costa@example.com,VALID,EMAIL-0050,2023-02-16,VALID,DUP-0042,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1449,Sofia Costa,sofia.costa@corp.example,22.11.2023,uk,$73.04,SMB,false,70,sofia.costa@corp.example,VALID,,2023-11-22,VALID,DUP-0059,POSSIBLE_DUPLICATE_LOW,N
+CUST-1610,omar Nakamura,omar.nakamura@example.com,"Aug 27, 2024",DE,261.98,Consumer,Y,71,omar.nakamura@example.com,VALID,EMAIL-0051,2024-08-27,VALID,DUP-0060,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1485,jonas da silva,jonas.dasilva@mail.test,,United Kingdom,USD 52.22,Consumer,no,72,jonas.dasilva@mail.test,VALID,EMAIL-0052,,MISSING,DUP-0061,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1161,AISHA KOWALSKI,AISHA[AT]EXAMPLE.COM,"May 16, 2023",u.s.,,consumer,Y,73,aisha[at]example.com,INVALID,,2023-05-16,VALID,DUP-0062,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1056,omar weber,omar.weber@example.com,17 Jul 2024,france,USD 386.86,consumer,0,74,omar.weber@example.com,VALID,,2024-07-17,VALID,DUP-0053,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1809,Aisha PATEL,aisha.patel@example.com,05.08.2023,DE,USD 28.54,enterprise,FALSE,75,aisha.patel@example.com,VALID,EMAIL-0053,,AMBIGUOUS,DUP-0063,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1946,Marcus Ferrari,Marcus <Marcus@example.com>,"Oct 29, 2024",france,9003,Mid Market,yes,76,marcus <marcus@example.com>,INVALID,,2024-10-29,VALID,DUP-0055,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1452,Chen Brennan,chen.brennan@mail.test,2025-05-25,Brazil,-999,Small Business,false,77,chen.brennan@mail.test,VALID,,2025-05-25,VALID,DUP-0064,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001168,ravi haddad,ravi.haddad@corp.example,"Jun 12, 2023",Brazil,USD 221.48,smb,yes,78,ravi.haddad@corp.example,VALID,EMAIL-0054,2023-06-12,VALID,DUP-0065,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1386,Grace Costa,grace.costa@corp.example,,FR,652,SMB,0,79,grace.costa@corp.example,VALID,EMAIL-0036,,MISSING,DUP-0045,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1059,ana Lindqvist,,"Aug 10, 2023",US,150,Enterprise,false,80,,MISSING,,2023-08-10,VALID,DUP-0066,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1271,ravi haddad,ravi.haddad@mail.test,2 Oct 2023,germany,864.05,enterprise,Y,81,ravi.haddad@mail.test,VALID,,2023-10-02,VALID,DUP-0065,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001530,jonas okafor,jonas.okafor@example.com,"Nov 24, 2023",United States,$223.12,Mid Market,true,82,jonas.okafor@example.com,VALID,EMAIL-0055,2023-11-24,VALID,DUP-0067,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1369,PRIYA weber,priya.weber@example.com,30 Jan 2025,france,USD 520.86,Enterprise,true,83,priya.weber@example.com,VALID,EMAIL-0056,2025-01-30,VALID,DUP-0068,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1620,Yuki Lindqvist,yuki.lindqvist@mail.test,-999,United Kingdom,114,consumer,0,84,yuki.lindqvist@mail.test,VALID,,,INVALID,DUP-0069,DATE_UNRECOGNISED_FORMAT:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-00001316,ana PATEL,ana.patel@mail.test,02/21/2023,United Kingdom,220,Small Business,1,85,ana.patel@mail.test,VALID,EMAIL-0057,2023-02-21,VALID,DUP-0070,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1929,ravi Costa,ravi.costa@mail.test,30 Apr 2025,Brazil,$85.25,SMB,false,86,ravi.costa@mail.test,VALID,EMAIL-0058,2025-04-30,VALID,DUP-0042,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1161,Aisha Kowalski,Aisha[at]example.com,"May 16, 2023",u.s.,,Consumer,Y,87,aisha[at]example.com,INVALID,,2023-05-16,VALID,DUP-0062,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1319,ana haddad,ana.haddad@mail.test,28.05.2023,United Kingdom,USD 361.07,midmarket,FALSE,88,ana.haddad@mail.test,VALID,EMAIL-0059,2023-05-28,VALID,DUP-0071,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1063,PRIYA ODWYER,priya.odwyer@corp.example,04/28/2025,Brazil,137.74,Mid-Market,1,89,priya.odwyer@corp.example,VALID,EMAIL-0060,2025-04-28,VALID,DUP-0072,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1464,Grace Kowalski,grace.kowalski@corp.example,2 Aug 2024,GB,255.48,Mid-Market,FALSE,90,grace.kowalski@corp.example,VALID,EMAIL-0061,2024-08-02,VALID,DUP-0073,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1831,ana haddad,ana.haddad@mail.test,-,GB,$1342.36,ENT,no,91,ana.haddad@mail.test,VALID,EMAIL-0059,,INVALID,DUP-0071,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1593,jonas Nguyen,jonas.nguyen@mail.test,01/10/2025,usa,204.94,smb,1,92,jonas.nguyen@mail.test,VALID,,,AMBIGUOUS,DUP-0074,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001088,Leilani ODWYER,leilani.odwyer@corp.example,2023-09-06,uk,"1,007",Consumer,0,93,leilani.odwyer@corp.example,VALID,EMAIL-0062,2023-09-06,VALID,DUP-0006,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001149,Noor Nguyen,noor.nguyen@mail.test,2024-05-11,u.s.,195,ENT,TRUE,94,noor.nguyen@mail.test,VALID,EMAIL-0063,2024-05-11,VALID,DUP-0075,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001549,jonas Ferrari,jonas[at]example.com,12.11.2023,BR,USD 140.44,consumer,false,95,jonas[at]example.com,INVALID,,,AMBIGUOUS,DUP-0051,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1340,jonas okafor,jonas.okafor@example.com,28.11.2024,GB,314.01,SMB,no,96,jonas.okafor@example.com,VALID,EMAIL-0055,2024-11-28,VALID,DUP-0067,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001050,Marcus weber,marcus.weber@example.com,08/03/2023,Germany,USD 119.97,SMB,no,97,marcus.weber@example.com,VALID,,,AMBIGUOUS,DUP-0076,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1022,Leilani PATEL,leilani.patel@mail.test,2023-07-20,DE,244,Mid Market,Y,98,leilani.patel@mail.test,VALID,,2023-07-20,VALID,DUP-0011,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1829,PRIYA Ferrari,priya.ferrari@corp.example,01.07.2024,france,$170.41,Mid-Market,0,99,priya.ferrari@corp.example,VALID,EMAIL-0015,,AMBIGUOUS,DUP-0016,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001243,PRIYA da silva,priya.dasilva@mail.test,2023-08-07,Brazil,$293.13,enterprise,FALSE,100,priya.dasilva@mail.test,VALID,EMAIL-0064,2023-08-07,VALID,DUP-0077,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1182,ravi Kowalski,ravi.kowalski@example.com,1 Oct 2023,DE,$475.35,Enterprise,N,101,ravi.kowalski@example.com,VALID,EMAIL-0065,2023-10-01,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001604,jonas Ferrari,jonas.ferrari@corp.example,2023-12-31,germany,$653.85,Consumer,0,102,jonas.ferrari@corp.example,VALID,EMAIL-0041,2023-12-31,VALID,DUP-0051,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001288,PRIYA PATEL,priya.patel@example.com,26 Apr 2024,BR,250.4,Mid-Market,1,103,priya.patel@example.com,VALID,EMAIL-0066,2024-04-26,VALID,DUP-0079,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001853,Sofia ODWYER,sofia.odwyer@mail.test,2023-04-04,United Kingdom,295,Mid Market,0,104,sofia.odwyer@mail.test,VALID,EMAIL-0067,2023-04-04,VALID,DUP-0080,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1037,MIKAEL ODWYER,MIKAEL.ODWYER@CORP.EXAMPLE,04/18/2023,Brazil,USD 189.88,mid-market,0,105,mikael.odwyer@corp.example,VALID,EMAIL-0068,2023-04-18,VALID,DUP-0049,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001614,Leilani Brennan,leilani.brennan@example.com,2023-11-09,GB,USD 287.4,Mid-Market,Y,106,leilani.brennan@example.com,VALID,EMAIL-0069,2023-11-09,VALID,DUP-0081,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1504,tomás Nguyen,toms.nguyen@mail.test,19.11.2024,GB,657,smb,FALSE,107,toms.nguyen@mail.test,VALID,,2024-11-19,VALID,DUP-0082,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001266,Mikael Costa,mikael.costa@mail.test,,germany,$479.26,Mid-Market,TRUE,108,mikael.costa@mail.test,VALID,EMAIL-0070,,MISSING,DUP-0083,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1755,jonas haddad,jonas.haddad@corp.example,29.03.2023,US,14062,smb,false,109,jonas.haddad@corp.example,VALID,,2023-03-29,VALID,,,N
+CUST-1138,Chen weber,chen.weber@example.com,,US,112.64,Mid Market,TRUE,110,chen.weber@example.com,VALID,EMAIL-0071,,MISSING,DUP-0084,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1881,Sofia Nguyen,sofia.nguyen@mail.test,05/08/2025,uk,$311.18,Mid-Market,N,111,sofia.nguyen@mail.test,VALID,EMAIL-0072,,AMBIGUOUS,DUP-0085,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1844,Marcus Costa,marcus.costa@example.com,8 Dec 2023,United States,7101,enterprise,N,112,marcus.costa@example.com,VALID,EMAIL-0073,2023-12-08,VALID,DUP-0086,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1404,jonas da silva,,08/09/2024,Brazil,267.79,midmarket,yes,113,,MISSING,,,AMBIGUOUS,DUP-0061,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001767,Chen Nakamura,chen.nakamura@corp.example,31.08.2023,france,USD 1039.6,enterprise,false,114,chen.nakamura@corp.example,VALID,EMAIL-0074,2023-08-31,VALID,DUP-0087,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001375,ana Nakamura,ana.nakamura@mail.test,2025-01-30,germany,,Small Business,FALSE,115,ana.nakamura@mail.test,VALID,EMAIL-0006,2025-01-30,VALID,DUP-0009,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1128,Yuki da silva,yuki.dasilva@mail.test,02/23/2025,usa,117.83,consumer,false,116,yuki.dasilva@mail.test,VALID,EMAIL-0029,2025-02-23,VALID,DUP-0035,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1774,omar da silva,omar.dasilva@example.com,04/24/2025,Brazil,75825,ENT,1,117,omar.dasilva@example.com,VALID,EMAIL-0075,2025-04-24,VALID,DUP-0088,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001631,ana weber,ana.weber@example.com,24 Dec 2024,Brazil,USD 126.25,smb,true,118,ana.weber@example.com,VALID,EMAIL-0076,2024-12-24,VALID,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001363,Sofia ODWYER,sofia.odwyer@mail.test,06/17/2024,United Kingdom,$616.45,Small Business,1,119,sofia.odwyer@mail.test,VALID,EMAIL-0067,2024-06-17,VALID,DUP-0080,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1343,Leilani weber,leilani.weber@corp.example,2024-05-24,france,,Consumer,N,120,leilani.weber@corp.example,VALID,,2024-05-24,VALID,DUP-0090,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1159,ravi Nguyen,ravi.nguyen@example.com,04/30/2023,United Kingdom,214.57,consumer,N,121,ravi.nguyen@example.com,VALID,EMAIL-0077,2023-04-30,VALID,DUP-0091,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1003,Yuki Nakamura,Yuki <Yuki@example.com>,2024-05-08,germany,82.23,consumer,TRUE,122,yuki <yuki@example.com>,INVALID,,2024-05-08,VALID,DUP-0046,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1154,Mikael ODWYER,mikael.odwyer@example.com,19 Jun 2025,Brazil,"4,161",SMB,no,123,mikael.odwyer@example.com,VALID,,2025-06-19,VALID,DUP-0049,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1886,Grace ODWYER,grace.odwyer@corp.example,12/23/2024,BR,USD 119.08,SMB,false,124,grace.odwyer@corp.example,VALID,,2024-12-23,VALID,DUP-0034,POSSIBLE_DUPLICATE_LOW,N
+CUST-1607,Aisha da silva,aisha.dasilva@example.com,2023-02-13,Germany,214.17,ENT,true,125,aisha.dasilva@example.com,VALID,EMAIL-0078,2023-02-13,VALID,DUP-0043,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001227,Yuki weber,yuki.weber@corp.example,14.09.2024,US,$39.19,enterprise,FALSE,126,yuki.weber@corp.example,VALID,EMAIL-0022,2024-09-14,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1686,Aisha ODWYER,aisha.odwyer@mail.test,,BR,29702,enterprise,Y,127,aisha.odwyer@mail.test,VALID,EMAIL-0079,,MISSING,DUP-0092,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1066,Leilani Nakamura,leilani.nakamura@mail.test,2023-07-13,Brazil,457.05,Small Business,N,128,leilani.nakamura@mail.test,VALID,,2023-07-13,VALID,DUP-0093,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1472,Yuki Ferrari,yuki.ferrari@mail.test,09/21/2023,DE,23784,Mid-Market,Y,129,yuki.ferrari@mail.test,VALID,EMAIL-0009,2023-09-21,VALID,DUP-0013,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001471,PRIYA LINDQVIST,PRIYA.LINDQVIST@MAIL.TEST,"Dec 29, 2023",france,16393,smb,false,130,priya.lindqvist@mail.test,VALID,EMAIL-0080,2023-12-29,VALID,DUP-0094,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001223,Aisha ODWYER,aisha.odwyer@mail.test,15 Dec 2024,u.s.,459,Enterprise,Y,131,aisha.odwyer@mail.test,VALID,EMAIL-0079,2024-12-15,VALID,DUP-0092,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1791,PRIYA okafor,priya.okafor@mail.test,"Jul 23, 2023",germany,338.63,Mid-Market,1,132,priya.okafor@mail.test,VALID,,2023-07-23,VALID,DUP-0095,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1584,NOOR KOWALSKI,NOOR.KOWALSKI@CORP.EXAMPLE,"Jan 7, 2023",DE,$357.33,enterprise,yes,133,noor.kowalski@corp.example,VALID,EMAIL-0081,2023-01-07,VALID,DUP-0054,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1135,Marcus ODWYER,marcus.odwyer@example.com,1 Mar 2025,FR,$27.9,midmarket,FALSE,134,marcus.odwyer@example.com,VALID,EMAIL-0082,2025-03-01,VALID,DUP-0096,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001827,PRIYA weber,PRIYA[at]example.com,2025-02-15,BR,183.87,Small Business,1,135,priya[at]example.com,INVALID,,2025-02-15,VALID,DUP-0068,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1327,Noor Nguyen,noor.nguyen@corp.example,2 Nov 2024,United Kingdom,162,Small Business,FALSE,136,noor.nguyen@corp.example,VALID,EMAIL-0083,2024-11-02,VALID,DUP-0075,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1603,Marcus Nakamura,marcus.nakamura@example.com,01/31/2023,u.s.,58,Small Business,no,137,marcus.nakamura@example.com,VALID,,2023-01-31,VALID,DUP-0097,POSSIBLE_DUPLICATE_LOW,N
+CUST-1313,Chen haddad,chen.haddad@corp.example,,u.s.,56.72,Small Business,N,138,chen.haddad@corp.example,VALID,EMAIL-0084,,MISSING,DUP-0098,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1357,Sofia okafor,Sofia <Sofia@example.com>,08/09/2024,france,$86.26,Enterprise,0,139,sofia <sofia@example.com>,INVALID,,,AMBIGUOUS,DUP-0099,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001758,ana Brennan,ana.brennan@corp.example,03/27/2025,germany,"1,476",Consumer,yes,140,ana.brennan@corp.example,VALID,EMAIL-0085,2025-03-27,VALID,DUP-0100,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001283,Yuki Nguyen,yuki.nguyen@corp.example,2025-03-21,germany,29156,midmarket,N,141,yuki.nguyen@corp.example,VALID,,2025-03-21,VALID,DUP-0010,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001104,OMAR WEBER,OMAR.WEBER@CORP.EXAMPLE,2023-11-19,Germany,$268.81,midmarket,Y,142,omar.weber@corp.example,VALID,EMAIL-0086,2023-11-19,VALID,DUP-0053,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001382,Grace Ferrari,grace.ferrari@corp.example,2025-02-24,United States,26508,Small Business,N,143,grace.ferrari@corp.example,VALID,,2025-02-24,VALID,DUP-0014,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001346,Leilani Kowalski,leilani.kowalski@example.com,9 Oct 2023,DE,30356,Enterprise,yes,144,leilani.kowalski@example.com,VALID,EMAIL-0087,2023-10-09,VALID,DUP-0101,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1574,Chen Nguyen,chen.nguyen@example.com,07/27/2023,usa,$430.12,ENT,0,145,chen.nguyen@example.com,VALID,EMAIL-0088,2023-07-27,VALID,DUP-0102,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1629,jonas Nguyen,jonas.nguyen@corp.example,15.05.2023,Germany,117,SMB,false,146,jonas.nguyen@corp.example,VALID,EMAIL-0089,2023-05-15,VALID,DUP-0074,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001440,jonas weber,jonas.weber@example.com,2023-07-27,u.s.,50608,consumer,TRUE,147,jonas.weber@example.com,VALID,EMAIL-0090,2023-07-27,VALID,DUP-0103,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001709,Aisha PATEL,aisha.patel@example.com,2023-09-28,uk,332.69,SMB,FALSE,148,aisha.patel@example.com,VALID,EMAIL-0053,2023-09-28,VALID,DUP-0063,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1291,Grace Ferrari,grace.ferrari@mail.test,2 Dec 2024,BR,184.64,Consumer,Y,149,grace.ferrari@mail.test,VALID,EMAIL-0010,2024-12-02,VALID,DUP-0014,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1601,ana Ferrari,ana.ferrari@example.com,11.02.2024,france,$150.89,ENT,no,150,ana.ferrari@example.com,VALID,,,AMBIGUOUS,DUP-0057,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001420,Noor PATEL,noor.patel@mail.test,"Jan 15, 2025",US,USD 316.09,Mid Market,TRUE,151,noor.patel@mail.test,VALID,EMAIL-0091,2025-01-15,VALID,DUP-0104,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1039,OMAR COSTA,OMAR.COSTA@MAIL.TEST,06.03.2024,FR,USD 76.77,ent,false,152,omar.costa@mail.test,VALID,EMAIL-0092,,AMBIGUOUS,DUP-0105,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1596,jonas Nguyen,jonas.nguyen@corp.example,2025-03-29,usa,$61.14,consumer,0,153,jonas.nguyen@corp.example,VALID,EMAIL-0089,2025-03-29,VALID,DUP-0074,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1296,jonas Ferrari,jonas.ferrari@mail.test,"Jul 14, 2024",Germany,$79.44,Enterprise,TRUE,154,jonas.ferrari@mail.test,VALID,,2024-07-14,VALID,DUP-0051,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001238,ravi Lindqvist,ravi.lindqvist@corp.example,"Jul 13, 2023",US,$119.23,SMB,true,155,ravi.lindqvist@corp.example,VALID,EMAIL-0093,2023-07-13,VALID,DUP-0019,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1639,PRIYA NAKAMURA,PRIYA[AT]EXAMPLE.COM,"May 26, 2025",france,175.53,enterprise,TRUE,156,priya[at]example.com,INVALID,,2025-05-26,VALID,DUP-0106,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1936,Noor Nakamura,noor.nakamura@example.com,"May 18, 2024",United Kingdom,$143.43,Mid Market,false,157,noor.nakamura@example.com,VALID,,2024-05-18,VALID,DUP-0107,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1026,Chen weber,chen.weber@corp.example,-,Brazil,-999,midmarket,Y,158,chen.weber@corp.example,VALID,,,INVALID,DUP-0084,DATE_UNRECOGNISED_FORMAT:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001038,PRIYA weber,priya.weber@mail.test,2024-05-17,GB,990,Enterprise,TRUE,159,priya.weber@mail.test,VALID,,2024-05-17,VALID,DUP-0068,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1813,Yuki Kowalski,yuki.kowalski@example.com,"Aug 9, 2024",france,124.34,Enterprise,yes,160,yuki.kowalski@example.com,VALID,EMAIL-0023,2024-08-09,VALID,DUP-0027,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001835,Mikael da silva,mikael.dasilva@example.com,4 Dec 2023,Brazil,161.16,midmarket,no,161,mikael.dasilva@example.com,VALID,EMAIL-0042,2023-12-04,VALID,DUP-0052,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001598,ana Lindqvist,ana.lindqvist@example.com,24.05.2023,US,$347.58,ENT,true,162,ana.lindqvist@example.com,VALID,,2023-05-24,VALID,DUP-0066,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001862,Leilani Costa,Leilani@@example..com,-,FR,160,midmarket,yes,163,leilani@@example..com,INVALID,,,INVALID,DUP-0108,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001438,Sofia Lindqvist,sofia.lindqvist@mail.test,"Dec 20, 2023",US,159.53,enterprise,false,164,sofia.lindqvist@mail.test,VALID,,2023-12-20,VALID,DUP-0109,POSSIBLE_DUPLICATE_LOW,N
+CUST-1190,omar Nakamura,omar.nakamura@mail.test,-999,germany,$97.94,smb,yes,165,omar.nakamura@mail.test,VALID,EMAIL-0094,,INVALID,DUP-0060,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1933,Noor okafor,noor.okafor@mail.test,15 Sep 2024,uk,USD 289.61,Mid Market,1,166,noor.okafor@mail.test,VALID,,2024-09-15,VALID,DUP-0110,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1535,Mikael Brennan,mikael.brennan@example.com,"Oct 9, 2023",United States,$226.5,consumer,0,167,mikael.brennan@example.com,VALID,EMAIL-0095,2023-10-09,VALID,DUP-0056,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1103,Chen weber,chen.weber@example.com,25 Feb 2025,uk,USD 451.12,Enterprise,1,168,chen.weber@example.com,VALID,EMAIL-0071,2025-02-25,VALID,DUP-0084,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1523,Grace Nguyen,grace.nguyen@example.com,07/16/2024,u.s.,19.14,Enterprise,true,169,grace.nguyen@example.com,VALID,EMAIL-0096,2024-07-16,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1181,Leilani PATEL,leilani.patel@example.com,01.07.2024,france,$386.91,midmarket,N,170,leilani.patel@example.com,VALID,EMAIL-0008,,AMBIGUOUS,DUP-0011,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1021,PRIYA da silva,priya.dasilva@mail.test,2 Mar 2023,BR,15220,Small Business,true,171,priya.dasilva@mail.test,VALID,EMAIL-0064,2023-03-02,VALID,DUP-0077,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1587,Sofia Kowalski,sofia.kowalski@example.com,08/28/2024,United Kingdom,309,Small Business,yes,172,sofia.kowalski@example.com,VALID,,2024-08-28,VALID,DUP-0112,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001118,jonas da silva,jonas.dasilva@mail.test,2023-06-21,US,USD 96.97,Enterprise,TRUE,173,jonas.dasilva@mail.test,VALID,EMAIL-0052,2023-06-21,VALID,DUP-0061,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001331,Grace Nguyen,grace.nguyen@corp.example,2024-03-22,u.s.,355.27,SMB,N,174,grace.nguyen@corp.example,VALID,EMAIL-0097,2024-03-22,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001558,Mikael ODWYER,Mikael <Mikael@example.com>,05/20/2023,US,510.11,Small Business,1,175,mikael <mikael@example.com>,INVALID,,2023-05-20,VALID,DUP-0049,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1911,tomás Costa,toms.costa@example.com,,US,246,midmarket,Y,176,toms.costa@example.com,VALID,,,MISSING,DUP-0113,POSSIBLE_DUPLICATE_LOW,N
+CUST-1918,PRIYA da silva,priya.dasilva@corp.example,05.02.2024,germany,$409.21,enterprise,false,177,priya.dasilva@corp.example,VALID,,,AMBIGUOUS,DUP-0077,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1514,tomás Nakamura,toms.nakamura@mail.test,2023-10-29,GB,674,consumer,no,178,toms.nakamura@mail.test,VALID,EMAIL-0098,2023-10-29,VALID,DUP-0024,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001664,ana Nguyen,ana.nguyen@mail.test,2 Sep 2023,Brazil,147.54,smb,FALSE,179,ana.nguyen@mail.test,VALID,EMAIL-0099,2023-09-02,VALID,DUP-0114,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1825,Noor Nakamura,noor.nakamura@corp.example,09.07.2024,United States,652.96,ENT,TRUE,180,noor.nakamura@corp.example,VALID,,,AMBIGUOUS,DUP-0107,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1477,Noor da silva,noor.dasilva@mail.test,18 Dec 2023,BR,USD 27.66,SMB,1,181,noor.dasilva@mail.test,VALID,EMAIL-0024,2023-12-18,VALID,DUP-0029,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1286,tomás Kowalski,toms.kowalski@mail.test,03/08/2025,u.s.,647,smb,no,182,toms.kowalski@mail.test,VALID,EMAIL-0100,,AMBIGUOUS,DUP-0115,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1857,tomás PATEL,toms.patel@corp.example,29.04.2025,france,77,ENT,1,183,toms.patel@corp.example,VALID,EMAIL-0101,2025-04-29,VALID,DUP-0116,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1786,ravi Costa,ravi.costa@example.com,2023-08-06,u.s.,334.51,midmarket,true,184,ravi.costa@example.com,VALID,EMAIL-0050,2023-08-06,VALID,DUP-0042,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1935,Leilani Lindqvist,leilani.lindqvist@mail.test,08/28/2024,FR,8469,Consumer,N,185,leilani.lindqvist@mail.test,VALID,EMAIL-0102,2024-08-28,VALID,DUP-0117,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1660,omar ODWYER,omar.odwyer@example.com,4 Sep 2023,DE,92,ENT,FALSE,186,omar.odwyer@example.com,VALID,,2023-09-04,VALID,DUP-0118,POSSIBLE_DUPLICATE_LOW,N
+CUST-1379,ravi Kowalski,ravi.kowalski@mail.test,20.03.2024,usa,18155,ENT,Y,187,ravi.kowalski@mail.test,VALID,EMAIL-0103,2024-03-20,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1380,Leilani Ferrari,,2 Mar 2025,usa,102.74,Mid Market,FALSE,188,,MISSING,,2025-03-02,VALID,DUP-0030,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1186,omar da silva,omar.dasilva@mail.test,19 Jun 2025,United States,,smb,no,189,omar.dasilva@mail.test,VALID,,2025-06-19,VALID,DUP-0088,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1870,Noor Kowalski,noor.kowalski@corp.example,11/09/2024,u.s.,15270,Enterprise,TRUE,190,noor.kowalski@corp.example,VALID,EMAIL-0081,,AMBIGUOUS,DUP-0054,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1721,MIKAEL OKAFOR,MIKAEL.OKAFOR@MAIL.TEST,2023-11-30,United States,$137.67,smb,N,191,mikael.okafor@mail.test,VALID,EMAIL-0104,2023-11-30,VALID,DUP-0119,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1368,tomás Ferrari,toms.ferrari@example.com,"Apr 18, 2025",BR,129.31,Mid Market,no,192,toms.ferrari@example.com,VALID,EMAIL-0105,2025-04-18,VALID,DUP-0120,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001738,omar ODWYER,omar.odwyer@corp.example,06.07.2023,FR,376.39,ENT,yes,193,omar.odwyer@corp.example,VALID,,,AMBIGUOUS,DUP-0118,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1222,Yuki da silva,yuki.dasilva@corp.example,15 Feb 2023,usa,346,midmarket,true,194,yuki.dasilva@corp.example,VALID,,2023-02-15,VALID,DUP-0035,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1250,jonas Costa,,,france,$536.8,Enterprise,false,195,,MISSING,,,MISSING,DUP-0121,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1136,Leilani Nakamura,,03.02.2024,france,209.44,Mid Market,N,196,,MISSING,,,AMBIGUOUS,DUP-0093,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1796,Marcus da silva,marcus.dasilva@example.com,"Sep 1, 2023",US,$986.75,smb,N,197,marcus.dasilva@example.com,VALID,,2023-09-01,VALID,DUP-0122,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001793,PRIYA OKAFOR,PRIYA.OKAFOR@CORP.EXAMPLE,02.08.2024,france,284,consumer,true,198,priya.okafor@corp.example,VALID,EMAIL-0106,,AMBIGUOUS,DUP-0095,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1562,Leilani PATEL,leilani.patel@example.com,29.04.2025,u.s.,USD 85.7,SMB,TRUE,199,leilani.patel@example.com,VALID,EMAIL-0008,2025-04-29,VALID,DUP-0011,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1308,jonas Kowalski,jonas.kowalski@corp.example,27.02.2023,usa,228,ENT,1,200,jonas.kowalski@corp.example,VALID,,2023-02-27,VALID,DUP-0028,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1453,Yuki Kowalski,yuki.kowalski@example.com,2023-08-15,United States,16832,Mid Market,true,201,yuki.kowalski@example.com,VALID,EMAIL-0023,2023-08-15,VALID,DUP-0027,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1876,ana Costa,ana.costa@corp.example,2024-04-05,DE,191,Consumer,Y,202,ana.costa@corp.example,VALID,EMAIL-0107,2024-04-05,VALID,DUP-0123,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1646,Aisha haddad,aisha.haddad@example.com,07/10/2024,france,USD 643.33,smb,true,203,aisha.haddad@example.com,VALID,EMAIL-0108,,AMBIGUOUS,DUP-0038,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1203,Aisha Costa,aisha.costa@corp.example,03.03.2023,DE,$289.09,enterprise,yes,204,aisha.costa@corp.example,VALID,EMAIL-0109,2023-03-03,VALID,DUP-0044,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1826,Sofia Brennan,Sofia[at]example.com,8 May 2024,GB,258.2,Mid Market,FALSE,205,sofia[at]example.com,INVALID,,2024-05-08,VALID,DUP-0124,EMAIL_INVALID|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1713,Chen ODWYER,chen.odwyer@example.com,02/08/2024,United States,22396,ENT,TRUE,206,chen.odwyer@example.com,VALID,EMAIL-0110,,AMBIGUOUS,DUP-0125,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001397,RAVI COSTA,RAVI.COSTA@CORP.EXAMPLE,14.07.2024,Brazil,$442.66,consumer,FALSE,207,ravi.costa@corp.example,VALID,EMAIL-0034,2024-07-14,VALID,DUP-0042,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1143,Marcus haddad,marcus.haddad@example.com,08/23/2024,DE,$111.65,Small Business,yes,208,marcus.haddad@example.com,VALID,EMAIL-0111,2024-08-23,VALID,DUP-0126,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1301,Yuki okafor,yuki.okafor@example.com,03/29/2025,DE,128.16,smb,yes,209,yuki.okafor@example.com,VALID,EMAIL-0112,2025-03-29,VALID,DUP-0012,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1268,PRIYA Nguyen,priya.nguyen@corp.example,18.03.2025,US,USD 68.11,Mid-Market,1,210,priya.nguyen@corp.example,VALID,EMAIL-0113,2025-03-18,VALID,DUP-0031,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1691,Aisha Nakamura,Aisha@@example..com,04/20/2024,france,$148.47,Enterprise,false,211,aisha@@example..com,INVALID,,2024-04-20,VALID,DUP-0127,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1788,omar Ferrari,omar.ferrari@corp.example,02/18/2023,United States,17282,Consumer,yes,212,omar.ferrari@corp.example,VALID,,2023-02-18,VALID,DUP-0128,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001376,omar okafor,omar.okafor@corp.example,"Aug 12, 2024",DE,511.99,SMB,false,213,omar.okafor@corp.example,VALID,EMAIL-0017,2024-08-12,VALID,DUP-0021,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001309,ravi ODWYER,ravi.odwyer@example.com,21.11.2023,DE,$59.33,Mid Market,false,214,ravi.odwyer@example.com,VALID,EMAIL-0114,2023-11-21,VALID,DUP-0129,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1338,Yuki Costa,yuki.costa@mail.test,29.08.2023,GB,USD 108.03,Consumer,1,215,yuki.costa@mail.test,VALID,EMAIL-0115,2023-08-29,VALID,DUP-0130,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1641,Marcus Brennan,marcus.brennan@example.com,2024-10-14,uk,11474,smb,N,216,marcus.brennan@example.com,VALID,,2024-10-14,VALID,DUP-0131,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001810,Mikael Brennan,mikael.brennan@mail.test,"Jul 12, 2024",Germany,$194.62,smb,false,217,mikael.brennan@mail.test,VALID,EMAIL-0047,2024-07-12,VALID,DUP-0056,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1792,ana da silva,ana.dasilva@example.com,4 Feb 2023,FR,USD 214.85,Mid-Market,1,218,ana.dasilva@example.com,VALID,EMAIL-0116,2023-02-04,VALID,DUP-0058,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1058,Leilani da silva,leilani.dasilva@example.com,16 Apr 2024,United Kingdom,USD 105.91,Small Business,Y,219,leilani.dasilva@example.com,VALID,EMAIL-0117,2024-04-16,VALID,DUP-0004,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001729,tomás PATEL,toms.patel@mail.test,04/06/2023,GB,$136.22,ENT,0,220,toms.patel@mail.test,VALID,,,AMBIGUOUS,DUP-0116,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1710,ANA OKAFOR,ANA.OKAFOR@CORP.EXAMPLE,04.02.2024,u.s.,,midmarket,Y,221,ana.okafor@corp.example,VALID,EMAIL-0118,,AMBIGUOUS,DUP-0132,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1583,Grace Kowalski,grace.kowalski@corp.example,,Germany,USD 93.84,smb,FALSE,222,grace.kowalski@corp.example,VALID,EMAIL-0061,,MISSING,DUP-0073,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1498,Mikael Ferrari,mikael.ferrari@mail.test,28 Aug 2023,GB,443.94,Mid Market,yes,223,mikael.ferrari@mail.test,VALID,EMAIL-0119,2023-08-28,VALID,DUP-0048,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1255,ana PATEL,ana.patel@corp.example,"Jun 24, 2024",u.s.,64.09,Small Business,0,224,ana.patel@corp.example,VALID,EMAIL-0120,2024-06-24,VALID,DUP-0070,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001155,Sofia Kowalski,sofia.kowalski@corp.example,10/13/2024,DE,48092,ENT,TRUE,225,sofia.kowalski@corp.example,VALID,EMAIL-0121,2024-10-13,VALID,DUP-0112,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001799,Aisha Brennan,Aisha <Aisha@example.com>,3 Feb 2023,BR,USD 864.54,consumer,TRUE,226,aisha <aisha@example.com>,INVALID,,2023-02-03,VALID,DUP-0001,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001167,ana Nakamura,ana@@example..com,04.10.2023,usa,1159.16,Mid Market,no,227,ana@@example..com,INVALID,,,AMBIGUOUS,DUP-0009,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1060,Aisha Ferrari,aisha.ferrari@mail.test,"May 9, 2023",usa,$316.12,enterprise,true,228,aisha.ferrari@mail.test,VALID,EMAIL-0122,2023-05-09,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001529,Marcus okafor,marcus.okafor@example.com,2024-03-07,usa,114,enterprise,false,229,marcus.okafor@example.com,VALID,,2024-03-07,VALID,DUP-0134,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001156,Leilani weber,leilani.weber@example.com,2023-03-12,france,8172,enterprise,FALSE,230,leilani.weber@example.com,VALID,EMAIL-0123,2023-03-12,VALID,DUP-0090,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001945,Grace Nguyen,grace.nguyen@example.com,2024-08-22,u.s.,167,smb,1,231,grace.nguyen@example.com,VALID,EMAIL-0096,2024-08-22,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1924,Mikael Kowalski,mikael.kowalski@corp.example,1 Apr 2023,france,$124.31,Mid-Market,no,232,mikael.kowalski@corp.example,VALID,,2023-04-01,VALID,,,N
+CUST-00001838,Yuki haddad,yuki.haddad@corp.example,04.06.2025,DE,20511,enterprise,1,233,yuki.haddad@corp.example,VALID,,,AMBIGUOUS,DUP-0040,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1710,ana okafor,ana.okafor@corp.example,04.02.2024,u.s.,,midmarket,Y,234,ana.okafor@corp.example,VALID,EMAIL-0118,,AMBIGUOUS,DUP-0132,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1926,ravi Brennan,ravi.brennan@example.com,05/29/2024,US,USD 102.8,Consumer,1,235,ravi.brennan@example.com,VALID,,2024-05-29,VALID,DUP-0032,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1025,ravi Nguyen,ravi.nguyen@mail.test,04/06/2024,Germany,772,Enterprise,false,236,ravi.nguyen@mail.test,VALID,EMAIL-0124,,AMBIGUOUS,DUP-0091,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001513,omar Kowalski,omar.kowalski@corp.example,1 Mar 2025,US,,ENT,0,237,omar.kowalski@corp.example,VALID,EMAIL-0125,2025-03-01,VALID,DUP-0135,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1661,Mikael Ferrari,,12/09/2023,Germany,499.9,midmarket,Y,238,,MISSING,,,AMBIGUOUS,DUP-0048,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1771,ravi ODWYER,ravi <ravi@example.com>,10/31/2023,GB,8720,Small Business,FALSE,239,ravi <ravi@example.com>,INVALID,,2023-10-31,VALID,DUP-0129,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1546,Grace okafor,grace.okafor@example.com,17 Mar 2025,DE,USD 125.34,SMB,TRUE,240,grace.okafor@example.com,VALID,EMAIL-0126,2025-03-17,VALID,DUP-0136,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1503,Grace Costa,grace.costa@corp.example,02/15/2024,Brazil,USD 204.69,ENT,false,241,grace.costa@corp.example,VALID,EMAIL-0036,2024-02-15,VALID,DUP-0045,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1090,Grace Nguyen,grace.nguyen@example.com,27 Apr 2023,DE,732,midmarket,Y,242,grace.nguyen@example.com,VALID,EMAIL-0096,2023-04-27,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1902,Noor Nakamura,Noor[at]example.com,06/09/2025,Germany,$69.95,enterprise,1,243,noor[at]example.com,INVALID,,,AMBIGUOUS,DUP-0107,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1856,Noor da silva,noor.dasilva@mail.test,01/07/2024,United Kingdom,396.67,Mid Market,true,244,noor.dasilva@mail.test,VALID,EMAIL-0024,,AMBIGUOUS,DUP-0029,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1121,Grace weber,grace.weber@corp.example,"Dec 17, 2024",DE,USD 176.43,midmarket,Y,245,grace.weber@corp.example,VALID,,2024-12-17,VALID,DUP-0137,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1715,omar Kowalski,omar.kowalski@corp.example,01/29/2023,Germany,4199,ENT,1,246,omar.kowalski@corp.example,VALID,EMAIL-0125,2023-01-29,VALID,DUP-0135,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001302,Sofia haddad,Sofia@@example..com,05/24/2024,Brazil,USD 96.28,SMB,yes,247,sofia@@example..com,INVALID,,2024-05-24,VALID,DUP-0138,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1715,OMAR KOWALSKI,OMAR.KOWALSKI@CORP.EXAMPLE,01/29/2023,Germany,4199,ent,1,248,omar.kowalski@corp.example,VALID,EMAIL-0125,2023-01-29,VALID,DUP-0135,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1081,tomás weber,toms.weber@mail.test,08/20/2023,Brazil,USD 366.3,Mid-Market,Y,249,toms.weber@mail.test,VALID,EMAIL-0127,2023-08-20,VALID,DUP-0139,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1015,Grace weber,grace.weber@mail.test,23.11.2024,u.s.,$431.66,midmarket,yes,250,grace.weber@mail.test,VALID,,2024-11-23,VALID,DUP-0137,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1247,Marcus Ferrari,marcus.ferrari@mail.test,04/18/2023,GB,USD 1241.79,Mid-Market,no,251,marcus.ferrari@mail.test,VALID,EMAIL-0046,2023-04-18,VALID,DUP-0055,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1616,Chen Nguyen,chen.nguyen@example.com,2025-06-16,uk,552.57,ENT,no,252,chen.nguyen@example.com,VALID,EMAIL-0088,2025-06-16,VALID,DUP-0102,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001273,Grace Ferrari,grace.ferrari@mail.test,"Apr 19, 2025",u.s.,238.7,Small Business,FALSE,253,grace.ferrari@mail.test,VALID,EMAIL-0010,2025-04-19,VALID,DUP-0014,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1677,ana weber,ana.weber@corp.example,25 Aug 2023,u.s.,USD 181.15,ENT,FALSE,254,ana.weber@corp.example,VALID,EMAIL-0128,2023-08-25,VALID,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001623,Mikael Nakamura,mikael.nakamura@corp.example,30.11.2023,germany,340.89,Enterprise,0,255,mikael.nakamura@corp.example,VALID,EMAIL-0129,2023-11-30,VALID,DUP-0140,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001550,tomás Ferrari,toms.ferrari@example.com,"Nov 23, 2023",germany,USD 201.96,Mid Market,yes,256,toms.ferrari@example.com,VALID,EMAIL-0105,2023-11-23,VALID,DUP-0120,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1188,Chen da silva,chen.dasilva@example.com,5 Jan 2023,Germany,USD 594.22,SMB,N,257,chen.dasilva@example.com,VALID,,2023-01-05,VALID,,,N
+CUST-1253,Mikael haddad,mikael.haddad@corp.example,10/09/2024,BR,184.8,ENT,yes,258,mikael.haddad@corp.example,VALID,,,AMBIGUOUS,,DATE_AMBIGUOUS_DAY_MONTH:signup_date,Y
+CUST-1671,Mikael okafor,mikael.okafor@example.com,"Feb 8, 2025",uk,66.55,Small Business,N,259,mikael.okafor@example.com,VALID,,2025-02-08,VALID,DUP-0119,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001801,Yuki da silva,,23 Feb 2023,germany,USD 364.92,Consumer,no,260,,MISSING,,2023-02-23,VALID,DUP-0035,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1415,Aisha ODWYER,aisha.odwyer@mail.test,2023-09-12,United States,227.52,midmarket,Y,261,aisha.odwyer@mail.test,VALID,EMAIL-0079,2023-09-12,VALID,DUP-0092,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1252,tomás ODWYER,toms.odwyer@example.com,14.03.2024,Brazil,513.32,SMB,true,262,toms.odwyer@example.com,VALID,,2024-03-14,VALID,DUP-0007,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1704,Yuki Brennan,yuki.brennan@corp.example,2023-02-12,BR,USD 214.56,Small Business,Y,263,yuki.brennan@corp.example,VALID,EMAIL-0130,2023-02-12,VALID,DUP-0141,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1573,Noor okafor,noor.okafor@corp.example,-,DE,USD 161.72,ENT,N,264,noor.okafor@corp.example,VALID,,,INVALID,DUP-0110,DATE_UNRECOGNISED_FORMAT:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1483,tomás haddad,tomás[at]example.com,12/01/2024,United Kingdom,$384.65,enterprise,true,265,tomás[at]example.com,INVALID,,,AMBIGUOUS,DUP-0041,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1093,jonas ODWYER,jonas.odwyer@mail.test,03.05.2024,United Kingdom,178.09,Mid Market,false,266,jonas.odwyer@mail.test,VALID,EMAIL-0131,,AMBIGUOUS,DUP-0142,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1282,Mikael weber,mikael.weber@example.com,"Jul 12, 2024",usa,31,Mid-Market,0,267,mikael.weber@example.com,VALID,EMAIL-0132,2024-07-12,VALID,DUP-0020,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1705,omar Brennan,omar.brennan@example.com,2023-01-20,FR,$35.7,midmarket,N,268,omar.brennan@example.com,VALID,EMAIL-0002,2023-01-20,VALID,DUP-0002,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001105,PRIYA Lindqvist,priya.lindqvist@corp.example,2023-08-18,DE,706.13,smb,true,269,priya.lindqvist@corp.example,VALID,,2023-08-18,VALID,DUP-0094,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001235,Mikael Nguyen,mikael.nguyen@corp.example,18.12.2023,DE,118.7,SMB,yes,270,mikael.nguyen@corp.example,VALID,EMAIL-0133,2023-12-18,VALID,DUP-0143,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1823,Mikael weber,mikael.weber@example.com,2024-09-13,FR,$1829.96,Enterprise,no,271,mikael.weber@example.com,VALID,EMAIL-0132,2024-09-13,VALID,DUP-0020,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1325,tomás da silva,toms.dasilva@mail.test,2023-12-14,BR,335.01,SMB,1,272,toms.dasilva@mail.test,VALID,EMAIL-0134,2023-12-14,VALID,DUP-0144,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001735,Leilani da silva,leilani.dasilva@example.com,07.03.2023,DE,USD 210.64,smb,yes,273,leilani.dasilva@example.com,VALID,EMAIL-0117,,AMBIGUOUS,DUP-0004,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001476,TOMÁS OKAFOR,TOMS.OKAFOR@EXAMPLE.COM,11 Jul 2023,Brazil,$393.42,mid market,0,274,toms.okafor@example.com,VALID,EMAIL-0135,2023-07-11,VALID,DUP-0145,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1606,Yuki PATEL,yuki.patel@corp.example,15.03.2023,france,$178.87,Mid Market,true,275,yuki.patel@corp.example,VALID,,2023-03-15,VALID,DUP-0033,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001954,Mikael Nguyen,mikael.nguyen@corp.example,10/17/2024,u.s.,,consumer,no,276,mikael.nguyen@corp.example,VALID,EMAIL-0133,2024-10-17,VALID,DUP-0143,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1145,Aisha Kowalski,aisha.kowalski@example.com,27.09.2024,france,USD 128.49,ENT,N,277,aisha.kowalski@example.com,VALID,,2024-09-27,VALID,DUP-0062,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1651,jonas Kowalski,jonas.kowalski@mail.test,"Oct 13, 2023",BR,173.91,Consumer,false,278,jonas.kowalski@mail.test,VALID,EMAIL-0136,2023-10-13,VALID,DUP-0028,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001753,ravi Lindqvist,ravi.lindqvist@corp.example,2023-04-28,BR,33322,SMB,FALSE,279,ravi.lindqvist@corp.example,VALID,EMAIL-0093,2023-04-28,VALID,DUP-0019,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1265,tomás weber,toms.weber@mail.test,"May 6, 2024",GB,404,ENT,true,280,toms.weber@mail.test,VALID,EMAIL-0127,2024-05-06,VALID,DUP-0139,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001617,tomás haddad,toms.haddad@example.com,08.06.2025,germany,$103.44,ENT,N,281,toms.haddad@example.com,VALID,EMAIL-0137,,AMBIGUOUS,DUP-0041,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1850,PRIYA haddad,priya.haddad@corp.example,02.05.2023,usa,$219.12,smb,1,282,priya.haddad@corp.example,VALID,EMAIL-0138,,AMBIGUOUS,DUP-0146,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1765,Grace okafor,grace.okafor@example.com,04/12/2024,United Kingdom,$104.78,consumer,FALSE,283,grace.okafor@example.com,VALID,EMAIL-0126,,AMBIGUOUS,DUP-0136,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1581,PRIYA Kowalski,priya.kowalski@example.com,10 May 2023,United Kingdom,$123.79,Mid-Market,Y,284,priya.kowalski@example.com,VALID,,2023-05-10,VALID,DUP-0147,POSSIBLE_DUPLICATE_LOW,N
+CUST-1048,Leilani Lindqvist,leilani.lindqvist@mail.test,17 Jul 2023,US,187.82,midmarket,no,285,leilani.lindqvist@mail.test,VALID,EMAIL-0102,2023-07-17,VALID,DUP-0117,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001157,ravi Nguyen,ravi.nguyen@corp.example,2023-03-23,Brazil,USD 100.44,ENT,Y,286,ravi.nguyen@corp.example,VALID,EMAIL-0139,2023-03-23,VALID,DUP-0091,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1078,Grace Lindqvist,grace.lindqvist@corp.example,"Jul 9, 2023",GB,$197.87,enterprise,FALSE,287,grace.lindqvist@corp.example,VALID,EMAIL-0140,2023-07-09,VALID,DUP-0148,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1259,Grace Lindqvist,grace.lindqvist@corp.example,01/21/2024,United States,80.7,midmarket,false,288,grace.lindqvist@corp.example,VALID,EMAIL-0140,2024-01-21,VALID,DUP-0148,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1212,ravi haddad,ravi.haddad@example.com,03/30/2025,Brazil,177.11,Consumer,true,289,ravi.haddad@example.com,VALID,EMAIL-0141,2025-03-30,VALID,DUP-0065,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1430,jonas Kowalski,jonas.kowalski@mail.test,2025-01-14,u.s.,$99.25,Mid-Market,Y,290,jonas.kowalski@mail.test,VALID,EMAIL-0136,2025-01-14,VALID,DUP-0028,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1320,ana PATEL,ana.patel@corp.example,06/25/2023,DE,243.23,enterprise,FALSE,291,ana.patel@corp.example,VALID,EMAIL-0120,2023-06-25,VALID,DUP-0070,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1584,Noor Kowalski,noor.kowalski@corp.example,"Jan 7, 2023",DE,$357.33,enterprise,yes,292,noor.kowalski@corp.example,VALID,EMAIL-0081,2023-01-07,VALID,DUP-0054,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1674,Grace Nakamura,grace.nakamura@mail.test,17.05.2023,United States,"1,058",midmarket,false,293,grace.nakamura@mail.test,VALID,EMAIL-0142,2023-05-17,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1484,Yuki weber,yuki.weber@mail.test,2024-07-28,DE,1396.98,smb,true,294,yuki.weber@mail.test,VALID,EMAIL-0143,2024-07-28,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1778,Noor Kowalski,noor.kowalski@mail.test,"Jan 7, 2024",BR,60600,consumer,false,295,noor.kowalski@mail.test,VALID,EMAIL-0044,2024-01-07,VALID,DUP-0054,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1144,tomás Kowalski,toms.kowalski@corp.example,22.02.2025,United States,24987,Enterprise,0,296,toms.kowalski@corp.example,VALID,EMAIL-0144,2025-02-22,VALID,DUP-0115,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1388,Noor Brennan,noor.brennan@corp.example,07/21/2023,u.s.,64607,enterprise,Y,297,noor.brennan@corp.example,VALID,EMAIL-0030,2023-07-21,VALID,DUP-0037,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001302,SOFIA HADDAD,SOFIA@@EXAMPLE..COM,05/24/2024,Brazil,USD 96.28,smb,yes,298,sofia@@example..com,INVALID,,2024-05-24,VALID,DUP-0138,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1391,NOOR OKAFOR,NOOR.OKAFOR@EXAMPLE.COM,13 Jul 2024,uk,$48.17,enterprise,no,299,noor.okafor@example.com,VALID,EMAIL-0145,2024-07-13,VALID,DUP-0110,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001669,Leilani Brennan,leilani.brennan@mail.test,2025-03-13,DE,$39.82,ENT,TRUE,300,leilani.brennan@mail.test,VALID,,2025-03-13,VALID,DUP-0081,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1414,Chen PATEL,chen.patel@example.com,31.03.2024,Brazil,$531.27,SMB,TRUE,301,chen.patel@example.com,VALID,,2024-03-31,VALID,DUP-0149,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1824,jonas weber,jonas.weber@mail.test,"May 19, 2024",france,,SMB,true,302,jonas.weber@mail.test,VALID,,2024-05-19,VALID,DUP-0103,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001246,Mikael Costa,mikael.costa@mail.test,03/31/2024,germany,$108.79,Small Business,TRUE,303,mikael.costa@mail.test,VALID,EMAIL-0070,2024-03-31,VALID,DUP-0083,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001307,Grace Lindqvist,grace.lindqvist@corp.example,"Sep 21, 2024",france,825.05,Enterprise,Y,304,grace.lindqvist@corp.example,VALID,EMAIL-0140,2024-09-21,VALID,DUP-0148,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1200,Grace Nguyen,grace.nguyen@corp.example,22.12.2024,france,141.88,midmarket,N,305,grace.nguyen@corp.example,VALID,EMAIL-0097,2024-12-22,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1014,Aisha Costa,aisha.costa@corp.example,"Apr 22, 2025",US,41226,ENT,true,306,aisha.costa@corp.example,VALID,EMAIL-0109,2025-04-22,VALID,DUP-0044,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1578,Chen Lindqvist,chen.lindqvist@corp.example,16 Apr 2023,usa,USD 169.84,Mid-Market,yes,307,chen.lindqvist@corp.example,VALID,EMAIL-0146,2023-04-16,VALID,DUP-0150,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1814,PRIYA weber,priya.weber@corp.example,12/24/2023,germany,34202,Consumer,true,308,priya.weber@corp.example,VALID,,2023-12-24,VALID,DUP-0068,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1389,omar Nakamura,omar.nakamura@mail.test,2024-08-11,uk,,Consumer,Y,309,omar.nakamura@mail.test,VALID,EMAIL-0094,2024-08-11,VALID,DUP-0060,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1405,Aisha ODWYER,aisha.odwyer@mail.test,2024-03-09,usa,$398.82,consumer,TRUE,310,aisha.odwyer@mail.test,VALID,EMAIL-0079,2024-03-09,VALID,DUP-0092,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1636,ravi ODWYER,ravi.odwyer@mail.test,"Jan 1, 2023",US,60,Small Business,FALSE,311,ravi.odwyer@mail.test,VALID,EMAIL-0147,2023-01-01,VALID,DUP-0129,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1443,ravi Nguyen,ravi.nguyen@mail.test,"Jun 16, 2024",GB,,enterprise,no,312,ravi.nguyen@mail.test,VALID,EMAIL-0124,2024-06-16,VALID,DUP-0091,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1202,ana da silva,ana.dasilva@example.com,03.03.2024,Brazil,84.45,Mid Market,FALSE,313,ana.dasilva@example.com,VALID,EMAIL-0116,2024-03-03,VALID,DUP-0058,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1486,PRIYA Costa,priya.costa@example.com,11.04.2024,Germany,27781,smb,Y,314,priya.costa@example.com,VALID,EMAIL-0148,,AMBIGUOUS,DUP-0008,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001948,omar Lindqvist,omar.lindqvist@mail.test,28 Apr 2024,DE,177,Enterprise,yes,315,omar.lindqvist@mail.test,VALID,EMAIL-0149,2024-04-28,VALID,DUP-0151,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001585,Chen PATEL,chen.patel@corp.example,2024-02-15,france,USD 124.02,Mid Market,1,316,chen.patel@corp.example,VALID,EMAIL-0150,2024-02-15,VALID,DUP-0149,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001698,ana Ferrari,,21.04.2025,United Kingdom,USD 1569.13,Mid-Market,true,317,,MISSING,,2025-04-21,VALID,DUP-0057,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1251,PRIYA Nakamura,priya.nakamura@example.com,01/08/2025,germany,781,Enterprise,0,318,priya.nakamura@example.com,VALID,EMAIL-0151,,AMBIGUOUS,DUP-0106,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001471,PRIYA Lindqvist,priya.lindqvist@mail.test,"Dec 29, 2023",france,16393,smb,false,319,priya.lindqvist@mail.test,VALID,EMAIL-0080,2023-12-29,VALID,DUP-0094,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1518,Marcus okafor,marcus.okafor@corp.example,13.03.2023,BR,130.82,Consumer,FALSE,320,marcus.okafor@corp.example,VALID,EMAIL-0152,2023-03-13,VALID,DUP-0134,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001330,Yuki Kowalski,yuki.kowalski@mail.test,05/09/2023,GB,214,Small Business,TRUE,321,yuki.kowalski@mail.test,VALID,,,AMBIGUOUS,DUP-0027,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1347,Aisha haddad,aisha.haddad@corp.example,"Mar 20, 2023",Brazil,USD 39.34,Consumer,TRUE,322,aisha.haddad@corp.example,VALID,,2023-03-20,VALID,DUP-0038,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1313,CHEN HADDAD,CHEN.HADDAD@CORP.EXAMPLE,,u.s.,56.72,small business,N,323,chen.haddad@corp.example,VALID,EMAIL-0084,,MISSING,DUP-0098,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001537,Aisha Ferrari,aisha.ferrari@example.com,15.07.2024,Brazil,USD 261.97,ENT,true,324,aisha.ferrari@example.com,VALID,EMAIL-0153,2024-07-15,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1542,ravi weber,ravi@@example..com,24.08.2024,United States,-999,Mid-Market,yes,325,ravi@@example..com,INVALID,,2024-08-24,VALID,DUP-0152,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1158,Yuki weber,yuki.weber@corp.example,07/11/2023,United Kingdom,105,enterprise,TRUE,326,yuki.weber@corp.example,VALID,EMAIL-0022,,AMBIGUOUS,DUP-0026,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1869,Mikael Nguyen,mikael.nguyen@example.com,03/05/2023,uk,108798,smb,1,327,mikael.nguyen@example.com,VALID,EMAIL-0154,,AMBIGUOUS,DUP-0143,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1044,jonas Ferrari,jonas.ferrari@corp.example,4 May 2024,FR,487,enterprise,yes,328,jonas.ferrari@corp.example,VALID,EMAIL-0041,2024-05-04,VALID,DUP-0051,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1229,tomás Brennan,toms.brennan@example.com,28.01.2023,United States,USD 159.68,consumer,N,329,toms.brennan@example.com,VALID,,2023-01-28,VALID,DUP-0153,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001576,Chen Lindqvist,chen.lindqvist@example.com,03/22/2023,United States,148,Mid-Market,TRUE,330,chen.lindqvist@example.com,VALID,EMAIL-0155,2023-03-22,VALID,DUP-0150,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1893,jonas Nguyen,jonas.nguyen@example.com,"Jun 30, 2023",GB,205.11,smb,false,331,jonas.nguyen@example.com,VALID,,2023-06-30,VALID,DUP-0074,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1867,Marcus da silva,marcus.dasilva@corp.example,28 Oct 2024,usa,USD 17.03,midmarket,0,332,marcus.dasilva@corp.example,VALID,,2024-10-28,VALID,DUP-0122,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1370,Grace Lindqvist,grace.lindqvist@example.com,05/07/2025,United Kingdom,378.54,SMB,false,333,grace.lindqvist@example.com,VALID,EMAIL-0156,,AMBIGUOUS,DUP-0148,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1548,PRIYA Costa,priya.costa@corp.example,10/02/2024,US,5726,Mid Market,FALSE,334,priya.costa@corp.example,VALID,,,AMBIGUOUS,DUP-0008,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1930,Marcus da silva,marcus.dasilva@mail.test,"Jun 11, 2025",france,952,Mid Market,N,335,marcus.dasilva@mail.test,VALID,EMAIL-0157,2025-06-11,VALID,DUP-0122,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001365,Chen PATEL,chen.patel@mail.test,11.03.2024,uk,406,Small Business,yes,336,chen.patel@mail.test,VALID,,,AMBIGUOUS,DUP-0149,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001422,ravi Kowalski,ravi.kowalski@example.com,"Aug 11, 2023",u.s.,220.18,Consumer,N,337,ravi.kowalski@example.com,VALID,EMAIL-0065,2023-08-11,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1210,Noor ODWYER,noor.odwyer@mail.test,2024-03-21,u.s.,USD 166.04,smb,N,338,noor.odwyer@mail.test,VALID,EMAIL-0158,2024-03-21,VALID,DUP-0154,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1784,ana da silva,ana.dasilva@corp.example,2025-03-31,DE,USD 35.31,smb,N,339,ana.dasilva@corp.example,VALID,EMAIL-0049,2025-03-31,VALID,DUP-0058,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1312,PRIYA weber,PRIYA <PRIYA@example.com>,2023-11-12,france,40.56,Consumer,N,340,priya <priya@example.com>,INVALID,,2023-11-12,VALID,DUP-0068,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001032,Marcus Lindqvist,marcus.lindqvist@mail.test,02.09.2024,GB,$514.98,SMB,yes,341,marcus.lindqvist@mail.test,VALID,,,AMBIGUOUS,DUP-0155,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1046,tomás okafor,toms.okafor@corp.example,04/19/2025,United States,6426,Small Business,false,342,toms.okafor@corp.example,VALID,EMAIL-0159,2025-04-19,VALID,DUP-0145,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1468,omar okafor,omar.okafor@mail.test,18.04.2024,BR,14805,consumer,no,343,omar.okafor@mail.test,VALID,EMAIL-0160,2024-04-18,VALID,DUP-0021,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001647,Mikael okafor,,10.06.2024,GB,,Enterprise,no,344,,MISSING,,,AMBIGUOUS,DUP-0119,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1499,PRIYA Ferrari,priya.ferrari@corp.example,2 Feb 2024,US,,Consumer,false,345,priya.ferrari@corp.example,VALID,EMAIL-0015,2024-02-02,VALID,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1318,Mikael Costa,mikael.costa@example.com,"Apr 28, 2024",US,291.92,Mid Market,yes,346,mikael.costa@example.com,VALID,EMAIL-0161,2024-04-28,VALID,DUP-0083,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1695,Grace da silva,grace.dasilva@example.com,8 Mar 2023,US,$85.97,enterprise,0,347,grace.dasilva@example.com,VALID,EMAIL-0162,2023-03-08,VALID,DUP-0156,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001925,ravi Kowalski,ravi.kowalski@example.com,2 Jun 2025,uk,357.91,smb,TRUE,348,ravi.kowalski@example.com,VALID,EMAIL-0065,2025-06-02,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001586,Noor PATEL,noor.patel@example.com,01/30/2025,Germany,27494,Mid-Market,false,349,noor.patel@example.com,VALID,EMAIL-0163,2025-01-30,VALID,DUP-0104,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001690,Yuki Nakamura,yuki.nakamura@example.com,2023-06-01,uk,379,Mid-Market,N,350,yuki.nakamura@example.com,VALID,EMAIL-0164,2023-06-01,VALID,DUP-0046,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1950,omar Brennan,omar.brennan@corp.example,2025-02-22,u.s.,164.25,Consumer,no,351,omar.brennan@corp.example,VALID,EMAIL-0165,2025-02-22,VALID,DUP-0002,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1172,Leilani Ferrari,leilani.ferrari@corp.example,06.10.2024,US,236,consumer,FALSE,352,leilani.ferrari@corp.example,VALID,EMAIL-0166,,AMBIGUOUS,DUP-0030,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1730,PRIYA Nakamura,priya.nakamura@mail.test,2024-05-27,germany,$73.85,Mid-Market,N,353,priya.nakamura@mail.test,VALID,EMAIL-0167,2024-05-27,VALID,DUP-0106,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1408,ravi haddad,ravi.haddad@corp.example,17 Nov 2024,Brazil,325,ENT,0,354,ravi.haddad@corp.example,VALID,EMAIL-0054,2024-11-17,VALID,DUP-0065,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001556,ana Lindqvist,ana.lindqvist@mail.test,2024-12-15,United States,227.36,enterprise,N,355,ana.lindqvist@mail.test,VALID,EMAIL-0168,2024-12-15,VALID,DUP-0066,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1367,Marcus Brennan,,3 Apr 2024,Germany,56,consumer,N,356,,MISSING,,2024-04-03,VALID,DUP-0131,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-00001254,ravi Nguyen,ravi.nguyen@example.com,"Jul 15, 2023",germany,173,Mid Market,Y,357,ravi.nguyen@example.com,VALID,EMAIL-0077,2023-07-15,VALID,DUP-0091,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001638,ana Lindqvist,ana.lindqvist@mail.test,02/05/2023,US,105.23,Consumer,yes,358,ana.lindqvist@mail.test,VALID,EMAIL-0168,,AMBIGUOUS,DUP-0066,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1416,Leilani Lindqvist,leilani.lindqvist@example.com,1 Nov 2023,uk,730,SMB,yes,359,leilani.lindqvist@example.com,VALID,EMAIL-0169,2023-11-01,VALID,DUP-0117,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001109,PRIYA weber,priya.weber@example.com,2023-01-19,france,152.15,midmarket,1,360,priya.weber@example.com,VALID,EMAIL-0056,2023-01-19,VALID,DUP-0068,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1511,Sofia ODWYER,sofia.odwyer@example.com,01.04.2024,GB,USD 347.92,midmarket,no,361,sofia.odwyer@example.com,VALID,,,AMBIGUOUS,DUP-0080,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1435,ravi haddad,ravi.haddad@example.com,2024-01-09,FR,$195.53,consumer,TRUE,362,ravi.haddad@example.com,VALID,EMAIL-0141,2024-01-09,VALID,DUP-0065,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1649,Grace Nguyen,grace.nguyen@example.com,11/03/2023,Germany,780.15,SMB,Y,363,grace.nguyen@example.com,VALID,EMAIL-0096,,AMBIGUOUS,DUP-0111,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1909,Leilani Nakamura,leilani.nakamura@corp.example,01/28/2025,germany,,ENT,true,364,leilani.nakamura@corp.example,VALID,EMAIL-0170,2025-01-28,VALID,DUP-0093,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1040,MIKAEL BRENNAN,MIKAEL.BRENNAN@MAIL.TEST,28 Sep 2024,FR,2787.22,mid market,FALSE,365,mikael.brennan@mail.test,VALID,EMAIL-0047,2024-09-28,VALID,DUP-0056,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1242,Grace haddad,grace.haddad@corp.example,14.06.2023,Germany,USD 351.46,consumer,TRUE,366,grace.haddad@corp.example,VALID,EMAIL-0171,2023-06-14,VALID,DUP-0157,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1245,Sofia Costa,Sofia <Sofia@example.com>,"Apr 28, 2023",DE,461.76,consumer,Y,367,sofia <sofia@example.com>,INVALID,,2023-04-28,VALID,DUP-0059,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1644,ravi Brennan,ravi.brennan@mail.test,2024-09-15,FR,,Mid Market,0,368,ravi.brennan@mail.test,VALID,EMAIL-0027,2024-09-15,VALID,DUP-0032,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1165,Mikael okafor,mikael.okafor@mail.test,10/13/2023,usa,$79.63,Consumer,Y,369,mikael.okafor@mail.test,VALID,EMAIL-0104,2023-10-13,VALID,DUP-0119,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1195,Aisha weber,aisha.weber@example.com,29.10.2023,Germany,113.29,smb,1,370,aisha.weber@example.com,VALID,,2023-10-29,VALID,DUP-0158,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1892,jonas da silva,jonas.dasilva@mail.test,"Apr 19, 2025",GB,$79.55,SMB,true,371,jonas.dasilva@mail.test,VALID,EMAIL-0052,2025-04-19,VALID,DUP-0061,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1023,omar haddad,omar.haddad@mail.test,"Nov 10, 2024",Brazil,849,midmarket,TRUE,372,omar.haddad@mail.test,VALID,EMAIL-0172,2024-11-10,VALID,DUP-0015,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1806,Marcus Lindqvist,marcus.lindqvist@example.com,20 Feb 2023,DE,$102.81,Enterprise,TRUE,373,marcus.lindqvist@example.com,VALID,,2023-02-20,VALID,DUP-0155,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001794,PRIYA Ferrari,priya.ferrari@example.com,04/25/2025,germany,78491,ENT,TRUE,374,priya.ferrari@example.com,VALID,EMAIL-0012,2025-04-25,VALID,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1009,Leilani da silva,leilani.dasilva@corp.example,28.03.2025,US,81,Consumer,FALSE,375,leilani.dasilva@corp.example,VALID,EMAIL-0003,2025-03-28,VALID,DUP-0004,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001785,Grace da silva,grace.dasilva@mail.test,"Sep 16, 2024",United States,93,smb,TRUE,376,grace.dasilva@mail.test,VALID,EMAIL-0173,2024-09-16,VALID,DUP-0156,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001012,Grace Nakamura,grace.nakamura@corp.example,2023-01-04,u.s.,USD 291.47,ENT,true,377,grace.nakamura@corp.example,VALID,,2023-01-04,VALID,DUP-0022,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1114,Grace Kowalski,Grace[at]example.com,"Apr 16, 2025",FR,$191.17,Consumer,true,378,grace[at]example.com,INVALID,,2025-04-16,VALID,DUP-0073,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1275,Leilani Ferrari,leilani.ferrari@corp.example,10 Aug 2023,uk,USD 156.02,Consumer,yes,379,leilani.ferrari@corp.example,VALID,EMAIL-0166,2023-08-10,VALID,DUP-0030,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1213,Noor ODWYER,noor.odwyer@mail.test,01.01.2024,germany,USD 114.82,Consumer,true,380,noor.odwyer@mail.test,VALID,EMAIL-0158,2024-01-01,VALID,DUP-0154,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001018,Yuki haddad,yuki.haddad@mail.test,"Jul 31, 2024",u.s.,,midmarket,1,381,yuki.haddad@mail.test,VALID,,2024-07-31,VALID,DUP-0040,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1366,Chen Lindqvist,chen.lindqvist@corp.example,02/06/2024,US,656,Mid Market,Y,382,chen.lindqvist@corp.example,VALID,EMAIL-0146,,AMBIGUOUS,DUP-0150,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1762,Yuki ODWYER,yuki.odwyer@example.com,"Dec 26, 2023",FR,243,Small Business,1,383,yuki.odwyer@example.com,VALID,,2023-12-26,VALID,DUP-0159,POSSIBLE_DUPLICATE_LOW,N
+CUST-1934,Yuki Nakamura,yuki.nakamura@corp.example,26 Apr 2025,Germany,USD 156.67,SMB,N,384,yuki.nakamura@corp.example,VALID,EMAIL-0037,2025-04-26,VALID,DUP-0046,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1524,ravi Costa,ravi.costa@example.com,11/29/2024,BR,$180.42,Consumer,Y,385,ravi.costa@example.com,VALID,EMAIL-0050,2024-11-29,VALID,DUP-0042,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1837,PRIYA Nguyen,priya.nguyen@corp.example,12.11.2023,United Kingdom,34025,midmarket,0,386,priya.nguyen@corp.example,VALID,EMAIL-0113,,AMBIGUOUS,DUP-0031,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1748,jonas Nakamura,jonas.nakamura@corp.example,24 Jun 2023,uk,USD 338.13,Small Business,0,387,jonas.nakamura@corp.example,VALID,EMAIL-0174,2023-06-24,VALID,DUP-0160,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1113,Noor Nakamura,,"Jul 22, 2023",BR,$104.75,enterprise,no,388,,MISSING,,2023-07-22,VALID,DUP-0107,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1539,Sofia Brennan,sofia.brennan@corp.example,10/25/2023,Germany,$128.32,SMB,N,389,sofia.brennan@corp.example,VALID,,2023-10-25,VALID,DUP-0124,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001505,ravi PATEL,ravi.patel@mail.test,,Germany,323.86,smb,1,390,ravi.patel@mail.test,VALID,,,MISSING,DUP-0023,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1665,Chen Costa,chen.costa@mail.test,2024-08-30,uk,USD 141.69,smb,false,391,chen.costa@mail.test,VALID,EMAIL-0175,2024-08-30,VALID,DUP-0039,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001718,ravi da silva,ravi <ravi@example.com>,25 May 2024,FR,17.9,Mid-Market,FALSE,392,ravi <ravi@example.com>,INVALID,,2024-05-25,VALID,DUP-0161,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1632,Noor Lindqvist,noor.lindqvist@example.com,"May 31, 2023",uk,$167.24,midmarket,TRUE,393,noor.lindqvist@example.com,VALID,,2023-05-31,VALID,DUP-0162,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1839,Chen Kowalski,chen.kowalski@mail.test,2024-11-13,usa,252,smb,Y,394,chen.kowalski@mail.test,VALID,EMAIL-0176,2024-11-13,VALID,DUP-0163,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1756,Marcus Nakamura,marcus.nakamura@corp.example,01/18/2025,BR,36462,consumer,FALSE,395,marcus.nakamura@corp.example,VALID,,2025-01-18,VALID,DUP-0097,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001174,omar Brennan,omar.brennan@corp.example,05/01/2024,u.s.,241.56,smb,yes,396,omar.brennan@corp.example,VALID,EMAIL-0165,,AMBIGUOUS,DUP-0002,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1736,Yuki haddad,yuki.haddad@example.com,6 Oct 2024,US,87,SMB,yes,397,yuki.haddad@example.com,VALID,EMAIL-0177,2024-10-06,VALID,DUP-0040,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1011,PRIYA da silva,priya.dasilva@example.com,"Oct 8, 2023",u.s.,137,smb,0,398,priya.dasilva@example.com,VALID,,2023-10-08,VALID,DUP-0077,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001215,Marcus Costa,marcus.costa@example.com,2025-05-16,United Kingdom,540,enterprise,Y,399,marcus.costa@example.com,VALID,EMAIL-0073,2025-05-16,VALID,DUP-0086,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1615,AISHA FERRARI,AISHA.FERRARI@EXAMPLE.COM,2024-12-11,FR,77,ent,Y,400,aisha.ferrari@example.com,VALID,EMAIL-0153,2024-12-11,VALID,DUP-0133,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1719,ravi ODWYER,ravi.odwyer@mail.test,14.07.2023,germany,199,enterprise,yes,401,ravi.odwyer@mail.test,VALID,EMAIL-0147,2023-07-14,VALID,DUP-0129,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1840,tomás weber,toms.weber@corp.example,"Jan 14, 2025",u.s.,USD 107.53,enterprise,TRUE,402,toms.weber@corp.example,VALID,EMAIL-0178,2025-01-14,VALID,DUP-0139,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1333,ana ODWYER,ana.odwyer@example.com,26.02.2023,FR,,smb,FALSE,403,ana.odwyer@example.com,VALID,,2023-02-26,VALID,DUP-0164,POSSIBLE_DUPLICATE_LOW,N
+CUST-1567,Leilani da silva,leilani.dasilva@example.com,31.08.2024,u.s.,$70.23,ENT,false,404,leilani.dasilva@example.com,VALID,EMAIL-0117,2024-08-31,VALID,DUP-0004,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1566,Yuki Lindqvist,,"Dec 6, 2023",DE,85593,SMB,no,405,,MISSING,,2023-12-06,VALID,DUP-0069,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1701,Sofia Nakamura,sofia.nakamura@mail.test,20.01.2024,GB,856,SMB,no,406,sofia.nakamura@mail.test,VALID,EMAIL-0179,2024-01-20,VALID,DUP-0165,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1526,Chen Ferrari,chen.ferrari@corp.example,02/07/2024,germany,USD 341.28,enterprise,0,407,chen.ferrari@corp.example,VALID,,,AMBIGUOUS,DUP-0166,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1659,ana haddad,ana.haddad@example.com,18 Mar 2025,United Kingdom,647,Mid-Market,N,408,ana.haddad@example.com,VALID,,2025-03-18,VALID,DUP-0071,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1469,Marcus Nguyen,marcus.nguyen@mail.test,"May 6, 2023",DE,,SMB,Y,409,marcus.nguyen@mail.test,VALID,,2023-05-06,VALID,DUP-0167,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001509,Leilani Kowalski,leilani.kowalski@corp.example,2025-05-22,US,265.75,enterprise,TRUE,410,leilani.kowalski@corp.example,VALID,EMAIL-0180,2025-05-22,VALID,DUP-0101,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1622,tomás okafor,toms.okafor@corp.example,2023-11-21,Brazil,USD 85.23,SMB,true,411,toms.okafor@corp.example,VALID,EMAIL-0159,2023-11-21,VALID,DUP-0145,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001681,Aisha okafor,Aisha@@example..com,15.07.2024,france,USD 121.02,enterprise,1,412,aisha@@example..com,INVALID,,2024-07-15,VALID,DUP-0168,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1164,Mikael Nguyen,mikael.nguyen@corp.example,,Germany,284,SMB,0,413,mikael.nguyen@corp.example,VALID,EMAIL-0133,,MISSING,DUP-0143,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1360,Aisha Nguyen,aisha.nguyen@example.com,"Jan 9, 2023",US,358.7,ENT,FALSE,414,aisha.nguyen@example.com,VALID,,2023-01-09,VALID,DUP-0169,POSSIBLE_DUPLICATE_LOW,N
+CUST-1193,Grace weber,grace.weber@example.com,17.06.2025,US,417,Small Business,false,415,grace.weber@example.com,VALID,EMAIL-0181,2025-06-17,VALID,DUP-0137,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001139,omar weber,omar.weber@mail.test,2024-02-12,GB,$152.76,consumer,1,416,omar.weber@mail.test,VALID,EMAIL-0043,2024-02-12,VALID,DUP-0053,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001042,Sofia Nakamura,sofia.nakamura@example.com,30.03.2025,france,9114,ENT,Y,417,sofia.nakamura@example.com,VALID,EMAIL-0182,2025-03-30,VALID,DUP-0165,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1795,Aisha okafor,aisha.okafor@mail.test,"Jun 18, 2023",Brazil,$212.37,Mid Market,FALSE,418,aisha.okafor@mail.test,VALID,EMAIL-0183,2023-06-18,VALID,DUP-0168,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1807,ana Brennan,ana.brennan@example.com,"Dec 14, 2023",uk,$715.23,enterprise,FALSE,419,ana.brennan@example.com,VALID,EMAIL-0184,2023-12-14,VALID,DUP-0100,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1887,Grace Nguyen,,27 Nov 2023,uk,$134.23,Mid-Market,no,420,,MISSING,,2023-11-27,VALID,DUP-0111,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1456,Sofia Lindqvist,,"Dec 22, 2024",Brazil,-,Enterprise,false,421,,MISSING,,2024-12-22,VALID,DUP-0109,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-00001189,ravi Nakamura,ravi@@example..com,01.04.2023,BR,85.05,enterprise,no,422,ravi@@example..com,INVALID,,,AMBIGUOUS,DUP-0170,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1905,Aisha Ferrari,aisha.ferrari@mail.test,"Sep 21, 2024",germany,42920,consumer,FALSE,423,aisha.ferrari@mail.test,VALID,EMAIL-0122,2024-09-21,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1183,Aisha ODWYER,aisha.odwyer@corp.example,02/24/2024,france,168.1,Enterprise,yes,424,aisha.odwyer@corp.example,VALID,,2024-02-24,VALID,DUP-0092,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1518,MARCUS OKAFOR,MARCUS.OKAFOR@CORP.EXAMPLE,13.03.2023,BR,130.82,consumer,FALSE,425,marcus.okafor@corp.example,VALID,EMAIL-0152,2023-03-13,VALID,DUP-0134,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001095,ana weber,ana.weber@example.com,"May 21, 2024",Brazil,399.79,SMB,no,426,ana.weber@example.com,VALID,EMAIL-0076,2024-05-21,VALID,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1890,Chen Kowalski,chen.kowalski@example.com,2025-05-05,BR,USD 85.47,SMB,no,427,chen.kowalski@example.com,VALID,EMAIL-0185,2025-05-05,VALID,DUP-0163,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1111,PRIYA weber,priya.weber@example.com,07.07.2024,United States,$364.88,enterprise,true,428,priya.weber@example.com,VALID,EMAIL-0056,2024-07-07,VALID,DUP-0068,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1633,Mikael Costa,mikael.costa@corp.example,11/26/2023,GB,22857,enterprise,N,429,mikael.costa@corp.example,VALID,EMAIL-0186,2023-11-26,VALID,DUP-0083,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1398,Grace haddad,grace.haddad@example.com,03/01/2023,Brazil,$484.31,enterprise,N,430,grace.haddad@example.com,VALID,EMAIL-0187,,AMBIGUOUS,DUP-0157,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1569,Mikael okafor,Mikael@@example..com,2025-03-07,u.s.,150,SMB,true,431,mikael@@example..com,INVALID,,2025-03-07,VALID,DUP-0119,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1760,omar Nakamura,omar <omar@example.com>,26 Sep 2023,United Kingdom,"1,317",midmarket,true,432,omar <omar@example.com>,INVALID,,2023-09-26,VALID,DUP-0060,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1351,Chen Costa,chen.costa@corp.example,"Dec 4, 2023",germany,144,SMB,no,433,chen.costa@corp.example,VALID,EMAIL-0188,2023-12-04,VALID,DUP-0039,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001527,Sofia Nakamura,Sofia[at]example.com,20.07.2024,DE,$681.52,smb,FALSE,434,sofia[at]example.com,INVALID,,2024-07-20,VALID,DUP-0165,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001560,Chen Nakamura,chen.nakamura@example.com,09/23/2024,United States,369,ENT,0,435,chen.nakamura@example.com,VALID,EMAIL-0189,2024-09-23,VALID,DUP-0087,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001554,ravi weber,ravi.weber@corp.example,23 Jul 2023,US,,midmarket,no,436,ravi.weber@corp.example,VALID,EMAIL-0190,2023-07-23,VALID,DUP-0152,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001717,Sofia da silva,Sofia[at]example.com,04.10.2023,Germany,USD 136.74,enterprise,yes,437,sofia[at]example.com,INVALID,,,AMBIGUOUS,DUP-0171,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1465,Mikael Ferrari,mikael.ferrari@corp.example,2024-11-30,Germany,161.19,Mid-Market,TRUE,438,mikael.ferrari@corp.example,VALID,,2024-11-30,VALID,DUP-0048,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1349,Noor Nakamura,noor.nakamura@mail.test,2024-09-04,United States,$72.38,midmarket,yes,439,noor.nakamura@mail.test,VALID,EMAIL-0191,2024-09-04,VALID,DUP-0107,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1490,Leilani Nakamura,leilani.nakamura@corp.example,23.10.2024,france,USD 831.89,enterprise,false,440,leilani.nakamura@corp.example,VALID,EMAIL-0170,2024-10-23,VALID,DUP-0093,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1920,tomás Brennan,toms.brennan@corp.example,06.07.2024,BR,"2,092",SMB,FALSE,441,toms.brennan@corp.example,VALID,,,AMBIGUOUS,DUP-0153,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1299,Aisha PATEL,aisha.patel@mail.test,11/30/2024,Brazil,302,SMB,no,442,aisha.patel@mail.test,VALID,EMAIL-0192,2024-11-30,VALID,DUP-0063,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1889,Aisha haddad,aisha.haddad@example.com,"May 31, 2023",Brazil,16075,enterprise,yes,443,aisha.haddad@example.com,VALID,EMAIL-0108,2023-05-31,VALID,DUP-0038,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1260,tomás PATEL,toms.patel@corp.example,10/23/2023,GB,50912,Mid Market,yes,444,toms.patel@corp.example,VALID,EMAIL-0101,2023-10-23,VALID,DUP-0116,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1803,omar Lindqvist,omar.lindqvist@example.com,"Apr 25, 2025",United Kingdom,$152.16,SMB,yes,445,omar.lindqvist@example.com,VALID,,2025-04-25,VALID,DUP-0151,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1124,ravi Brennan,ravi.brennan@corp.example,08/07/2024,FR,39989,Mid Market,FALSE,446,ravi.brennan@corp.example,VALID,EMAIL-0193,,AMBIGUOUS,DUP-0032,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1522,Leilani haddad,leilani.haddad@corp.example,05.09.2024,Germany,USD 113.55,SMB,false,447,leilani.haddad@corp.example,VALID,EMAIL-0194,,AMBIGUOUS,DUP-0172,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001501,ravi Lindqvist,ravi.lindqvist@corp.example,"Jul 20, 2023",france,19443,Small Business,false,448,ravi.lindqvist@corp.example,VALID,EMAIL-0093,2023-07-20,VALID,DUP-0019,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1035,AISHA BRENNAN,AISHA.BRENNAN@CORP.EXAMPLE,02/07/2024,United States,236,smb,FALSE,449,aisha.brennan@corp.example,VALID,EMAIL-0195,,AMBIGUOUS,DUP-0001,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1345,ravi okafor,ravi.okafor@mail.test,2024-06-19,france,528,Consumer,Y,450,ravi.okafor@mail.test,VALID,,2024-06-19,VALID,DUP-0003,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001276,omar da silva,omar.dasilva@example.com,12.01.2023,DE,$123.39,Consumer,FALSE,451,omar.dasilva@example.com,VALID,EMAIL-0075,,AMBIGUOUS,DUP-0088,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1239,tomás ODWYER,toms.odwyer@corp.example,"Sep 9, 2023",france,388,Consumer,FALSE,452,toms.odwyer@corp.example,VALID,EMAIL-0005,2023-09-09,VALID,DUP-0007,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1613,Noor Nguyen,noor.nguyen@corp.example,04/07/2024,Brazil,,Enterprise,0,453,noor.nguyen@corp.example,VALID,EMAIL-0083,,AMBIGUOUS,DUP-0075,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1226,Sofia Nakamura,sofia.nakamura@mail.test,2025-04-21,Brazil,$226.11,midmarket,TRUE,454,sofia.nakamura@mail.test,VALID,EMAIL-0179,2025-04-21,VALID,DUP-0165,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001611,Leilani Ferrari,leilani.ferrari@example.com,23 Mar 2024,u.s.,166.9,smb,Y,455,leilani.ferrari@example.com,VALID,EMAIL-0196,2024-03-23,VALID,DUP-0030,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1727,Yuki Lindqvist,yuki.lindqvist@example.com,26 Oct 2024,BR,9356,smb,N,456,yuki.lindqvist@example.com,VALID,,2024-10-26,VALID,DUP-0069,POSSIBLE_DUPLICATE_LOW,N
+CUST-1214,omar weber,omar.weber@mail.test,9 Mar 2024,FR,62538,midmarket,yes,457,omar.weber@mail.test,VALID,EMAIL-0043,2024-03-09,VALID,DUP-0053,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1898,ana weber,ana.weber@corp.example,"Aug 17, 2023",United States,$68.43,Mid-Market,0,458,ana.weber@corp.example,VALID,EMAIL-0128,2023-08-17,VALID,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1516,Aisha Costa,aisha.costa@mail.test,13 Jun 2023,Germany,$133.84,smb,true,459,aisha.costa@mail.test,VALID,,2023-06-13,VALID,DUP-0044,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1029,PRIYA Nguyen,priya.nguyen@mail.test,"Jan 14, 2024",BR,USD 282.84,consumer,0,460,priya.nguyen@mail.test,VALID,EMAIL-0026,2024-01-14,VALID,DUP-0031,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1314,Sofia Nakamura,sofia.nakamura@example.com,"Mar 28, 2024",US,41543,SMB,TRUE,461,sofia.nakamura@example.com,VALID,EMAIL-0182,2024-03-28,VALID,DUP-0165,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1391,Noor okafor,noor.okafor@example.com,13 Jul 2024,uk,$48.17,Enterprise,no,462,noor.okafor@example.com,VALID,EMAIL-0145,2024-07-13,VALID,DUP-0110,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001407,ravi da silva,ravi.dasilva@example.com,07.12.2023,BR,522,Consumer,1,463,ravi.dasilva@example.com,VALID,,,AMBIGUOUS,DUP-0161,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1609,jonas okafor,jonas.okafor@corp.example,10/17/2023,DE,,SMB,false,464,jonas.okafor@corp.example,VALID,EMAIL-0197,2023-10-17,VALID,DUP-0067,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1944,Noor weber,noor.weber@example.com,16.11.2023,u.s.,$617.1,Mid-Market,false,465,noor.weber@example.com,VALID,,2023-11-16,VALID,DUP-0050,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1687,jonas Nguyen,jonas.nguyen@corp.example,06.07.2024,BR,$59.23,smb,true,466,jonas.nguyen@corp.example,VALID,EMAIL-0089,,AMBIGUOUS,DUP-0074,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001804,Grace Lindqvist,,"Apr 24, 2024",DE,,midmarket,TRUE,467,,MISSING,,2024-04-24,VALID,DUP-0148,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1216,Sofia okafor,sofia.okafor@mail.test,09/26/2024,uk,48,midmarket,TRUE,468,sofia.okafor@mail.test,VALID,EMAIL-0198,2024-09-26,VALID,DUP-0099,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1830,Marcus PATEL,marcus.patel@mail.test,2 Apr 2023,u.s.,262.67,Mid-Market,TRUE,469,marcus.patel@mail.test,VALID,EMAIL-0199,2023-04-02,VALID,DUP-0173,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1177,ravi Kowalski,ravi.kowalski@mail.test,26.12.2023,GB,198,consumer,no,470,ravi.kowalski@mail.test,VALID,EMAIL-0103,2023-12-26,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1315,Aisha Brennan,aisha.brennan@mail.test,2023-06-04,Brazil,$118.53,Enterprise,false,471,aisha.brennan@mail.test,VALID,EMAIL-0001,2023-06-04,VALID,DUP-0001,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001323,Noor Ferrari,noor.ferrari@example.com,2023-07-27,FR,,consumer,0,472,noor.ferrari@example.com,VALID,EMAIL-0200,2023-07-27,VALID,DUP-0047,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001916,Yuki Brennan,yuki.brennan@corp.example,"Jun 19, 2024",Germany,274.11,Enterprise,0,473,yuki.brennan@corp.example,VALID,EMAIL-0130,2024-06-19,VALID,DUP-0141,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1873,tomás Nakamura,toms.nakamura@corp.example,16.07.2023,DE,$355.78,Mid Market,true,474,toms.nakamura@corp.example,VALID,,2023-07-16,VALID,DUP-0024,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1772,Noor haddad,noor.haddad@example.com,23 Aug 2024,usa,659.43,ENT,0,475,noor.haddad@example.com,VALID,,2024-08-23,VALID,,,N
+CUST-1262,Aisha haddad,aisha.haddad@mail.test,2024-06-17,Germany,11603,Mid Market,0,476,aisha.haddad@mail.test,VALID,EMAIL-0032,2024-06-17,VALID,DUP-0038,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1462,Sofia da silva,sofia.dasilva@corp.example,"Jan 14, 2023",germany,15492,consumer,no,477,sofia.dasilva@corp.example,VALID,EMAIL-0201,2023-01-14,VALID,DUP-0171,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001137,Yuki PATEL,,05/04/2024,Germany,273.58,ENT,0,478,,MISSING,,,AMBIGUOUS,DUP-0033,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1866,Grace Brennan,grace.brennan@mail.test,"Jun 19, 2025",United States,$276.94,midmarket,0,479,grace.brennan@mail.test,VALID,EMAIL-0013,2025-06-19,VALID,DUP-0017,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1808,Mikael Ferrari,mikael.ferrari@mail.test,-,FR,$352.34,smb,yes,480,mikael.ferrari@mail.test,VALID,EMAIL-0119,,INVALID,DUP-0048,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1482,Noor Lindqvist,noor.lindqvist@corp.example,5 Feb 2025,u.s.,$509.13,Enterprise,1,481,noor.lindqvist@corp.example,VALID,EMAIL-0202,2025-02-05,VALID,DUP-0162,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1080,ravi Nakamura,ravi.nakamura@corp.example,16 Nov 2023,usa,USD 721.73,Mid-Market,0,482,ravi.nakamura@corp.example,VALID,EMAIL-0203,2023-11-16,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1493,ravi da silva,ravi.dasilva@mail.test,8 Apr 2023,u.s.,$747.48,Mid-Market,Y,483,ravi.dasilva@mail.test,VALID,,2023-04-08,VALID,DUP-0161,POSSIBLE_DUPLICATE_LOW,N
+CUST-1761,Grace okafor,grace.okafor@mail.test,,FR,1132.72,ENT,yes,484,grace.okafor@mail.test,VALID,,,MISSING,DUP-0136,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1089,ana ODWYER,ana.odwyer@mail.test,24.07.2024,u.s.,-999,Mid Market,0,485,ana.odwyer@mail.test,VALID,,2024-07-24,VALID,DUP-0164,POSSIBLE_DUPLICATE_LOW,N
+CUST-1094,ana Lindqvist,ana.lindqvist@corp.example,26.08.2024,FR,USD 113.73,smb,yes,486,ana.lindqvist@corp.example,VALID,,2024-08-26,VALID,DUP-0066,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001463,Sofia Kowalski,sofia.kowalski@corp.example,"Feb 28, 2023",DE,80,Small Business,1,487,sofia.kowalski@corp.example,VALID,EMAIL-0121,2023-02-28,VALID,DUP-0112,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001793,PRIYA okafor,priya.okafor@corp.example,02.08.2024,france,284,consumer,true,488,priya.okafor@corp.example,VALID,EMAIL-0106,,AMBIGUOUS,DUP-0095,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001289,Grace PATEL,grace.patel@mail.test,"May 16, 2025",United Kingdom,USD 284.79,Small Business,N,489,grace.patel@mail.test,VALID,EMAIL-0204,2025-05-16,VALID,DUP-0174,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1134,omar Costa,omar.costa@mail.test,2025-02-11,FR,38,consumer,FALSE,490,omar.costa@mail.test,VALID,EMAIL-0092,2025-02-11,VALID,DUP-0105,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001895,Grace Ferrari,grace.ferrari@mail.test,2023-01-22,france,12780,smb,TRUE,491,grace.ferrari@mail.test,VALID,EMAIL-0010,2023-01-22,VALID,DUP-0014,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001545,Noor Ferrari,noor.ferrari@corp.example,"Oct 9, 2024",u.s.,USD 107.31,ENT,yes,492,noor.ferrari@corp.example,VALID,EMAIL-0038,2024-10-09,VALID,DUP-0047,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1551,Leilani weber,leilani.weber@example.com,"Oct 3, 2024",FR,$192.34,SMB,0,493,leilani.weber@example.com,VALID,EMAIL-0123,2024-10-03,VALID,DUP-0090,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1211,ana okafor,ana.okafor@example.com,-999,germany,56.39,Small Business,Y,494,ana.okafor@example.com,VALID,EMAIL-0205,,INVALID,DUP-0132,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1500,omar Brennan,omar.brennan@mail.test,2024-06-27,usa,92.68,ENT,0,495,omar.brennan@mail.test,VALID,,2024-06-27,VALID,DUP-0002,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001655,Chen Ferrari,chen.ferrari@mail.test,31 Dec 2024,germany,125,smb,no,496,chen.ferrari@mail.test,VALID,EMAIL-0206,2024-12-31,VALID,DUP-0166,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1153,Sofia haddad,sofia.haddad@mail.test,02/08/2025,usa,$337.65,smb,no,497,sofia.haddad@mail.test,VALID,,,AMBIGUOUS,DUP-0138,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001310,Noor Kowalski,noor.kowalski@example.com,7 Mar 2023,FR,383,ENT,FALSE,498,noor.kowalski@example.com,VALID,,2023-03-07,VALID,DUP-0054,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1297,Sofia Ferrari,sofia.ferrari@corp.example,27.03.2025,usa,98.61,Mid-Market,no,499,sofia.ferrari@corp.example,VALID,,2025-03-27,VALID,DUP-0175,POSSIBLE_DUPLICATE_LOW,N
+CUST-1324,MIKAEL PATEL,MIKAEL.PATEL@EXAMPLE.COM,06/21/2023,BR,USD 445,consumer,yes,500,mikael.patel@example.com,VALID,EMAIL-0021,2023-06-21,VALID,DUP-0025,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001421,jonas okafor,jonas.okafor@mail.test,,uk,126.03,Consumer,no,501,jonas.okafor@mail.test,VALID,,,MISSING,DUP-0067,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1005,PRIYA PATEL,priya.patel@example.com,01/05/2025,france,159,enterprise,no,502,priya.patel@example.com,VALID,EMAIL-0066,,AMBIGUOUS,DUP-0079,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1122,jonas Costa,jonas.costa@example.com,09/13/2024,usa,577,Enterprise,TRUE,503,jonas.costa@example.com,VALID,EMAIL-0207,2024-09-13,VALID,DUP-0121,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1564,Leilani Costa,leilani.costa@mail.test,01/24/2023,usa,540,Mid-Market,false,504,leilani.costa@mail.test,VALID,,2023-01-24,VALID,DUP-0108,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1741,Marcus haddad,marcus.haddad@example.com,"Feb 18, 2024",germany,177.88,consumer,no,505,marcus.haddad@example.com,VALID,EMAIL-0111,2024-02-18,VALID,DUP-0126,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1317,tomás da silva,tomás <tomás@example.com>,06/10/2025,uk,1369.31,consumer,FALSE,506,tomás <tomás@example.com>,INVALID,,,AMBIGUOUS,DUP-0144,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001428,ravi Nakamura,ravi.nakamura@corp.example,26 Jan 2023,FR,41.63,Mid-Market,N,507,ravi.nakamura@corp.example,VALID,EMAIL-0203,2023-01-26,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001711,Yuki ODWYER,Yuki[at]example.com,19.06.2023,usa,664.33,midmarket,true,508,yuki[at]example.com,INVALID,,2023-06-19,VALID,DUP-0159,EMAIL_INVALID|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1067,Leilani haddad,leilani.haddad@example.com,21 Mar 2024,United Kingdom,4385,consumer,yes,509,leilani.haddad@example.com,VALID,,2024-03-21,VALID,DUP-0172,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001752,Sofia Kowalski,sofia.kowalski@corp.example,02.05.2023,GB,14029,Small Business,1,510,sofia.kowalski@corp.example,VALID,EMAIL-0121,,AMBIGUOUS,DUP-0112,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001899,PRIYA Ferrari,priya.ferrari@mail.test,2023-04-05,france,7266,SMB,FALSE,511,priya.ferrari@mail.test,VALID,EMAIL-0208,2023-04-05,VALID,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001236,omar okafor,omar.okafor@mail.test,"Aug 7, 2023",usa,2425.47,Small Business,0,512,omar.okafor@mail.test,VALID,EMAIL-0160,2023-08-07,VALID,DUP-0021,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1267,PRIYA Brennan,priya.brennan@corp.example,2023-03-11,US,2075.62,ENT,1,513,priya.brennan@corp.example,VALID,,2023-03-11,VALID,DUP-0176,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001952,Aisha haddad,aisha.haddad@mail.test,,uk,USD 236.59,ENT,1,514,aisha.haddad@mail.test,VALID,EMAIL-0032,,MISSING,DUP-0038,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001488,Leilani ODWYER,leilani.odwyer@example.com,18.03.2025,u.s.,$62.44,consumer,true,515,leilani.odwyer@example.com,VALID,EMAIL-0004,2025-03-18,VALID,DUP-0006,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001779,ravi Nakamura,ravi.nakamura@mail.test,17 May 2023,United Kingdom,212,enterprise,false,516,ravi.nakamura@mail.test,VALID,EMAIL-0209,2023-05-17,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1515,Chen ODWYER,chen.odwyer@example.com,25 Nov 2024,US,2428,ENT,no,517,chen.odwyer@example.com,VALID,EMAIL-0110,2024-11-25,VALID,DUP-0125,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1912,ANA NAKAMURA,ANA.NAKAMURA@MAIL.TEST,"Sep 27, 2023",GB,$258.31,smb,N,518,ana.nakamura@mail.test,VALID,EMAIL-0006,2023-09-27,VALID,DUP-0009,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1922,Mikael ODWYER,mikael.odwyer@corp.example,03/30/2024,u.s.,USD 68.6,consumer,no,519,mikael.odwyer@corp.example,VALID,EMAIL-0068,2024-03-30,VALID,DUP-0049,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1191,jonas Nguyen,jonas.nguyen@corp.example,2024-03-04,Germany,USD 188.57,Consumer,false,521,jonas.nguyen@corp.example,VALID,EMAIL-0089,2024-03-04,VALID,DUP-0074,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1800,PRIYA Ferrari,priya.ferrari@mail.test,30.03.2023,United Kingdom,8376,consumer,FALSE,522,priya.ferrari@mail.test,VALID,EMAIL-0208,2023-03-30,VALID,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1130,Leilani Lindqvist,leilani.lindqvist@example.com,"Feb 27, 2024",FR,$107.89,consumer,0,523,leilani.lindqvist@example.com,VALID,EMAIL-0169,2024-02-27,VALID,DUP-0117,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1818,Yuki da silva,Yuki <Yuki@example.com>,27 Jan 2024,BR,USD 241.39,enterprise,1,524,yuki <yuki@example.com>,INVALID,,2024-01-27,VALID,DUP-0035,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1908,Sofia haddad,sofia.haddad@corp.example,22.11.2023,FR,630,smb,TRUE,525,sofia.haddad@corp.example,VALID,,2023-11-22,VALID,DUP-0138,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1855,tomás da silva,toms.dasilva@corp.example,11/15/2023,u.s.,USD 336.03,Enterprise,FALSE,526,toms.dasilva@corp.example,VALID,EMAIL-0210,2023-11-15,VALID,DUP-0144,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1411,Leilani Kowalski,leilani.kowalski@example.com,15 Jun 2023,GB,80.16,Mid Market,true,527,leilani.kowalski@example.com,VALID,EMAIL-0087,2023-06-15,VALID,DUP-0101,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1754,PRIYA da silva,PRIYA <PRIYA@example.com>,20 Feb 2023,BR,20,Consumer,N,528,priya <priya@example.com>,INVALID,,2023-02-20,VALID,DUP-0077,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1280,omar ODWYER,omar.odwyer@mail.test,09.11.2024,GB,607,consumer,Y,529,omar.odwyer@mail.test,VALID,,,AMBIGUOUS,DUP-0118,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1311,Noor da silva,noor.dasilva@corp.example,09/04/2024,DE,$305.64,consumer,N,530,noor.dasilva@corp.example,VALID,,,AMBIGUOUS,DUP-0029,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1847,ana Brennan,ana.brennan@example.com,04.06.2023,United States,154,midmarket,TRUE,531,ana.brennan@example.com,VALID,EMAIL-0184,,AMBIGUOUS,DUP-0100,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001131,Leilani okafor,leilani.okafor@example.com,23.02.2023,u.s.,USD 607.64,Mid Market,0,532,leilani.okafor@example.com,VALID,EMAIL-0211,2023-02-23,VALID,DUP-0177,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1206,Leilani Brennan,,01/13/2024,usa,166,Enterprise,no,533,,MISSING,,2024-01-13,VALID,DUP-0081,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1751,Sofia Kowalski,sofia.kowalski@mail.test,22.05.2024,BR,,smb,N,534,sofia.kowalski@mail.test,VALID,EMAIL-0212,2024-05-22,VALID,DUP-0112,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1650,Leilani Nguyen,Leilani[at]example.com,02/28/2025,GB,$213.54,midmarket,TRUE,535,leilani[at]example.com,INVALID,,2025-02-28,VALID,DUP-0178,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1843,Noor Brennan,,"Feb 8, 2024",france,324.75,smb,0,536,,MISSING,,2024-02-08,VALID,DUP-0037,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1148,Chen Nakamura,chen.nakamura@mail.test,26 Nov 2024,US,$948.21,Consumer,yes,537,chen.nakamura@mail.test,VALID,,2024-11-26,VALID,DUP-0087,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001410,omar Ferrari,omar.ferrari@mail.test,2023-01-28,germany,147.81,Small Business,yes,538,omar.ferrari@mail.test,VALID,EMAIL-0213,2023-01-28,VALID,DUP-0128,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001645,Grace Lindqvist,grace.lindqvist@example.com,10/24/2023,DE,134.36,ENT,Y,539,grace.lindqvist@example.com,VALID,EMAIL-0156,2023-10-24,VALID,DUP-0148,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1424,Marcus ODWYER,marcus.odwyer@mail.test,2024-08-13,france,654,Mid Market,TRUE,540,marcus.odwyer@mail.test,VALID,,2024-08-13,VALID,DUP-0096,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001781,Grace Nakamura,grace.nakamura@mail.test,09/17/2023,United Kingdom,$198.45,Small Business,true,541,grace.nakamura@mail.test,VALID,EMAIL-0142,2023-09-17,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001065,Grace da silva,grace.dasilva@example.com,2025-04-12,DE,302.8,consumer,Y,542,grace.dasilva@example.com,VALID,EMAIL-0162,2025-04-12,VALID,DUP-0156,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1230,ravi weber,ravi.weber@corp.example,16 Apr 2023,france,USD 267.98,Small Business,Y,543,ravi.weber@corp.example,VALID,EMAIL-0190,2023-04-16,VALID,DUP-0152,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1744,Chen Brennan,,08.08.2023,US,$397.07,Consumer,1,544,,MISSING,,2023-08-08,VALID,DUP-0064,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001861,Mikael PATEL,mikael.patel@example.com,,Brazil,215.43,Enterprise,Y,545,mikael.patel@example.com,VALID,EMAIL-0021,,MISSING,DUP-0025,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1543,Noor Costa,noor.costa@corp.example,05/12/2023,Brazil,280,ENT,Y,546,noor.costa@corp.example,VALID,,,AMBIGUOUS,,DATE_AMBIGUOUS_DAY_MONTH:signup_date,Y
+CUST-1364,tomás weber,toms.weber@mail.test,5 May 2024,usa,$467.29,enterprise,0,547,toms.weber@mail.test,VALID,EMAIL-0127,2024-05-05,VALID,DUP-0139,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001298,jonas PATEL,jonas.patel@example.com,06.05.2024,u.s.,USD 77.01,enterprise,0,548,jonas.patel@example.com,VALID,EMAIL-0214,,AMBIGUOUS,DUP-0179,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1904,jonas Ferrari,jonas <jonas@example.com>,15.05.2023,FR,6132,Mid Market,true,549,jonas <jonas@example.com>,INVALID,,2023-05-15,VALID,DUP-0051,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1269,YUKI HADDAD,YUKI.HADDAD@EXAMPLE.COM,06/21/2023,United Kingdom,171623,mid-market,Y,550,yuki.haddad@example.com,VALID,EMAIL-0177,2023-06-21,VALID,DUP-0040,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1942,ravi da silva,,2025-02-27,US,228.84,consumer,0,551,,MISSING,,2025-02-27,VALID,DUP-0161,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1052,Leilani da silva,Leilani[at]example.com,-999,FR,32181,Consumer,FALSE,552,leilani[at]example.com,INVALID,,,INVALID,DUP-0004,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001423,MIKAEL BRENNAN,MIKAEL[AT]EXAMPLE.COM,11/19/2024,BR,USD 145.69,small business,1,553,mikael[at]example.com,INVALID,,2024-11-19,VALID,DUP-0056,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1385,Marcus Ferrari,marcus.ferrari@corp.example,"May 19, 2023",FR,552.73,Mid Market,FALSE,554,marcus.ferrari@corp.example,VALID,,2023-05-19,VALID,DUP-0055,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1412,PRIYA haddad,priya.haddad@corp.example,"Sep 13, 2024",US,45764,midmarket,1,555,priya.haddad@corp.example,VALID,EMAIL-0138,2024-09-13,VALID,DUP-0146,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1457,Noor Ferrari,noor.ferrari@example.com,20.03.2023,usa,60.71,Consumer,1,556,noor.ferrari@example.com,VALID,EMAIL-0200,2023-03-20,VALID,DUP-0047,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1098,Grace weber,grace.weber@example.com,16.04.2023,US,27025,Consumer,false,557,grace.weber@example.com,VALID,EMAIL-0181,2023-04-16,VALID,DUP-0137,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001938,Grace Brennan,grace.brennan@corp.example,11/28/2024,uk,$114.26,consumer,0,558,grace.brennan@corp.example,VALID,,2024-11-28,VALID,DUP-0017,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001725,Marcus ODWYER,marcus.odwyer@example.com,12 Jun 2023,United Kingdom,106,smb,no,559,marcus.odwyer@example.com,VALID,EMAIL-0082,2023-06-12,VALID,DUP-0096,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1491,Grace Nakamura,grace.nakamura@mail.test,02/08/2023,GB,23990,midmarket,Y,560,grace.nakamura@mail.test,VALID,EMAIL-0142,,AMBIGUOUS,DUP-0022,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1274,PRIYA Nakamura,priya.nakamura@corp.example,02/12/2023,DE,20.62,midmarket,true,561,priya.nakamura@corp.example,VALID,EMAIL-0215,,AMBIGUOUS,DUP-0106,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1371,Marcus Lindqvist,marcus.lindqvist@corp.example,10 May 2025,Germany,125.48,enterprise,1,562,marcus.lindqvist@corp.example,VALID,EMAIL-0216,2025-05-10,VALID,DUP-0155,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1879,ravi Costa,ravi.costa@example.com,05/05/2025,usa,-,Enterprise,1,563,ravi.costa@example.com,VALID,EMAIL-0050,2025-05-05,VALID,DUP-0042,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1292,Marcus Costa,marcus.costa@corp.example,11.06.2023,GB,1328.99,Mid-Market,FALSE,564,marcus.costa@corp.example,VALID,,,AMBIGUOUS,DUP-0086,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1790,Chen haddad,chen.haddad@example.com,2024-09-11,BR,USD 88.42,enterprise,FALSE,565,chen.haddad@example.com,VALID,EMAIL-0217,2024-09-11,VALID,DUP-0098,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001104,omar weber,omar.weber@corp.example,2023-11-19,Germany,$268.81,midmarket,Y,566,omar.weber@corp.example,VALID,EMAIL-0086,2023-11-19,VALID,DUP-0053,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1480,Sofia Nguyen,,27 Aug 2023,GB,USD 358.75,smb,N,567,,MISSING,,2023-08-27,VALID,DUP-0085,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1571,ravi Nakamura,ravi.nakamura@mail.test,02/04/2025,United Kingdom,USD 86.41,consumer,FALSE,568,ravi.nakamura@mail.test,VALID,EMAIL-0209,,AMBIGUOUS,DUP-0170,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1643,Chen haddad,chen.haddad@mail.test,"Apr 1, 2023",FR,USD 355.45,smb,no,569,chen.haddad@mail.test,VALID,,2023-04-01,VALID,DUP-0098,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001178,ravi Nakamura,ravi.nakamura@example.com,18 Nov 2024,DE,139.64,smb,0,570,ravi.nakamura@example.com,VALID,EMAIL-0218,2024-11-18,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1592,Aisha da silva,aisha.dasilva@corp.example,,GB,$206.27,ENT,TRUE,571,aisha.dasilva@corp.example,VALID,EMAIL-0035,,MISSING,DUP-0043,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1196,tomás Kowalski,toms.kowalski@mail.test,10.06.2024,u.s.,,SMB,1,572,toms.kowalski@mail.test,VALID,EMAIL-0100,,AMBIGUOUS,DUP-0115,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1534,Yuki Nguyen,yuki.nguyen@mail.test,2023-10-28,GB,$110.12,SMB,0,573,yuki.nguyen@mail.test,VALID,EMAIL-0219,2023-10-28,VALID,DUP-0010,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1939,Leilani ODWYER,leilani.odwyer@mail.test,2023-11-10,Brazil,234.13,midmarket,yes,574,leilani.odwyer@mail.test,VALID,,2023-11-10,VALID,DUP-0006,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001676,PRIYA Nakamura,priya.nakamura@example.com,11.01.2024,france,USD 43.95,Consumer,1,575,priya.nakamura@example.com,VALID,EMAIL-0151,,AMBIGUOUS,DUP-0106,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1413,ana okafor,ana.okafor@mail.test,24 Nov 2024,United States,147.59,smb,TRUE,576,ana.okafor@mail.test,VALID,EMAIL-0220,2024-11-24,VALID,DUP-0132,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1519,RAVI NAKAMURA,RAVI.NAKAMURA@CORP.EXAMPLE,2024-09-27,Germany,49.63,smb,true,577,ravi.nakamura@corp.example,VALID,EMAIL-0203,2024-09-27,VALID,DUP-0170,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1773,Leilani Ferrari,leilani.ferrari@example.com,10.03.2023,BR,456.83,Mid-Market,yes,578,leilani.ferrari@example.com,VALID,EMAIL-0196,,AMBIGUOUS,DUP-0030,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1287,ana Brennan,ana.brennan@example.com,27 Nov 2024,United Kingdom,USD 245.82,Small Business,Y,579,ana.brennan@example.com,VALID,EMAIL-0184,2024-11-27,VALID,DUP-0100,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001507,Grace da silva,grace.dasilva@mail.test,3 Jul 2023,BR,11556,enterprise,true,580,grace.dasilva@mail.test,VALID,EMAIL-0173,2023-07-03,VALID,DUP-0156,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1615,Aisha Ferrari,aisha.ferrari@example.com,2024-12-11,FR,77,ENT,Y,581,aisha.ferrari@example.com,VALID,EMAIL-0153,2024-12-11,VALID,DUP-0133,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001723,Chen weber,chen.weber@example.com,"Dec 5, 2024",United States,11184,midmarket,Y,582,chen.weber@example.com,VALID,EMAIL-0071,2024-12-05,VALID,DUP-0084,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001197,Noor da silva,noor.dasilva@example.com,23.04.2024,Germany,$391.69,Mid Market,no,583,noor.dasilva@example.com,VALID,EMAIL-0221,2024-04-23,VALID,DUP-0029,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001362,Aisha Nguyen,aisha.nguyen@corp.example,2023-07-31,DE,$2506.74,smb,no,584,aisha.nguyen@corp.example,VALID,,2023-07-31,VALID,DUP-0169,POSSIBLE_DUPLICATE_LOW,N
+CUST-1521,tomás okafor,toms.okafor@mail.test,"Apr 25, 2025",BR,164,Enterprise,1,585,toms.okafor@mail.test,VALID,,2025-04-25,VALID,DUP-0145,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1198,Grace PATEL,,"Jun 17, 2023",u.s.,107.7,SMB,false,586,,MISSING,,2023-06-17,VALID,DUP-0174,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1392,ana Nguyen,ana.nguyen@mail.test,2025-02-02,Brazil,165.12,ENT,TRUE,587,ana.nguyen@mail.test,VALID,EMAIL-0099,2025-02-02,VALID,DUP-0114,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1076,tomás ODWYER,toms.odwyer@mail.test,"Jan 15, 2025",u.s.,$117.62,midmarket,1,588,toms.odwyer@mail.test,VALID,,2025-01-15,VALID,DUP-0007,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1678,Leilani Costa,Leilani <Leilani@example.com>,,Brazil,633,enterprise,false,589,leilani <leilani@example.com>,INVALID,,,MISSING,DUP-0108,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1817,Chen Brennan,chen.brennan@corp.example,"Jun 6, 2024",usa,USD 147.9,consumer,Y,590,chen.brennan@corp.example,VALID,EMAIL-0222,2024-06-06,VALID,DUP-0064,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1334,omar Costa,omar.costa@corp.example,29 May 2025,u.s.,USD 206.49,Consumer,no,591,omar.costa@corp.example,VALID,,2025-05-29,VALID,DUP-0105,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1426,jonas Ferrari,jonas.ferrari@corp.example,08/27/2024,United Kingdom,$434.33,SMB,false,592,jonas.ferrari@corp.example,VALID,EMAIL-0041,2024-08-27,VALID,DUP-0051,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001101,Aisha ODWYER,aisha.odwyer@mail.test,09/26/2024,BR,355,smb,TRUE,593,aisha.odwyer@mail.test,VALID,EMAIL-0079,2024-09-26,VALID,DUP-0092,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1635,Aisha Nakamura,aisha.nakamura@mail.test,"Feb 7, 2024",United States,$491.19,Mid-Market,Y,594,aisha.nakamura@mail.test,VALID,EMAIL-0223,2024-02-07,VALID,DUP-0127,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1819,Mikael da silva,mikael.dasilva@example.com,07/07/2024,Germany,USD 715.27,consumer,Y,595,mikael.dasilva@example.com,VALID,EMAIL-0042,2024-07-07,VALID,DUP-0052,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1459,Yuki PATEL,yuki.patel@example.com,11/12/2023,Brazil,51,Enterprise,TRUE,596,yuki.patel@example.com,VALID,EMAIL-0028,,AMBIGUOUS,DUP-0033,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1353,omar PATEL,omar.patel@mail.test,"Feb 17, 2024",france,USD 232.54,smb,TRUE,597,omar.patel@mail.test,VALID,,2024-02-17,VALID,DUP-0018,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1878,ravi Kowalski,ravi.kowalski@example.com,2024-04-18,US,-999,Small Business,TRUE,598,ravi.kowalski@example.com,VALID,EMAIL-0065,2024-04-18,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1608,ana Nguyen,ana.nguyen@mail.test,2025-03-24,germany,19848,Mid Market,true,599,ana.nguyen@mail.test,VALID,EMAIL-0099,2025-03-24,VALID,DUP-0114,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1417,ravi Costa,ravi.costa@mail.test,21 Apr 2024,US,72,smb,N,600,ravi.costa@mail.test,VALID,EMAIL-0058,2024-04-21,VALID,DUP-0042,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1335,Aisha weber,aisha.weber@corp.example,"Nov 18, 2024",BR,$68.35,Small Business,false,601,aisha.weber@corp.example,VALID,EMAIL-0224,2024-11-18,VALID,DUP-0158,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001682,ana weber,,2023-08-05,United Kingdom,75,enterprise,TRUE,602,,MISSING,,2023-08-05,VALID,DUP-0089,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001423,Mikael Brennan,Mikael[at]example.com,11/19/2024,BR,USD 145.69,Small Business,1,603,mikael[at]example.com,INVALID,,2024-11-19,VALID,DUP-0056,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1293,Leilani da silva,leilani.dasilva@example.com,04.12.2023,france,9320,enterprise,false,604,leilani.dasilva@example.com,VALID,EMAIL-0117,,AMBIGUOUS,DUP-0004,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1883,Noor Brennan,noor.brennan@mail.test,09/09/2024,Brazil,877,Consumer,1,605,noor.brennan@mail.test,VALID,,2024-09-09,VALID,DUP-0037,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1390,Aisha PATEL,aisha.patel@mail.test,25.01.2024,u.s.,122,Small Business,N,606,aisha.patel@mail.test,VALID,EMAIL-0192,2024-01-25,VALID,DUP-0063,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1833,Yuki Nakamura,yuki.nakamura@mail.test,"Aug 5, 2024",uk,77921,enterprise,false,607,yuki.nakamura@mail.test,VALID,,2024-08-05,VALID,DUP-0046,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001261,Sofia ODWYER,sofia.odwyer@corp.example,2024-10-07,Brazil,629,Small Business,1,608,sofia.odwyer@corp.example,VALID,EMAIL-0225,2024-10-07,VALID,DUP-0080,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1470,Noor Nakamura,noor.nakamura@mail.test,17 Dec 2023,DE,"1,256",ENT,no,609,noor.nakamura@mail.test,VALID,EMAIL-0191,2023-12-17,VALID,DUP-0107,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1605,Chen Ferrari,chen.ferrari@mail.test,"May 3, 2024",BR,$87.81,Small Business,FALSE,610,chen.ferrari@mail.test,VALID,EMAIL-0206,2024-05-03,VALID,DUP-0166,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1579,tomás Ferrari,toms.ferrari@example.com,10.11.2023,usa,104.4,midmarket,yes,611,toms.ferrari@example.com,VALID,EMAIL-0105,,AMBIGUOUS,DUP-0120,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1955,Chen Costa,chen.costa@mail.test,06/26/2024,u.s.,212.38,ENT,true,612,chen.costa@mail.test,VALID,EMAIL-0175,2024-06-26,VALID,DUP-0039,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001224,Leilani okafor,leilani.okafor@mail.test,2023-05-06,GB,USD 93.15,midmarket,true,613,leilani.okafor@mail.test,VALID,EMAIL-0226,2023-05-06,VALID,DUP-0177,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1739,Sofia ODWYER,sofia.odwyer@corp.example,5 Feb 2023,usa,$708.3,enterprise,TRUE,614,sofia.odwyer@corp.example,VALID,EMAIL-0225,2023-02-05,VALID,DUP-0080,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1845,PRIYA Costa,priya.costa@example.com,7 Dec 2024,usa,153,midmarket,no,615,priya.costa@example.com,VALID,EMAIL-0148,2024-12-07,VALID,DUP-0008,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1205,Sofia Ferrari,sofia.ferrari@example.com,"Sep 30, 2023",US,476.65,Consumer,N,616,sofia.ferrari@example.com,VALID,,2023-09-30,VALID,DUP-0175,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001013,Chen PATEL,chen.patel@corp.example,2023-03-20,United States,220,smb,FALSE,617,chen.patel@corp.example,VALID,EMAIL-0150,2023-03-20,VALID,DUP-0149,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1272,Leilani Costa,leilani.costa@example.com,07/29/2024,france,$142.31,Mid Market,no,618,leilani.costa@example.com,VALID,EMAIL-0227,2024-07-29,VALID,DUP-0108,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1949,ravi Costa,ravi <ravi@example.com>,02/07/2025,usa,51224,midmarket,false,619,ravi <ravi@example.com>,INVALID,,,AMBIGUOUS,DUP-0042,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1163,Yuki weber,yuki.weber@example.com,"Jan 2, 2025",germany,$739.25,ENT,yes,620,yuki.weber@example.com,VALID,EMAIL-0228,2025-01-02,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001714,PRIYA Ferrari,priya.ferrari@mail.test,,FR,USD 237.19,Mid-Market,false,621,priya.ferrari@mail.test,VALID,EMAIL-0208,,MISSING,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001187,ana haddad,ana.haddad@mail.test,05/08/2023,germany,9863,Mid Market,yes,622,ana.haddad@mail.test,VALID,EMAIL-0059,,AMBIGUOUS,DUP-0071,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001506,Leilani Nakamura,leilani.nakamura@corp.example,2024-03-07,Germany,USD 659.6,enterprise,FALSE,623,leilani.nakamura@corp.example,VALID,EMAIL-0170,2024-03-07,VALID,DUP-0093,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1031,Aisha Ferrari,aisha.ferrari@mail.test,"Jul 6, 2023",u.s.,$169.93,enterprise,0,624,aisha.ferrari@mail.test,VALID,EMAIL-0122,2023-07-06,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1461,jonas Costa,jonas.costa@example.com,9 Aug 2024,GB,$407.02,Mid-Market,N,625,jonas.costa@example.com,VALID,EMAIL-0207,2024-08-09,VALID,DUP-0121,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1147,Noor Kowalski,noor.kowalski@mail.test,05/08/2024,GB,,Small Business,N,626,noor.kowalski@mail.test,VALID,EMAIL-0044,,AMBIGUOUS,DUP-0054,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001322,omar haddad,omar.haddad@example.com,12 Aug 2023,DE,152,ENT,N,627,omar.haddad@example.com,VALID,EMAIL-0045,2023-08-12,VALID,DUP-0015,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1359,ana Nguyen,ana.nguyen@example.com,"Apr 11, 2024",FR,$94.83,smb,yes,628,ana.nguyen@example.com,VALID,EMAIL-0229,2024-04-11,VALID,DUP-0114,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1344,Aisha Brennan,aisha.brennan@corp.example,,Germany,$28.8,Mid Market,TRUE,629,aisha.brennan@corp.example,VALID,EMAIL-0195,,MISSING,DUP-0001,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1474,Mikael da silva,mikael.dasilva@mail.test,03/24/2024,Brazil,,consumer,Y,630,mikael.dasilva@mail.test,VALID,,2024-03-24,VALID,DUP-0052,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1460,Grace haddad,grace.haddad@example.com,20 Aug 2024,GB,$174.82,ENT,true,631,grace.haddad@example.com,VALID,EMAIL-0187,2024-08-20,VALID,DUP-0157,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1667,Sofia okafor,sofia.okafor@corp.example,"Aug 24, 2023",United States,73,midmarket,true,632,sofia.okafor@corp.example,VALID,EMAIL-0230,2023-08-24,VALID,DUP-0099,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001445,omar PATEL,omar.patel@corp.example,05/20/2024,United States,381.62,consumer,N,633,omar.patel@corp.example,VALID,EMAIL-0014,2024-05-20,VALID,DUP-0018,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1337,Noor Kowalski,noor.kowalski@mail.test,10/05/2023,u.s.,76,midmarket,TRUE,634,noor.kowalski@mail.test,VALID,EMAIL-0044,,AMBIGUOUS,DUP-0054,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1702,omar Nakamura,omar.nakamura@mail.test,2023-10-30,GB,USD 129.56,Enterprise,Y,635,omar.nakamura@mail.test,VALID,EMAIL-0094,2023-10-30,VALID,DUP-0060,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1776,tomás okafor,toms.okafor@corp.example,"May 21, 2025",u.s.,277,ENT,FALSE,636,toms.okafor@corp.example,VALID,EMAIL-0159,2025-05-21,VALID,DUP-0145,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1766,tomás Brennan,toms.brennan@mail.test,22.08.2024,Germany,1015.56,Mid Market,Y,637,toms.brennan@mail.test,VALID,EMAIL-0231,2024-08-22,VALID,DUP-0153,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1108,ravi ODWYER,ravi.odwyer@example.com,09/18/2024,usa,166.74,Mid Market,yes,638,ravi.odwyer@example.com,VALID,EMAIL-0114,2024-09-18,VALID,DUP-0129,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1034,Grace Nguyen,grace.nguyen@mail.test,02/13/2025,uk,144,enterprise,N,639,grace.nguyen@mail.test,VALID,EMAIL-0232,2025-02-13,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1721,Mikael okafor,mikael.okafor@mail.test,2023-11-30,United States,$137.67,smb,N,640,mikael.okafor@mail.test,VALID,EMAIL-0104,2023-11-30,VALID,DUP-0119,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1406,Yuki okafor,yuki.okafor@example.com,27.04.2025,BR,126.42,ENT,N,641,yuki.okafor@example.com,VALID,EMAIL-0112,2025-04-27,VALID,DUP-0012,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1692,Marcus okafor,marcus.okafor@mail.test,2024-05-04,uk,256,Enterprise,no,642,marcus.okafor@mail.test,VALID,EMAIL-0233,2024-05-04,VALID,DUP-0134,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1914,PRIYA Lindqvist,priya.lindqvist@mail.test,2024-08-01,Brazil,$534.82,enterprise,no,643,priya.lindqvist@mail.test,VALID,EMAIL-0080,2024-08-01,VALID,DUP-0094,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1627,tomás haddad,toms.haddad@example.com,2025-06-14,u.s.,USD 68.95,midmarket,no,644,toms.haddad@example.com,VALID,EMAIL-0137,2025-06-14,VALID,DUP-0041,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1006,jonas ODWYER,jonas.odwyer@corp.example,9 Sep 2023,FR,39352,Mid Market,Y,645,jonas.odwyer@corp.example,VALID,EMAIL-0234,2023-09-09,VALID,DUP-0142,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001731,Aisha ODWYER,aisha.odwyer@mail.test,2024-08-25,uk,7147,consumer,FALSE,646,aisha.odwyer@mail.test,VALID,EMAIL-0079,2024-08-25,VALID,DUP-0092,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1047,omar Nakamura,omar.nakamura@mail.test,-,france,$365.15,Mid Market,1,647,omar.nakamura@mail.test,VALID,EMAIL-0094,,INVALID,DUP-0060,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1849,omar okafor,omar.okafor@corp.example,03.04.2023,FR,$131.87,midmarket,true,648,omar.okafor@corp.example,VALID,EMAIL-0017,,AMBIGUOUS,DUP-0021,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1074,Grace Kowalski,grace.kowalski@corp.example,7 Mar 2024,United Kingdom,-,consumer,Y,649,grace.kowalski@corp.example,VALID,EMAIL-0061,2024-03-07,VALID,DUP-0073,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1640,Aisha Kowalski,aisha.kowalski@corp.example,"May 27, 2025",United Kingdom,15568,Small Business,0,650,aisha.kowalski@corp.example,VALID,,2025-05-27,VALID,DUP-0062,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1875,Chen PATEL,chen.patel@corp.example,2024-12-31,FR,USD 99.24,Mid-Market,N,651,chen.patel@corp.example,VALID,EMAIL-0150,2024-12-31,VALID,DUP-0149,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001871,Aisha Brennan,aisha.brennan@mail.test,2024-02-09,United States,USD 68.24,enterprise,true,652,aisha.brennan@mail.test,VALID,EMAIL-0001,2024-02-09,VALID,DUP-0001,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1010,Leilani Nguyen,leilani.nguyen@mail.test,"Feb 20, 2025",US,253.3,midmarket,false,653,leilani.nguyen@mail.test,VALID,EMAIL-0235,2025-02-20,VALID,DUP-0178,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1619,Mikael Costa,mikael.costa@example.com,2023-11-04,FR,511,Mid-Market,true,654,mikael.costa@example.com,VALID,EMAIL-0161,2023-11-04,VALID,DUP-0083,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001555,jonas ODWYER,jonas.odwyer@corp.example,2025-04-22,FR,USD 206.5,Small Business,0,655,jonas.odwyer@corp.example,VALID,EMAIL-0234,2025-04-22,VALID,DUP-0142,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001863,tomás haddad,toms.haddad@example.com,"Aug 28, 2023",US,75.31,Small Business,false,656,toms.haddad@example.com,VALID,EMAIL-0137,2023-08-28,VALID,DUP-0041,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001672,Leilani da silva,leilani.dasilva@corp.example,08/20/2024,usa,321,Mid-Market,1,657,leilani.dasilva@corp.example,VALID,EMAIL-0003,2024-08-20,VALID,DUP-0004,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001446,Mikael Costa,mikael.costa@corp.example,03/26/2024,GB,USD 210.08,SMB,false,658,mikael.costa@corp.example,VALID,EMAIL-0186,2024-03-26,VALID,DUP-0083,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1770,MIKAEL NGUYEN,MIKAEL.NGUYEN@EXAMPLE.COM,24.10.2024,Germany,USD 150.53,enterprise,false,659,mikael.nguyen@example.com,VALID,EMAIL-0154,2024-10-24,VALID,DUP-0143,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001928,Noor okafor,Noor <Noor@example.com>,2023-11-09,US,USD 189.53,Mid Market,0,660,noor <noor@example.com>,INVALID,,2023-11-09,VALID,DUP-0110,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1663,Noor weber,noor.weber@corp.example,7 Apr 2024,US,80337,SMB,Y,661,noor.weber@corp.example,VALID,,2024-04-07,VALID,DUP-0050,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001075,Leilani Nguyen,leilani.nguyen@mail.test,03.07.2023,GB,28077,consumer,0,662,leilani.nguyen@mail.test,VALID,EMAIL-0235,,AMBIGUOUS,DUP-0178,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1069,Chen Costa,chen.costa@corp.example,2023-09-30,germany,USD 246.63,ENT,yes,663,chen.costa@corp.example,VALID,EMAIL-0188,2023-09-30,VALID,DUP-0039,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001285,Aisha Ferrari,aisha.ferrari@mail.test,2025-05-11,FR,4751,Mid-Market,N,664,aisha.ferrari@mail.test,VALID,EMAIL-0122,2025-05-11,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1842,ravi weber,ravi.weber@corp.example,26 Mar 2025,BR,400.77,midmarket,N,665,ravi.weber@corp.example,VALID,EMAIL-0190,2025-03-26,VALID,DUP-0152,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001621,Sofia da silva,sofia.dasilva@mail.test,2025-05-01,Brazil,USD 203.62,Consumer,FALSE,666,sofia.dasilva@mail.test,VALID,EMAIL-0236,2025-05-01,VALID,DUP-0171,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1896,Mikael Ferrari,mikael.ferrari@example.com,29 Jul 2023,u.s.,100,consumer,1,667,mikael.ferrari@example.com,VALID,EMAIL-0039,2023-07-29,VALID,DUP-0048,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1834,Aisha da silva,aisha.dasilva@example.com,2024-08-02,germany,211,Mid-Market,1,668,aisha.dasilva@example.com,VALID,EMAIL-0078,2024-08-02,VALID,DUP-0043,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001877,Chen Nakamura,chen.nakamura@example.com,04/25/2024,United States,728,SMB,yes,669,chen.nakamura@example.com,VALID,EMAIL-0189,2024-04-25,VALID,DUP-0087,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1859,jonas ODWYER,jonas.odwyer@mail.test,2024-03-30,GB,50536,Mid Market,true,670,jonas.odwyer@mail.test,VALID,EMAIL-0131,2024-03-30,VALID,DUP-0142,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1865,tomás Nakamura,toms.nakamura@mail.test,15 Oct 2024,uk,168.8,midmarket,FALSE,671,toms.nakamura@mail.test,VALID,EMAIL-0098,2024-10-15,VALID,DUP-0024,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001821,Leilani ODWYER,leilani.odwyer@corp.example,"Jan 27, 2024",germany,35377,Mid-Market,no,672,leilani.odwyer@corp.example,VALID,EMAIL-0062,2024-01-27,VALID,DUP-0006,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1399,Yuki Kowalski,yuki.kowalski@corp.example,"Mar 13, 2024",usa,67496,Mid Market,1,673,yuki.kowalski@corp.example,VALID,,2024-03-13,VALID,DUP-0027,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1487,Mikael weber,mikael.weber@corp.example,3 Jul 2024,uk,$43.73,midmarket,yes,674,mikael.weber@corp.example,VALID,EMAIL-0016,2024-07-03,VALID,DUP-0020,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001295,ravi haddad,ravi.haddad@example.com,25 Nov 2024,FR,$923.32,Small Business,no,675,ravi.haddad@example.com,VALID,EMAIL-0141,2024-11-25,VALID,DUP-0065,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1764,omar Nakamura,omar.nakamura@corp.example,04/03/2024,u.s.,USD 460.11,enterprise,0,676,omar.nakamura@corp.example,VALID,,,AMBIGUOUS,DUP-0060,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001510,ana Nakamura,ana.nakamura@mail.test,6 Jan 2023,usa,USD 276.84,Mid-Market,0,677,ana.nakamura@mail.test,VALID,EMAIL-0006,2023-01-06,VALID,DUP-0009,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1590,Mikael ODWYER,mikael.odwyer@mail.test,25 Dec 2023,United States,,Mid Market,1,678,mikael.odwyer@mail.test,VALID,EMAIL-0040,2023-12-25,VALID,DUP-0049,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1086,PRIYA Brennan,priya.brennan@mail.test,,germany,$110.8,SMB,yes,679,priya.brennan@mail.test,VALID,,,MISSING,DUP-0176,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1070,omar Kowalski,omar.kowalski@corp.example,02.03.2023,United States,263.5,Small Business,N,680,omar.kowalski@corp.example,VALID,EMAIL-0125,,AMBIGUOUS,DUP-0135,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1027,ana Kowalski,ana.kowalski@corp.example,14.09.2024,u.s.,USD 177.69,SMB,TRUE,681,ana.kowalski@corp.example,VALID,,2024-09-14,VALID,,,N
+CUST-00001953,Chen PATEL,chen.patel@corp.example,31 Mar 2023,BR,230,SMB,FALSE,682,chen.patel@corp.example,VALID,EMAIL-0150,2023-03-31,VALID,DUP-0149,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1648,PRIYA haddad,priya.haddad@mail.test,18.09.2023,usa,43,Mid-Market,false,683,priya.haddad@mail.test,VALID,,2023-09-18,VALID,DUP-0146,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1033,Leilani haddad,leilani.haddad@mail.test,2023-06-24,FR,$90.6,smb,1,684,leilani.haddad@mail.test,VALID,EMAIL-0237,2023-06-24,VALID,DUP-0172,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1941,Chen Lindqvist,chen.lindqvist@corp.example,"Oct 30, 2023",FR,402.93,midmarket,no,685,chen.lindqvist@corp.example,VALID,EMAIL-0146,2023-10-30,VALID,DUP-0150,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001201,Grace Nguyen,grace.nguyen@example.com,,GB,471.73,SMB,1,686,grace.nguyen@example.com,VALID,EMAIL-0096,,MISSING,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1602,Sofia okafor,sofia.okafor@mail.test,11 Mar 2024,US,$234.16,ENT,N,687,sofia.okafor@mail.test,VALID,EMAIL-0198,2024-03-11,VALID,DUP-0099,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1683,ravi Nakamura,ravi.nakamura@mail.test,12 Feb 2024,BR,$115.04,enterprise,no,688,ravi.nakamura@mail.test,VALID,EMAIL-0209,2024-02-12,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1234,Marcus Kowalski,marcus.kowalski@mail.test,2024-03-01,Germany,USD 85.67,midmarket,false,689,marcus.kowalski@mail.test,VALID,,2024-03-01,VALID,DUP-0005,POSSIBLE_DUPLICATE_LOW,N
+CUST-1572,omar okafor,omar.okafor@corp.example,11.04.2025,Germany,$514.76,Consumer,FALSE,690,omar.okafor@corp.example,VALID,EMAIL-0017,,AMBIGUOUS,DUP-0021,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001383,PRIYA PATEL,priya.patel@corp.example,2025-03-23,BR,307.65,consumer,true,691,priya.patel@corp.example,VALID,EMAIL-0238,2025-03-23,VALID,DUP-0079,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001956,Noor weber,noor.weber@mail.test,,FR,100,midmarket,0,692,noor.weber@mail.test,VALID,EMAIL-0239,,MISSING,DUP-0050,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1759,PRIYA Ferrari,priya.ferrari@mail.test,2023-06-03,United Kingdom,USD 138.43,Consumer,false,693,priya.ferrari@mail.test,VALID,EMAIL-0208,2023-06-03,VALID,DUP-0016,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1441,PRIYA okafor,priya.okafor@corp.example,,United Kingdom,$192.51,Small Business,FALSE,694,priya.okafor@corp.example,VALID,EMAIL-0106,,MISSING,DUP-0095,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1112,RAVI WEBER,RAVI.WEBER@MAIL.TEST,"Sep 1, 2024",United Kingdom,-,midmarket,TRUE,695,ravi.weber@mail.test,VALID,EMAIL-0240,2024-09-01,VALID,DUP-0152,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1559,ana weber,ana.weber@mail.test,,uk,361,ENT,TRUE,696,ana.weber@mail.test,VALID,EMAIL-0241,,MISSING,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1747,Grace ODWYER,Grace[at]example.com,"Jun 3, 2024",DE,$331.84,Enterprise,0,697,grace[at]example.com,INVALID,,2024-06-03,VALID,DUP-0034,EMAIL_INVALID|POSSIBLE_DUPLICATE_LOW,Y
+CUST-00001502,Grace Nakamura,grace.nakamura@mail.test,11/11/2023,FR,USD 162.01,enterprise,yes,698,grace.nakamura@mail.test,VALID,EMAIL-0142,2023-11-11,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1528,Leilani Brennan,leilani.brennan@corp.example,03/14/2024,u.s.,29694,ENT,yes,699,leilani.brennan@corp.example,VALID,,2024-03-14,VALID,DUP-0081,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1907,Marcus PATEL,marcus.patel@mail.test,05/13/2024,usa,12220,ENT,yes,700,marcus.patel@mail.test,VALID,EMAIL-0199,2024-05-13,VALID,DUP-0173,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1326,Marcus ODWYER,marcus.odwyer@corp.example,18.06.2024,Brazil,"1,706",Small Business,0,701,marcus.odwyer@corp.example,VALID,,2024-06-18,VALID,DUP-0096,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1173,jonas Costa,jonas.costa@corp.example,12/03/2023,Germany,321,Consumer,FALSE,702,jonas.costa@corp.example,VALID,,,AMBIGUOUS,DUP-0121,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1662,ana Brennan,ana.brennan@example.com,24 May 2024,uk,231,Enterprise,yes,703,ana.brennan@example.com,VALID,EMAIL-0184,2024-05-24,VALID,DUP-0100,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1393,Sofia Kowalski,Sofia[at]example.com,2025-01-02,US,25044,SMB,0,704,sofia[at]example.com,INVALID,,2025-01-02,VALID,DUP-0112,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001298,JONAS PATEL,JONAS.PATEL@EXAMPLE.COM,06.05.2024,u.s.,USD 77.01,enterprise,0,705,jonas.patel@example.com,VALID,EMAIL-0214,,AMBIGUOUS,DUP-0179,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1637,Chen Nakamura,chen.nakamura@corp.example,2023-06-24,germany,USD 429.36,Enterprise,yes,706,chen.nakamura@corp.example,VALID,EMAIL-0074,2023-06-24,VALID,DUP-0087,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1475,Marcus Ferrari,marcus.ferrari@mail.test,14 Sep 2023,US,69,Consumer,Y,707,marcus.ferrari@mail.test,VALID,EMAIL-0046,2023-09-14,VALID,DUP-0055,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1508,tomás PATEL,toms.patel@corp.example,09/07/2023,US,USD 911.13,ENT,no,708,toms.patel@corp.example,VALID,EMAIL-0101,,AMBIGUOUS,DUP-0116,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1679,Sofia PATEL,sofia.patel@example.com,1 Jun 2024,germany,304.84,Enterprise,true,709,sofia.patel@example.com,VALID,EMAIL-0242,2024-06-01,VALID,DUP-0180,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001540,PRIYA PATEL,priya.patel@mail.test,2025-04-05,germany,317,enterprise,yes,710,priya.patel@mail.test,VALID,EMAIL-0243,2025-04-05,VALID,DUP-0079,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001757,Aisha Ferrari,aisha.ferrari@example.com,"Feb 26, 2023",GB,36,enterprise,no,711,aisha.ferrari@example.com,VALID,EMAIL-0153,2023-02-26,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001634,Chen Costa,chen.costa@corp.example,02/10/2023,US,USD 149.03,Mid-Market,no,712,chen.costa@corp.example,VALID,EMAIL-0188,,AMBIGUOUS,DUP-0039,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1931,Marcus Ferrari,marcus.ferrari@example.com,27.01.2025,uk,134.99,SMB,Y,713,marcus.ferrari@example.com,VALID,,2025-01-27,VALID,DUP-0055,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1570,Leilani ODWYER,leilani.odwyer@corp.example,21 Jun 2024,US,419.19,enterprise,Y,714,leilani.odwyer@corp.example,VALID,EMAIL-0062,2024-06-21,VALID,DUP-0006,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1284,PRIYA Nakamura,priya.nakamura@example.com,2 Feb 2024,Germany,296.03,smb,false,715,priya.nakamura@example.com,VALID,EMAIL-0151,2024-02-02,VALID,DUP-0106,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1492,Mikael Nakamura,mikael.nakamura@mail.test,06.07.2023,Germany,USD 136.32,Enterprise,Y,716,mikael.nakamura@mail.test,VALID,,,AMBIGUOUS,DUP-0140,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1733,Grace Lindqvist,grace.lindqvist@corp.example,27 May 2024,france,150.5,ENT,no,717,grace.lindqvist@corp.example,VALID,EMAIL-0140,2024-05-27,VALID,DUP-0148,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1063,PRIYA ODWYER,PRIYA.ODWYER@CORP.EXAMPLE,04/28/2025,Brazil,137.74,mid-market,1,718,priya.odwyer@corp.example,VALID,EMAIL-0060,2025-04-28,VALID,DUP-0072,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1680,omar haddad,omar.haddad@mail.test,"Mar 2, 2024",u.s.,73335,enterprise,Y,719,omar.haddad@mail.test,VALID,EMAIL-0172,2024-03-02,VALID,DUP-0015,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1341,ravi Kowalski,ravi.kowalski@mail.test,"Aug 7, 2023",u.s.,33340,Mid Market,TRUE,720,ravi.kowalski@mail.test,VALID,EMAIL-0103,2023-08-07,VALID,DUP-0078,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1017,omar Brennan,omar.brennan@example.com,"Oct 19, 2023",Germany,486.09,ENT,yes,721,omar.brennan@example.com,VALID,EMAIL-0002,2023-10-19,VALID,DUP-0002,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001141,ravi ODWYER,ravi.odwyer@example.com,"Sep 5, 2023",uk,,SMB,yes,722,ravi.odwyer@example.com,VALID,EMAIL-0114,2023-09-05,VALID,DUP-0129,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1828,Leilani haddad,leilani.haddad@mail.test,"Oct 21, 2023",uk,USD 252.99,Mid-Market,TRUE,723,leilani.haddad@mail.test,VALID,EMAIL-0237,2023-10-21,VALID,DUP-0172,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001400,Aisha Ferrari,aisha.ferrari@mail.test,02/20/2025,Brazil,137,consumer,false,724,aisha.ferrari@mail.test,VALID,EMAIL-0122,2025-02-20,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1361,Aisha weber,aisha.weber@corp.example,2025-02-06,u.s.,USD 525.6,consumer,true,725,aisha.weber@corp.example,VALID,EMAIL-0224,2025-02-06,VALID,DUP-0158,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001401,tomás Brennan,toms.brennan@mail.test,27 Mar 2023,germany,-999,Enterprise,yes,726,toms.brennan@mail.test,VALID,EMAIL-0231,2023-03-27,VALID,DUP-0153,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001001,Marcus da silva,marcus.dasilva@mail.test,08/18/2024,france,197.25,Small Business,0,727,marcus.dasilva@mail.test,VALID,EMAIL-0157,2024-08-18,VALID,DUP-0122,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1281,Aisha Nakamura,aisha.nakamura@corp.example,11 Aug 2023,FR,USD 657.25,midmarket,TRUE,728,aisha.nakamura@corp.example,VALID,EMAIL-0244,2023-08-11,VALID,DUP-0127,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001020,Grace ODWYER,grace.odwyer@mail.test,2023-10-02,FR,USD 268.1,ENT,false,729,grace.odwyer@mail.test,VALID,,2023-10-02,VALID,DUP-0034,POSSIBLE_DUPLICATE_LOW,N
+CUST-1666,ana weber,ana.weber@mail.test,2025-02-14,GB,890.59,Mid Market,1,730,ana.weber@mail.test,VALID,EMAIL-0241,2025-02-14,VALID,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001599,ana okafor,ana.okafor@corp.example,05/30/2023,u.s.,18737,Enterprise,no,731,ana.okafor@corp.example,VALID,EMAIL-0118,2023-05-30,VALID,DUP-0132,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1071,Grace Kowalski,grace.kowalski@example.com,2024-01-16,DE,146,ENT,yes,732,grace.kowalski@example.com,VALID,,2024-01-16,VALID,DUP-0073,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1352,Aisha Ferrari,Aisha <Aisha@example.com>,"May 19, 2024",United Kingdom,14106,Mid-Market,N,733,aisha <aisha@example.com>,INVALID,,2024-05-19,VALID,DUP-0133,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1053,tomás da silva,toms.dasilva@mail.test,2025-02-05,United Kingdom,$147.7,Consumer,FALSE,734,toms.dasilva@mail.test,VALID,EMAIL-0134,2025-02-05,VALID,DUP-0144,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1225,Aisha Lindqvist,Aisha@@example..com,"Jul 18, 2024",germany,106,SMB,N,735,aisha@@example..com,INVALID,,2024-07-18,VALID,DUP-0181,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001820,ravi okafor,ravi.okafor@corp.example,7 Feb 2023,GB,USD 1085.7,Mid Market,true,736,ravi.okafor@corp.example,VALID,EMAIL-0245,2023-02-07,VALID,DUP-0003,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1653,Grace Ferrari,grace.ferrari@mail.test,12/28/2023,United Kingdom,5723,Enterprise,true,737,grace.ferrari@mail.test,VALID,EMAIL-0010,2023-12-28,VALID,DUP-0014,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1625,Aisha Nakamura,aisha.nakamura@mail.test,26.01.2023,GB,USD 50.4,Mid-Market,false,738,aisha.nakamura@mail.test,VALID,EMAIL-0223,2023-01-26,VALID,DUP-0127,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1777,ana Brennan,ana.brennan@mail.test,2023-03-25,u.s.,$728.77,Consumer,true,739,ana.brennan@mail.test,VALID,,2023-03-25,VALID,DUP-0100,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001166,PRIYA Nguyen,priya.nguyen@corp.example,"Jun 5, 2024",Germany,$149.64,enterprise,1,740,priya.nguyen@corp.example,VALID,EMAIL-0113,2024-06-05,VALID,DUP-0031,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1372,Leilani haddad,leilani.haddad@corp.example,08/07/2024,Germany,127.5,Mid-Market,0,741,leilani.haddad@corp.example,VALID,EMAIL-0194,,AMBIGUOUS,DUP-0172,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1432,Leilani da silva,leilani.dasilva@corp.example,2024-04-02,DE,186.15,consumer,FALSE,742,leilani.dasilva@corp.example,VALID,EMAIL-0003,2024-04-02,VALID,DUP-0004,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1077,ana Costa,ana.costa@corp.example,9 Dec 2024,FR,,Mid-Market,yes,743,ana.costa@corp.example,VALID,EMAIL-0107,2024-12-09,VALID,DUP-0123,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001082,Marcus weber,marcus.weber@mail.test,20 Jul 2024,United States,63544,SMB,TRUE,744,marcus.weber@mail.test,VALID,,2024-07-20,VALID,DUP-0076,POSSIBLE_DUPLICATE_LOW,N
+CUST-1531,ana okafor,ana.okafor@example.com,06/30/2023,FR,$187.56,Consumer,yes,745,ana.okafor@example.com,VALID,EMAIL-0205,2023-06-30,VALID,DUP-0132,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1434,ana PATEL,ana.patel@mail.test,16.09.2024,uk,153.78,Mid-Market,FALSE,746,ana.patel@mail.test,VALID,EMAIL-0057,2024-09-16,VALID,DUP-0070,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001476,tomás okafor,toms.okafor@example.com,11 Jul 2023,Brazil,$393.42,Mid Market,0,747,toms.okafor@example.com,VALID,EMAIL-0135,2023-07-11,VALID,DUP-0145,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1630,Sofia da silva,sofia.dasilva@corp.example,2025-01-14,france,USD 427.3,Enterprise,Y,748,sofia.dasilva@corp.example,VALID,EMAIL-0201,2025-01-14,VALID,DUP-0171,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1170,Sofia Nguyen,sofia.nguyen@mail.test,21 Apr 2024,GB,59.08,midmarket,0,749,sofia.nguyen@mail.test,VALID,EMAIL-0072,2024-04-21,VALID,DUP-0085,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001700,Leilani Brennan,leilani.brennan@example.com,2024-02-24,US,$775.85,Small Business,1,750,leilani.brennan@example.com,VALID,EMAIL-0069,2024-02-24,VALID,DUP-0081,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001706,Sofia Nguyen,sofia.nguyen@example.com,13.06.2023,US,15158,midmarket,FALSE,751,sofia.nguyen@example.com,VALID,EMAIL-0246,2023-06-13,VALID,DUP-0085,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1084,Leilani Costa,leilani.costa@example.com,22 May 2024,france,14279,SMB,N,752,leilani.costa@example.com,VALID,EMAIL-0227,2024-05-22,VALID,DUP-0108,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1384,PRIYA Brennan,priya.brennan@example.com,"Mar 11, 2025",GB,162.67,midmarket,Y,753,priya.brennan@example.com,VALID,EMAIL-0247,2025-03-11,VALID,DUP-0176,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1436,Yuki weber,yuki.weber@example.com,"Mar 9, 2024",uk,USD 140.71,midmarket,FALSE,754,yuki.weber@example.com,VALID,EMAIL-0228,2024-03-09,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1913,Grace Nguyen,grace.nguyen@mail.test,26 Jun 2024,Germany,10178,ENT,1,755,grace.nguyen@mail.test,VALID,EMAIL-0232,2024-06-26,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1494,Leilani okafor,leilani.okafor@mail.test,5 Aug 2023,Germany,200.32,midmarket,false,756,leilani.okafor@mail.test,VALID,EMAIL-0226,2023-08-05,VALID,DUP-0177,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1743,Noor PATEL,noor.patel@mail.test,"Oct 23, 2024",United Kingdom,USD 45.03,Enterprise,FALSE,757,noor.patel@mail.test,VALID,EMAIL-0091,2024-10-23,VALID,DUP-0104,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1852,ravi Ferrari,ravi.ferrari@corp.example,2023-06-29,BR,USD 454.57,Mid-Market,FALSE,758,ravi.ferrari@corp.example,VALID,,2023-06-29,VALID,DUP-0182,POSSIBLE_DUPLICATE_LOW,N
+CUST-1478,jonas Nakamura,jonas.nakamura@corp.example,04/24/2024,DE,$122.56,Mid Market,Y,759,jonas.nakamura@corp.example,VALID,EMAIL-0174,2024-04-24,VALID,DUP-0160,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1110,Chen Kowalski,chen.kowalski@mail.test,29.02.2024,Brazil,9357,enterprise,0,760,chen.kowalski@mail.test,VALID,EMAIL-0176,2024-02-29,VALID,DUP-0163,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1257,tomás da silva,toms.dasilva@example.com,2024-04-22,u.s.,20006,ENT,TRUE,761,toms.dasilva@example.com,VALID,,2024-04-22,VALID,DUP-0144,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1217,Yuki Nguyen,yuki.nguyen@mail.test,28 Aug 2024,FR,$195.33,Mid-Market,yes,762,yuki.nguyen@mail.test,VALID,EMAIL-0219,2024-08-28,VALID,DUP-0010,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001903,Mikael PATEL,mikael.patel@mail.test,17 Jan 2024,uk,$139.82,smb,true,763,mikael.patel@mail.test,VALID,EMAIL-0031,2024-01-17,VALID,DUP-0025,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1184,Grace da silva,grace.dasilva@corp.example,08/29/2024,US,95,smb,0,764,grace.dasilva@corp.example,VALID,EMAIL-0248,2024-08-29,VALID,DUP-0156,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1030,jonas ODWYER,jonas.odwyer@corp.example,"Mar 16, 2025",GB,209.84,SMB,Y,765,jonas.odwyer@corp.example,VALID,EMAIL-0234,2025-03-16,VALID,DUP-0142,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1917,Aisha Nakamura,aisha.nakamura@mail.test,05.01.2023,DE,526,SMB,0,766,aisha.nakamura@mail.test,VALID,EMAIL-0223,,AMBIGUOUS,DUP-0127,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1947,Marcus Nguyen,marcus.nguyen@corp.example,10.06.2023,Brazil,49636,ENT,TRUE,767,marcus.nguyen@corp.example,VALID,,,AMBIGUOUS,DUP-0167,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-00001451,Sofia haddad,sofia.haddad@example.com,2025-04-21,germany,176.62,SMB,FALSE,768,sofia.haddad@example.com,VALID,EMAIL-0249,2025-04-21,VALID,DUP-0138,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1860,Chen Nguyen,chen.nguyen@mail.test,03/27/2025,Germany,103.9,consumer,false,769,chen.nguyen@mail.test,VALID,,2025-03-27,VALID,DUP-0102,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1532,Noor Nguyen,noor.nguyen@mail.test,,United States,$52.19,smb,true,770,noor.nguyen@mail.test,VALID,EMAIL-0063,,MISSING,DUP-0075,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1742,Marcus ODWYER,marcus.odwyer@example.com,"Aug 5, 2023",usa,-,SMB,0,771,marcus.odwyer@example.com,VALID,EMAIL-0082,2023-08-05,VALID,DUP-0096,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1696,Leilani okafor,leilani.okafor@example.com,,france,USD 114.02,ENT,true,772,leilani.okafor@example.com,VALID,EMAIL-0211,,MISSING,DUP-0177,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1092,PRIYA Nguyen,priya.nguyen@corp.example,07/23/2024,BR,117.34,consumer,no,773,priya.nguyen@corp.example,VALID,EMAIL-0113,2024-07-23,VALID,DUP-0031,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001264,tomás Nguyen,toms.nguyen@corp.example,"Mar 30, 2023",BR,$188.28,enterprise,no,774,toms.nguyen@corp.example,VALID,,2023-03-30,VALID,DUP-0082,POSSIBLE_DUPLICATE_LOW,N
+CUST-1591,PRIYA Nakamura,priya.nakamura@mail.test,04/22/2023,uk,,smb,N,775,priya.nakamura@mail.test,VALID,EMAIL-0167,2023-04-22,VALID,DUP-0106,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1348,Leilani Nguyen,leilani.nguyen@example.com,2025-01-23,u.s.,115,smb,FALSE,776,leilani.nguyen@example.com,VALID,EMAIL-0250,2025-01-23,VALID,DUP-0178,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1797,jonas Costa,jonas.costa@example.com,11.01.2025,United Kingdom,617.59,Mid-Market,TRUE,777,jonas.costa@example.com,VALID,EMAIL-0207,,AMBIGUOUS,DUP-0121,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1443,RAVI NGUYEN,RAVI.NGUYEN@MAIL.TEST,"Jun 16, 2024",GB,,enterprise,no,778,ravi.nguyen@mail.test,VALID,EMAIL-0124,2024-06-16,VALID,DUP-0091,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1409,Marcus Lindqvist,marcus.lindqvist@corp.example,2023-06-30,Brazil,USD 156.32,Small Business,no,779,marcus.lindqvist@corp.example,VALID,EMAIL-0216,2023-06-30,VALID,DUP-0155,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1304,PRIYA Nakamura,priya.nakamura@corp.example,02/12/2023,GB,8637,midmarket,true,780,priya.nakamura@corp.example,VALID,EMAIL-0215,,AMBIGUOUS,DUP-0106,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1218,ravi okafor,ravi.okafor@corp.example,2024-02-25,Germany,950.8,SMB,0,781,ravi.okafor@corp.example,VALID,EMAIL-0245,2024-02-25,VALID,DUP-0003,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001612,ana Lindqvist,ana[at]example.com,11.04.2023,United States,47997,Mid Market,yes,782,ana[at]example.com,INVALID,,,AMBIGUOUS,DUP-0066,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1489,ana PATEL,ana.patel@mail.test,"Mar 30, 2023",germany,USD 222.6,Mid Market,N,783,ana.patel@mail.test,VALID,EMAIL-0057,2023-03-30,VALID,DUP-0070,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1332,Leilani Ferrari,Leilani <Leilani@example.com>,25.04.2023,US,84,Enterprise,no,784,leilani <leilani@example.com>,INVALID,,2023-04-25,VALID,DUP-0030,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001157,RAVI NGUYEN,RAVI.NGUYEN@CORP.EXAMPLE,2023-03-23,Brazil,USD 100.44,ent,Y,785,ravi.nguyen@corp.example,VALID,EMAIL-0139,2023-03-23,VALID,DUP-0091,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1192,Aisha Costa,aisha.costa@corp.example,"Apr 3, 2025",United States,$573.63,Mid Market,N,786,aisha.costa@corp.example,VALID,EMAIL-0109,2025-04-03,VALID,DUP-0044,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1442,Mikael ODWYER,mikael.odwyer@corp.example,10 Dec 2024,DE,285.51,Enterprise,FALSE,787,mikael.odwyer@corp.example,VALID,EMAIL-0068,2024-12-10,VALID,DUP-0049,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001874,Aisha haddad,aisha.haddad@mail.test,26.12.2023,US,235.76,SMB,1,788,aisha.haddad@mail.test,VALID,EMAIL-0032,2023-12-26,VALID,DUP-0038,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1099,jonas ODWYER,jonas.odwyer@example.com,"Jan 20, 2024",germany,116,Enterprise,Y,789,jonas.odwyer@example.com,VALID,,2024-01-20,VALID,DUP-0142,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1002,Yuki Lindqvist,yuki.lindqvist@corp.example,23.01.2024,DE,USD 637.06,Small Business,1,790,yuki.lindqvist@corp.example,VALID,,2024-01-23,VALID,DUP-0069,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001712,Leilani Nguyen,leilani.nguyen@example.com,"Nov 30, 2024",United Kingdom,USD 329.24,smb,FALSE,791,leilani.nguyen@example.com,VALID,EMAIL-0250,2024-11-30,VALID,DUP-0178,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1000,ana haddad,ana.haddad@corp.example,02.12.2023,uk,$689.97,Mid-Market,true,792,ana.haddad@corp.example,VALID,,,AMBIGUOUS,DUP-0071,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1123,Aisha okafor,aisha.okafor@mail.test,02/03/2024,GB,206,Enterprise,TRUE,793,aisha.okafor@mail.test,VALID,EMAIL-0183,,AMBIGUOUS,DUP-0168,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1864,omar Ferrari,omar[at]example.com,10 Apr 2024,US,192,enterprise,N,794,omar[at]example.com,INVALID,,2024-04-10,VALID,DUP-0128,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1016,Grace haddad,grace.haddad@corp.example,17.06.2024,United Kingdom,USD 217.87,SMB,no,795,grace.haddad@corp.example,VALID,EMAIL-0171,2024-06-17,VALID,DUP-0157,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001328,omar Nakamura,omar.nakamura@mail.test,28 Aug 2023,BR,$848.37,Small Business,FALSE,796,omar.nakamura@mail.test,VALID,EMAIL-0094,2023-08-28,VALID,DUP-0060,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1467,Mikael Ferrari,mikael.ferrari@example.com,"Jun 12, 2025",US,48582,consumer,false,797,mikael.ferrari@example.com,VALID,EMAIL-0039,2025-06-12,VALID,DUP-0048,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1339,ana Ferrari,ana.ferrari@corp.example,17.12.2024,uk,15143,Mid-Market,0,798,ana.ferrari@corp.example,VALID,EMAIL-0048,2024-12-17,VALID,DUP-0057,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001588,ana Nguyen,ana.nguyen@example.com,2025-06-08,United States,$318.18,ENT,FALSE,799,ana.nguyen@example.com,VALID,EMAIL-0229,2025-06-08,VALID,DUP-0114,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1287,ANA BRENNAN,ANA.BRENNAN@EXAMPLE.COM,27 Nov 2024,United Kingdom,USD 245.82,small business,Y,800,ana.brennan@example.com,VALID,EMAIL-0184,2024-11-27,VALID,DUP-0100,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1685,RAVI COSTA,RAVI.COSTA@CORP.EXAMPLE,02.09.2024,FR,USD 286.67,midmarket,N,801,ravi.costa@corp.example,VALID,EMAIL-0034,,AMBIGUOUS,DUP-0042,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1321,Grace haddad,grace.haddad@mail.test,2023-05-03,uk,231,Mid-Market,yes,802,grace.haddad@mail.test,VALID,,2023-05-03,VALID,DUP-0157,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1703,ravi Nguyen,ravi.nguyen@mail.test,"Dec 17, 2023",germany,97,smb,false,803,ravi.nguyen@mail.test,VALID,EMAIL-0124,2023-12-17,VALID,DUP-0091,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1111,PRIYA WEBER,PRIYA.WEBER@EXAMPLE.COM,07.07.2024,United States,$364.88,enterprise,true,804,priya.weber@example.com,VALID,EMAIL-0056,2024-07-07,VALID,DUP-0068,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1673,Grace da silva,grace.dasilva@corp.example,06/11/2024,FR,405.54,Mid Market,false,805,grace.dasilva@corp.example,VALID,EMAIL-0248,,AMBIGUOUS,DUP-0156,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001258,Chen Costa,chen.costa@mail.test,"Aug 11, 2023",Brazil,USD 52.39,consumer,FALSE,806,chen.costa@mail.test,VALID,EMAIL-0175,2023-08-11,VALID,DUP-0039,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1746,ana Costa,ana.costa@corp.example,6 Sep 2024,uk,53.71,midmarket,false,807,ana.costa@corp.example,VALID,EMAIL-0107,2024-09-06,VALID,DUP-0123,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1373,ravi PATEL,ravi.patel@example.com,28 Jul 2023,usa,$115.98,Mid-Market,1,808,ravi.patel@example.com,VALID,,2023-07-28,VALID,DUP-0023,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001910,omar PATEL,omar.patel@corp.example,04/30/2024,United Kingdom,USD 64.7,Mid-Market,FALSE,809,omar.patel@corp.example,VALID,EMAIL-0014,2024-04-30,VALID,DUP-0018,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1851,jonas Brennan,jonas.brennan@corp.example,01.04.2023,GB,USD 349.06,smb,Y,810,jonas.brennan@corp.example,VALID,,,AMBIGUOUS,DUP-0183,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1277,ravi Nakamura,ravi.nakamura@mail.test,2024-04-01,Germany,USD 939.41,Mid Market,1,811,ravi.nakamura@mail.test,VALID,EMAIL-0209,2024-04-01,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1142,Noor da silva,noor.dasilva@mail.test,17 Apr 2024,usa,-,Small Business,TRUE,812,noor.dasilva@mail.test,VALID,EMAIL-0024,2024-04-17,VALID,DUP-0029,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1749,ravi Costa,ravi.costa@corp.example,05/03/2023,United States,USD 126.8,SMB,TRUE,813,ravi.costa@corp.example,VALID,EMAIL-0034,,AMBIGUOUS,DUP-0042,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1582,omar weber,,02/06/2025,FR,USD 107.81,Mid-Market,0,814,,MISSING,,,AMBIGUOUS,DUP-0053,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001716,tomás Kowalski,toms.kowalski@mail.test,01.09.2024,u.s.,USD 139.65,SMB,TRUE,815,toms.kowalski@mail.test,VALID,EMAIL-0100,,AMBIGUOUS,DUP-0115,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001054,Sofia Nguyen,sofia.nguyen@example.com,24 Jun 2023,france,$311.53,SMB,FALSE,816,sofia.nguyen@example.com,VALID,EMAIL-0246,2023-06-24,VALID,DUP-0085,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1495,jonas Lindqvist,jonas.lindqvist@mail.test,7 Feb 2024,Brazil,732.61,ENT,true,817,jonas.lindqvist@mail.test,VALID,,2024-02-07,VALID,DUP-0184,POSSIBLE_DUPLICATE_LOW,N
+CUST-1381,Sofia Kowalski,sofia.kowalski@mail.test,20 Aug 2024,germany,139,SMB,N,818,sofia.kowalski@mail.test,VALID,EMAIL-0212,2024-08-20,VALID,DUP-0112,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1036,Yuki weber,,03.01.2023,FR,,Consumer,false,819,,MISSING,,,AMBIGUOUS,DUP-0026,DATE_AMBIGUOUS_DAY_MONTH:signup_date|MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1413,ANA OKAFOR,ANA.OKAFOR@MAIL.TEST,24 Nov 2024,United States,147.59,smb,TRUE,820,ana.okafor@mail.test,VALID,EMAIL-0220,2024-11-24,VALID,DUP-0132,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1538,tomás Kowalski,toms.kowalski@corp.example,"May 16, 2023",United Kingdom,34347,Mid Market,no,821,toms.kowalski@corp.example,VALID,EMAIL-0144,2023-05-16,VALID,DUP-0115,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1846,PRIYA Nakamura,priya.nakamura@example.com,20 Jan 2025,GB,120,midmarket,false,822,priya.nakamura@example.com,VALID,EMAIL-0151,2025-01-20,VALID,DUP-0106,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1112,ravi weber,ravi.weber@mail.test,"Sep 1, 2024",United Kingdom,-,midmarket,TRUE,823,ravi.weber@mail.test,VALID,EMAIL-0240,2024-09-01,VALID,DUP-0152,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1519,ravi Nakamura,ravi.nakamura@corp.example,2024-09-27,Germany,49.63,smb,true,824,ravi.nakamura@corp.example,VALID,EMAIL-0203,2024-09-27,VALID,DUP-0170,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1151,PRIYA okafor,priya.okafor@example.com,3 Nov 2023,United Kingdom,USD 90.49,ENT,0,825,priya.okafor@example.com,VALID,,2023-11-03,VALID,DUP-0095,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1162,ravi Nguyen,ravi@@example..com,02.02.2023,u.s.,,Small Business,TRUE,826,ravi@@example..com,INVALID,,2023-02-02,VALID,DUP-0091,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1209,ravi Nguyen,ravi.nguyen@mail.test,08/26/2024,germany,76.16,ENT,1,827,ravi.nguyen@mail.test,VALID,EMAIL-0124,2024-08-26,VALID,DUP-0091,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001816,Noor ODWYER,noor.odwyer@example.com,"Dec 24, 2024",Brazil,36.75,consumer,yes,828,noor.odwyer@example.com,VALID,,2024-12-24,VALID,DUP-0154,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1906,Aisha Kowalski,aisha.kowalski@mail.test,2023-02-26,DE,$774.36,Mid-Market,true,829,aisha.kowalski@mail.test,VALID,,2023-02-26,VALID,DUP-0062,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001097,Chen Nguyen,chen.nguyen@example.com,"Jan 28, 2023",uk,456,enterprise,TRUE,830,chen.nguyen@example.com,VALID,EMAIL-0088,2023-01-28,VALID,DUP-0102,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1305,Grace Ferrari,grace.ferrari@mail.test,2024-12-21,BR,USD 493.02,Small Business,Y,831,grace.ferrari@mail.test,VALID,EMAIL-0010,2024-12-21,VALID,DUP-0014,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001481,Yuki PATEL,Yuki@@example..com,"Dec 3, 2023",US,94.08,Small Business,1,832,yuki@@example..com,INVALID,,2023-12-03,VALID,DUP-0033,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1656,Mikael Ferrari,mikael.ferrari@example.com,,france,USD 151.16,ENT,0,833,mikael.ferrari@example.com,VALID,EMAIL-0039,,MISSING,DUP-0048,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001396,ravi Nguyen,,05/31/2025,Brazil,USD 571.53,Mid Market,false,834,,MISSING,,2025-05-31,VALID,DUP-0091,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1832,Leilani Kowalski,leilani.kowalski@corp.example,04/26/2023,FR,30142,Mid-Market,no,835,leilani.kowalski@corp.example,VALID,EMAIL-0180,2023-04-26,VALID,DUP-0101,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1787,Leilani PATEL,leilani.patel@example.com,22 Jul 2024,United Kingdom,-999,enterprise,Y,836,leilani.patel@example.com,VALID,EMAIL-0008,2024-07-22,VALID,DUP-0011,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1668,Marcus PATEL,marcus.patel@corp.example,16 Jan 2023,BR,658,midmarket,N,837,marcus.patel@corp.example,VALID,,2023-01-16,VALID,DUP-0173,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1940,tomás Nguyen,,"Apr 25, 2025",Germany,618,Mid-Market,1,838,,MISSING,,2025-04-25,VALID,DUP-0082,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1039,omar Costa,omar.costa@mail.test,06.03.2024,FR,USD 76.77,ENT,false,839,omar.costa@mail.test,VALID,EMAIL-0092,,AMBIGUOUS,DUP-0105,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1547,Yuki okafor,yuki.okafor@mail.test,2024-03-11,usa,16027,consumer,yes,840,yuki.okafor@mail.test,VALID,EMAIL-0251,2024-03-11,VALID,DUP-0012,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1923,Aisha Costa,aisha.costa@corp.example,2025-05-12,United States,$167.11,consumer,1,841,aisha.costa@corp.example,VALID,EMAIL-0109,2025-05-12,VALID,DUP-0044,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001240,Aisha PATEL,aisha.patel@example.com,"Feb 19, 2023",US,,consumer,N,842,aisha.patel@example.com,VALID,EMAIL-0053,2023-02-19,VALID,DUP-0063,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1888,Leilani Kowalski,leilani.kowalski@corp.example,2024-06-11,germany,"1,442",SMB,no,843,leilani.kowalski@corp.example,VALID,EMAIL-0180,2024-06-11,VALID,DUP-0101,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1491,GRACE NAKAMURA,GRACE.NAKAMURA@MAIL.TEST,02/08/2023,GB,23990,midmarket,Y,844,grace.nakamura@mail.test,VALID,EMAIL-0142,,AMBIGUOUS,DUP-0022,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1897,Aisha Lindqvist,aisha.lindqvist@corp.example,01.06.2025,uk,363,midmarket,true,845,aisha.lindqvist@corp.example,VALID,EMAIL-0252,,AMBIGUOUS,DUP-0181,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1868,omar haddad,omar.haddad@corp.example,9 Oct 2024,United States,472,Consumer,no,846,omar.haddad@corp.example,VALID,EMAIL-0011,2024-10-09,VALID,DUP-0015,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001354,Mikael okafor,Mikael <Mikael@example.com>,03/28/2023,usa,$1009.64,Mid-Market,TRUE,847,mikael <mikael@example.com>,INVALID,,2023-03-28,VALID,DUP-0119,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001233,ravi PATEL,ravi.patel@corp.example,6 Mar 2023,US,USD 120.88,Enterprise,false,848,ravi.patel@corp.example,VALID,EMAIL-0019,2023-03-06,VALID,DUP-0023,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1169,Grace Nakamura,grace.nakamura@example.com,"Nov 26, 2024",BR,$306.15,enterprise,0,849,grace.nakamura@example.com,VALID,EMAIL-0018,2024-11-26,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1079,Chen okafor,Chen@@example..com,02/19/2023,usa,165,enterprise,0,850,chen@@example..com,INVALID,,2023-02-19,VALID,DUP-0185,EMAIL_INVALID|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1763,jonas Nakamura,jonas.nakamura@mail.test,25 Oct 2023,Brazil,USD 172.34,Small Business,N,851,jonas.nakamura@mail.test,VALID,,2023-10-25,VALID,DUP-0160,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1561,Grace PATEL,grace.patel@example.com,02/22/2025,United Kingdom,499,consumer,N,852,grace.patel@example.com,VALID,,2025-02-22,VALID,DUP-0174,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001688,ana Brennan,ana.brennan@corp.example,2024-09-27,Germany,46174,Consumer,FALSE,853,ana.brennan@corp.example,VALID,EMAIL-0085,2024-09-27,VALID,DUP-0100,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1019,PRIYA da silva,priya.dasilva@mail.test,2023-01-16,germany,$338.98,consumer,TRUE,854,priya.dasilva@mail.test,VALID,EMAIL-0064,2023-01-16,VALID,DUP-0077,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1171,Yuki weber,yuki.weber@mail.test,17.02.2023,uk,USD 483.16,enterprise,Y,855,yuki.weber@mail.test,VALID,EMAIL-0143,2023-02-17,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1454,ravi Nguyen,ravi.nguyen@example.com,28 Feb 2024,GB,132.26,midmarket,N,856,ravi.nguyen@example.com,VALID,EMAIL-0077,2024-02-28,VALID,DUP-0091,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1199,tomás Kowalski,toms.kowalski@corp.example,"Feb 10, 2024",BR,USD 1455.7,smb,TRUE,857,toms.kowalski@corp.example,VALID,EMAIL-0144,2024-02-10,VALID,DUP-0115,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1068,ravi weber,ravi.weber@corp.example,10/13/2024,Brazil,6701,Consumer,false,858,ravi.weber@corp.example,VALID,EMAIL-0190,2024-10-13,VALID,DUP-0152,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1064,Leilani Nguyen,leilani.nguyen@example.com,31 Oct 2024,United States,USD 205.13,Enterprise,false,859,leilani.nguyen@example.com,VALID,EMAIL-0250,2024-10-31,VALID,DUP-0178,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1750,Grace Nakamura,grace.nakamura@example.com,2023-01-29,germany,USD 477.03,ENT,yes,860,grace.nakamura@example.com,VALID,EMAIL-0018,2023-01-29,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1024,GRACE FERRARI,GRACE.FERRARI@EXAMPLE.COM,2023-04-26,BR,115.96,mid market,TRUE,861,grace.ferrari@example.com,VALID,EMAIL-0253,2023-04-26,VALID,DUP-0014,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1694,Marcus Ferrari,marcus.ferrari@mail.test,14.06.2025,FR,22557,smb,Y,862,marcus.ferrari@mail.test,VALID,EMAIL-0046,2025-06-14,VALID,DUP-0055,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1004,Aisha Lindqvist,aisha.lindqvist@mail.test,2024-08-28,BR,USD 131.33,ENT,false,863,aisha.lindqvist@mail.test,VALID,EMAIL-0254,2024-08-28,VALID,DUP-0181,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1595,Grace okafor,grace.okafor@example.com,12/23/2023,usa,16260,Enterprise,FALSE,864,grace.okafor@example.com,VALID,EMAIL-0126,2023-12-23,VALID,DUP-0136,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1087,Chen Kowalski,chen.kowalski@example.com,19.04.2025,United States,93,midmarket,false,865,chen.kowalski@example.com,VALID,EMAIL-0185,2025-04-19,VALID,DUP-0163,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1232,Yuki okafor,Yuki <Yuki@example.com>,19 Feb 2025,u.s.,$1221.17,consumer,1,866,yuki <yuki@example.com>,INVALID,,2025-02-19,VALID,DUP-0012,EMAIL_INVALID|EMAIL_MULTIPLE_OR_SPACES|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1533,jonas Costa,jonas.costa@mail.test,2023-11-14,DE,684,smb,FALSE,867,jonas.costa@mail.test,VALID,EMAIL-0255,2023-11-14,VALID,DUP-0121,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1951,ravi PATEL,ravi.patel@corp.example,"Mar 21, 2025",United Kingdom,USD 27.32,Consumer,FALSE,868,ravi.patel@corp.example,VALID,EMAIL-0019,2025-03-21,VALID,DUP-0023,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1919,ravi Ferrari,ravi.ferrari@example.com,15.04.2025,usa,146,smb,yes,869,ravi.ferrari@example.com,VALID,,2025-04-15,VALID,DUP-0182,POSSIBLE_DUPLICATE_LOW,N
+CUST-1628,omar haddad,omar.haddad@mail.test,"Oct 29, 2024",GB,,ENT,0,870,omar.haddad@mail.test,VALID,EMAIL-0172,2024-10-29,VALID,DUP-0015,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001057,ravi Nguyen,ravi.nguyen@corp.example,2024-06-06,u.s.,USD 206.59,smb,FALSE,871,ravi.nguyen@corp.example,VALID,EMAIL-0139,2024-06-06,VALID,DUP-0091,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001805,PRIYA Kowalski,priya.kowalski@corp.example,8 May 2025,usa,238.74,midmarket,false,872,priya.kowalski@corp.example,VALID,,2025-05-08,VALID,DUP-0147,POSSIBLE_DUPLICATE_LOW,N
+CUST-1278,jonas Ferrari,jonas.ferrari@example.com,03.03.2025,GB,USD 542.34,enterprise,false,873,jonas.ferrari@example.com,VALID,,2025-03-03,VALID,DUP-0051,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1045,Yuki Nakamura,yuki.nakamura@corp.example,"Apr 28, 2025",germany,USD 596.05,SMB,false,874,yuki.nakamura@corp.example,VALID,EMAIL-0037,2025-04-28,VALID,DUP-0046,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1355,Noor Nakamura,noor.nakamura@mail.test,08.06.2024,germany,$93.71,Consumer,1,875,noor.nakamura@mail.test,VALID,EMAIL-0191,,AMBIGUOUS,DUP-0107,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1152,Leilani haddad,leilani.haddad@corp.example,2 Nov 2024,DE,177.35,midmarket,FALSE,876,leilani.haddad@corp.example,VALID,EMAIL-0194,2024-11-02,VALID,DUP-0172,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001300,Chen okafor,chen.okafor@corp.example,,uk,USD 95.79,consumer,false,877,chen.okafor@corp.example,VALID,,,MISSING,DUP-0185,POSSIBLE_DUPLICATE_LOW,N
+CUST-1269,Yuki haddad,yuki.haddad@example.com,06/21/2023,United Kingdom,171623,Mid-Market,Y,878,yuki.haddad@example.com,VALID,EMAIL-0177,2023-06-21,VALID,DUP-0040,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1279,Marcus Lindqvist,marcus.lindqvist@corp.example,8 Mar 2025,United States,$395.1,midmarket,yes,879,marcus.lindqvist@corp.example,VALID,EMAIL-0216,2025-03-08,VALID,DUP-0155,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1427,Aisha PATEL,aisha.patel@mail.test,11.03.2025,FR,201,enterprise,no,880,aisha.patel@mail.test,VALID,EMAIL-0192,,AMBIGUOUS,DUP-0063,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1231,tomás Nakamura,toms.nakamura@example.com,,FR,$212.78,consumer,yes,881,toms.nakamura@example.com,VALID,EMAIL-0020,,MISSING,DUP-0024,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001356,omar Ferrari,omar.ferrari@mail.test,28 Oct 2023,Brazil,155.39,SMB,Y,882,omar.ferrari@mail.test,VALID,EMAIL-0213,2023-10-28,VALID,DUP-0128,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1125,Chen Lindqvist,chen.lindqvist@example.com,2023-08-20,u.s.,297.54,SMB,yes,883,chen.lindqvist@example.com,VALID,EMAIL-0155,2023-08-20,VALID,DUP-0150,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1497,Aisha Ferrari,aisha.ferrari@example.com,"Mar 21, 2024",france,62599,Mid-Market,Y,884,aisha.ferrari@example.com,VALID,EMAIL-0153,2024-03-21,VALID,DUP-0133,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001728,tomás Kowalski,toms.kowalski@corp.example,2024-10-13,germany,363,Mid-Market,TRUE,885,toms.kowalski@corp.example,VALID,EMAIL-0144,2024-10-13,VALID,DUP-0115,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001106,Sofia haddad,sofia.haddad@example.com,7 Apr 2025,BR,465.34,Enterprise,1,886,sofia.haddad@example.com,VALID,EMAIL-0249,2025-04-07,VALID,DUP-0138,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1140,ana Nguyen,ana.nguyen@example.com,,United States,2956,Mid-Market,Y,887,ana.nguyen@example.com,VALID,EMAIL-0229,,MISSING,DUP-0114,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001215,MARCUS COSTA,MARCUS.COSTA@EXAMPLE.COM,2025-05-16,United Kingdom,540,enterprise,Y,888,marcus.costa@example.com,VALID,EMAIL-0073,2025-05-16,VALID,DUP-0086,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001175,tomás haddad,toms.haddad@corp.example,2023-06-15,uk,602.39,SMB,1,889,toms.haddad@corp.example,VALID,EMAIL-0033,2023-06-15,VALID,DUP-0041,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001378,Leilani Ferrari,leilani.ferrari@mail.test,24.08.2024,Germany,$121.63,Mid Market,N,890,leilani.ferrari@mail.test,VALID,EMAIL-0025,2024-08-24,VALID,DUP-0030,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1722,Yuki okafor,yuki.okafor@mail.test,"Apr 14, 2024",u.s.,41.84,Enterprise,FALSE,891,yuki.okafor@mail.test,VALID,EMAIL-0251,2024-04-14,VALID,DUP-0012,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001597,ana ODWYER,ana.odwyer@corp.example,21.06.2024,germany,131,smb,1,892,ana.odwyer@corp.example,VALID,,2024-06-21,VALID,DUP-0164,POSSIBLE_DUPLICATE_LOW,N
+CUST-1126,ana okafor,ana.okafor@mail.test,"Oct 10, 2024",United States,USD 172.84,ENT,1,893,ana.okafor@mail.test,VALID,EMAIL-0220,2024-10-10,VALID,DUP-0132,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1815,ana weber,ana.weber@example.com,4 Nov 2023,DE,USD 136.16,enterprise,N,894,ana.weber@example.com,VALID,EMAIL-0076,2023-11-04,VALID,DUP-0089,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1179,Leilani Nguyen,leilani.nguyen@mail.test,10.09.2024,GB,62,midmarket,N,895,leilani.nguyen@mail.test,VALID,EMAIL-0235,,AMBIGUOUS,DUP-0178,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1100,jonas Brennan,jonas.brennan@example.com,22.12.2024,FR,132,Enterprise,true,896,jonas.brennan@example.com,VALID,,2024-12-22,VALID,DUP-0183,POSSIBLE_DUPLICATE_LOW,N
+CUST-1207,ravi Brennan,ravi.brennan@corp.example,10.10.2024,uk,64412,midmarket,FALSE,897,ravi.brennan@corp.example,VALID,EMAIL-0193,2024-10-10,VALID,DUP-0032,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1675,Grace Costa,grace.costa@mail.test,03.05.2023,US,-,smb,TRUE,898,grace.costa@mail.test,VALID,,,AMBIGUOUS,DUP-0045,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001901,Grace Nguyen,grace.nguyen@mail.test,7 Oct 2024,Germany,77.74,ENT,1,899,grace.nguyen@mail.test,VALID,EMAIL-0232,2024-10-07,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001073,Sofia ODWYER,sofia.odwyer@corp.example,2023-09-24,United Kingdom,USD 107.16,Mid-Market,true,900,sofia.odwyer@corp.example,VALID,EMAIL-0225,2023-09-24,VALID,DUP-0080,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1589,Noor PATEL,noor.patel@example.com,21.02.2024,US,$338.59,enterprise,false,901,noor.patel@example.com,VALID,EMAIL-0163,2024-02-21,VALID,DUP-0104,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1204,Marcus haddad,marcus.haddad@corp.example,"May 9, 2024",Brazil,17988,Consumer,0,902,marcus.haddad@corp.example,VALID,EMAIL-0256,2024-05-09,VALID,DUP-0126,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1642,Mikael okafor,mikael.okafor@corp.example,21.03.2023,uk,404.01,Mid Market,yes,903,mikael.okafor@corp.example,VALID,EMAIL-0257,2023-03-21,VALID,DUP-0119,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1657,Chen Brennan,chen.brennan@corp.example,10 May 2023,BR,$61.37,smb,yes,904,chen.brennan@corp.example,VALID,EMAIL-0222,2023-05-10,VALID,DUP-0064,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1035,Aisha Brennan,aisha.brennan@corp.example,02/07/2024,United States,236,SMB,FALSE,905,aisha.brennan@corp.example,VALID,EMAIL-0195,,AMBIGUOUS,DUP-0001,CUSTOMER_ID_CONFLICT|DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001789,Marcus Nguyen,Marcus[at]example.com,"May 29, 2024",germany,USD 1388.68,Mid Market,1,906,marcus[at]example.com,INVALID,,2024-05-29,VALID,DUP-0167,EMAIL_INVALID|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1884,Mikael okafor,mikael.okafor@corp.example,05/02/2024,BR,USD 647.9,enterprise,yes,907,mikael.okafor@corp.example,VALID,EMAIL-0257,,AMBIGUOUS,DUP-0119,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001403,Leilani Costa,leilani.costa@example.com,,FR,100223,Small Business,FALSE,908,leilani.costa@example.com,VALID,EMAIL-0227,,MISSING,DUP-0108,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1041,ravi Brennan,ravi.brennan@mail.test,"Mar 5, 2024",Germany,$221.61,enterprise,N,909,ravi.brennan@mail.test,VALID,EMAIL-0027,2024-03-05,VALID,DUP-0032,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1624,Marcus Nguyen,,2023-08-05,uk,209,Mid Market,false,910,,MISSING,,2023-08-05,VALID,DUP-0167,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1358,Chen Nguyen,chen.nguyen@corp.example,2024-03-10,US,$87.1,consumer,false,911,chen.nguyen@corp.example,VALID,,2024-03-10,VALID,DUP-0102,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001085,tomás da silva,toms.dasilva@corp.example,07.05.2024,United Kingdom,USD 334.1,Consumer,FALSE,912,toms.dasilva@corp.example,VALID,EMAIL-0210,,AMBIGUOUS,DUP-0144,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1437,Aisha da silva,aisha.dasilva@example.com,07/31/2023,US,6112,enterprise,1,913,aisha.dasilva@example.com,VALID,EMAIL-0078,2023-07-31,VALID,DUP-0043,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1208,Sofia Nguyen,sofia.nguyen@mail.test,2024-05-14,usa,72,Mid-Market,false,914,sofia.nguyen@mail.test,VALID,EMAIL-0072,2024-05-14,VALID,DUP-0085,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1618,Noor weber,noor.weber@mail.test,"Oct 30, 2023",france,$816.75,ENT,true,915,noor.weber@mail.test,VALID,EMAIL-0239,2023-10-30,VALID,DUP-0050,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001450,Yuki ODWYER,yuki.odwyer@corp.example,2024-07-15,FR,94,SMB,true,916,yuki.odwyer@corp.example,VALID,,2024-07-15,VALID,DUP-0159,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001043,Grace Ferrari,grace.ferrari@mail.test,19 Jul 2023,uk,946.7,smb,TRUE,917,grace.ferrari@mail.test,VALID,EMAIL-0010,2023-07-19,VALID,DUP-0014,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001294,Yuki Brennan,yuki.brennan@example.com,2023-05-07,US,,Enterprise,false,918,yuki.brennan@example.com,VALID,,2023-05-07,VALID,DUP-0141,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001329,Noor Lindqvist,noor.lindqvist@corp.example,"Mar 4, 2024",US,89.67,smb,0,919,noor.lindqvist@corp.example,VALID,EMAIL-0202,2024-03-04,VALID,DUP-0162,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1496,Yuki PATEL,Yuki[at]example.com,09/14/2023,DE,86,Small Business,yes,920,yuki[at]example.com,INVALID,,2023-09-14,VALID,DUP-0033,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001455,Grace PATEL,grace.patel@mail.test,10/27/2024,uk,136.19,enterprise,FALSE,921,grace.patel@mail.test,VALID,EMAIL-0204,2024-10-27,VALID,DUP-0174,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001062,Sofia Kowalski,sofia.kowalski@mail.test,01/26/2024,usa,$1366.92,Mid-Market,true,922,sofia.kowalski@mail.test,VALID,EMAIL-0212,2024-01-26,VALID,DUP-0112,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1241,Yuki weber,yuki.weber@example.com,"Aug 29, 2024",Germany,202,SMB,1,923,yuki.weber@example.com,VALID,EMAIL-0228,2024-08-29,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001557,Mikael Brennan,mikael.brennan@example.com,,GB,16583,Small Business,no,924,mikael.brennan@example.com,VALID,EMAIL-0095,,MISSING,DUP-0056,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1732,Leilani ODWYER,leilani.odwyer@corp.example,"Mar 23, 2024",Germany,132327,smb,0,925,leilani.odwyer@corp.example,VALID,EMAIL-0062,2024-03-23,VALID,DUP-0006,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001536,Yuki Nguyen,yuki.nguyen@example.com,11.04.2025,france,USD 33.26,Small Business,false,926,yuki.nguyen@example.com,VALID,EMAIL-0007,,AMBIGUOUS,DUP-0010,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001525,Aisha Lindqvist,aisha.lindqvist@example.com,-,uk,185,enterprise,false,927,aisha.lindqvist@example.com,VALID,EMAIL-0258,,INVALID,DUP-0181,DATE_UNRECOGNISED_FORMAT:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1129,jonas Lindqvist,jonas.lindqvist@example.com,"Nov 26, 2023",United Kingdom,USD 1005.01,SMB,Y,928,jonas.lindqvist@example.com,VALID,,2023-11-26,VALID,DUP-0184,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001594,omar Lindqvist,omar.lindqvist@mail.test,"Jan 19, 2023",BR,20114,Consumer,0,929,omar.lindqvist@mail.test,VALID,EMAIL-0149,2023-01-19,VALID,DUP-0151,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1096,ana PATEL,ana.patel@mail.test,8 Jun 2024,uk,USD 149.67,Consumer,no,930,ana.patel@mail.test,VALID,EMAIL-0057,2024-06-08,VALID,DUP-0070,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1448,Yuki Costa,yuki.costa@mail.test,31.01.2024,FR,81.8,Enterprise,TRUE,931,yuki.costa@mail.test,VALID,EMAIL-0115,2024-01-31,VALID,DUP-0130,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001565,Chen Brennan,chen.brennan@example.com,"Jan 17, 2025",germany,USD 1229.05,Mid Market,no,932,chen.brennan@example.com,VALID,,2025-01-17,VALID,DUP-0064,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001397,ravi Costa,ravi.costa@corp.example,14.07.2024,Brazil,$442.66,Consumer,FALSE,933,ravi.costa@corp.example,VALID,EMAIL-0034,2024-07-14,VALID,DUP-0042,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1720,Aisha Nakamura,aisha.nakamura@corp.example,2023-12-14,germany,88.41,Enterprise,true,934,aisha.nakamura@corp.example,VALID,EMAIL-0244,2023-12-14,VALID,DUP-0127,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1350,jonas ODWYER,jonas.odwyer@corp.example,2024-11-10,US,45,SMB,no,935,jonas.odwyer@corp.example,VALID,EMAIL-0234,2024-11-10,VALID,DUP-0142,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1120,Noor Kowalski,noor.kowalski@corp.example,01/16/2024,US,USD 392.31,Mid Market,yes,936,noor.kowalski@corp.example,VALID,EMAIL-0081,2024-01-16,VALID,DUP-0054,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1342,Marcus Nguyen,,17.04.2025,france,38857,Mid Market,FALSE,937,,MISSING,,2025-04-17,VALID,DUP-0167,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1160,jonas weber,jonas.weber@example.com,2024-11-23,US,321,ENT,0,938,jonas.weber@example.com,VALID,EMAIL-0090,2024-11-23,VALID,DUP-0103,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1639,PRIYA Nakamura,PRIYA[at]example.com,"May 26, 2025",france,175.53,Enterprise,TRUE,939,priya[at]example.com,INVALID,,2025-05-26,VALID,DUP-0106,CUSTOMER_ID_CONFLICT|EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001517,Yuki Ferrari,yuki.ferrari@corp.example,07/19/2024,uk,58405,Small Business,TRUE,940,yuki.ferrari@corp.example,VALID,,2024-07-19,VALID,DUP-0013,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1051,Aisha da silva,aisha.dasilva@mail.test,12.11.2024,FR,267,midmarket,TRUE,941,aisha.dasilva@mail.test,VALID,,,AMBIGUOUS,DUP-0043,DATE_AMBIGUOUS_DAY_MONTH:signup_date|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001447,Sofia da silva,sofia.dasilva@mail.test,2023-12-16,United Kingdom,15.04,SMB,no,942,sofia.dasilva@mail.test,VALID,EMAIL-0236,2023-12-16,VALID,DUP-0171,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001880,Mikael Nakamura,mikael.nakamura@corp.example,23.12.2024,usa,USD 220.12,consumer,true,943,mikael.nakamura@corp.example,VALID,EMAIL-0129,2024-12-23,VALID,DUP-0140,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1707,Yuki weber,Yuki[at]example.com,30 Sep 2024,United States,USD 107.07,Consumer,Y,944,yuki[at]example.com,INVALID,,2024-09-30,VALID,DUP-0026,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1932,PRIYA PATEL,priya.patel@corp.example,05/20/2025,BR,"1,435",smb,TRUE,945,priya.patel@corp.example,VALID,EMAIL-0238,2025-05-20,VALID,DUP-0079,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1132,jonas okafor,jonas.okafor@corp.example,2023-12-06,usa,809.25,smb,TRUE,946,jonas.okafor@corp.example,VALID,EMAIL-0197,2023-12-06,VALID,DUP-0067,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1783,Mikael Costa,Mikael[at]example.com,15.03.2024,Brazil,,Consumer,true,947,mikael[at]example.com,INVALID,,2024-03-15,VALID,DUP-0083,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1024,Grace Ferrari,grace.ferrari@example.com,2023-04-26,BR,115.96,Mid Market,TRUE,948,grace.ferrari@example.com,VALID,EMAIL-0253,2023-04-26,VALID,DUP-0014,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1654,Marcus haddad,marcus.haddad@corp.example,12 May 2025,u.s.,$405.6,Enterprise,0,949,marcus.haddad@corp.example,VALID,EMAIL-0256,2025-05-12,VALID,DUP-0126,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1263,ravi Nakamura,ravi.nakamura@example.com,2023-06-08,u.s.,USD 67.17,midmarket,FALSE,950,ravi.nakamura@example.com,VALID,EMAIL-0218,2023-06-08,VALID,DUP-0170,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1107,tomás Costa,toms.costa@mail.test,,uk,$564.71,Enterprise,N,951,toms.costa@mail.test,VALID,,,MISSING,DUP-0113,POSSIBLE_DUPLICATE_LOW,N
+CUST-1600,Grace Nakamura,grace.nakamura@mail.test,29 Jul 2024,Brazil,$580.7,consumer,Y,952,grace.nakamura@mail.test,VALID,EMAIL-0142,2024-07-29,VALID,DUP-0022,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001458,Sofia Nguyen,sofia.nguyen@example.com,8 Jan 2024,Brazil,$416.79,enterprise,false,953,sofia.nguyen@example.com,VALID,EMAIL-0246,2024-01-08,VALID,DUP-0085,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1891,ana okafor,ana.okafor@corp.example,14 Jan 2025,uk,280,consumer,yes,954,ana.okafor@corp.example,VALID,EMAIL-0118,2025-01-14,VALID,DUP-0132,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1689,Chen ODWYER,chen.odwyer@example.com,06/10/2023,United States,USD 106.67,smb,yes,955,chen.odwyer@example.com,VALID,EMAIL-0110,,AMBIGUOUS,DUP-0125,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1377,PRIYA PATEL,priya.patel@mail.test,18.01.2025,Germany,$553.37,enterprise,N,956,priya.patel@mail.test,VALID,EMAIL-0243,2025-01-18,VALID,DUP-0079,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1115,omar PATEL,omar.patel@corp.example,16 Nov 2024,Brazil,"1,298",enterprise,false,957,omar.patel@corp.example,VALID,EMAIL-0014,2024-11-16,VALID,DUP-0018,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1782,Marcus Brennan,Marcus@@example..com,13.03.2023,france,USD 265.97,SMB,yes,958,marcus@@example..com,INVALID,,2023-03-13,VALID,DUP-0131,EMAIL_INVALID|POSSIBLE_DUPLICATE_LOW,Y
+CUST-1684,Sofia da silva,sofia.dasilva@corp.example,29 May 2023,uk,$1358.35,Small Business,false,959,sofia.dasilva@corp.example,VALID,EMAIL-0201,2023-05-29,VALID,DUP-0171,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1256,omar Nakamura,omar.nakamura@example.com,6 Apr 2025,US,73744,Mid Market,false,960,omar.nakamura@example.com,VALID,EMAIL-0051,2025-04-06,VALID,DUP-0060,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001588,ANA NGUYEN,ANA.NGUYEN@EXAMPLE.COM,2025-06-08,United States,$318.18,ent,FALSE,961,ana.nguyen@example.com,VALID,EMAIL-0229,2025-06-08,VALID,DUP-0114,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1037,Mikael ODWYER,mikael.odwyer@corp.example,04/18/2023,Brazil,USD 189.88,Mid-Market,0,962,mikael.odwyer@corp.example,VALID,EMAIL-0068,2023-04-18,VALID,DUP-0049,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001479,Aisha Lindqvist,aisha.lindqvist@corp.example,"Sep 9, 2024",Brazil,37.99,SMB,TRUE,963,aisha.lindqvist@corp.example,VALID,EMAIL-0252,2024-09-09,VALID,DUP-0181,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1072,Mikael Costa,mikael.costa@example.com,01/05/2025,BR,USD 274.17,ENT,false,964,mikael.costa@example.com,VALID,EMAIL-0161,,AMBIGUOUS,DUP-0083,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001394,Yuki weber,yuki.weber@example.com,,usa,$1431.64,Small Business,N,965,yuki.weber@example.com,VALID,EMAIL-0228,,MISSING,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1912,ana Nakamura,ana.nakamura@mail.test,"Sep 27, 2023",GB,$258.31,smb,N,966,ana.nakamura@mail.test,VALID,EMAIL-0006,2023-09-27,VALID,DUP-0009,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001127,Yuki okafor,yuki.okafor@example.com,2024-10-28,United States,$83.09,smb,no,967,yuki.okafor@example.com,VALID,EMAIL-0112,2024-10-28,VALID,DUP-0012,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001780,Leilani Nguyen,leilani.nguyen@mail.test,28.02.2024,BR,206,Consumer,1,968,leilani.nguyen@mail.test,VALID,EMAIL-0235,2024-02-28,VALID,DUP-0178,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001858,tomás Ferrari,toms.ferrari@example.com,"Mar 26, 2023",Brazil,406.27,Consumer,Y,969,toms.ferrari@example.com,VALID,EMAIL-0105,2023-03-26,VALID,DUP-0120,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001185,ravi PATEL,ravi.patel@corp.example,2024-07-22,Brazil,320,smb,false,970,ravi.patel@corp.example,VALID,EMAIL-0019,2024-07-22,VALID,DUP-0023,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001745,Mikael weber,mikael.weber@example.com,3 Mar 2023,DE,49.31,SMB,no,971,mikael.weber@example.com,VALID,EMAIL-0132,2023-03-03,VALID,DUP-0020,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001708,Yuki Nguyen,yuki.nguyen@mail.test,04/21/2023,DE,48807,midmarket,FALSE,972,yuki.nguyen@mail.test,VALID,EMAIL-0219,2023-04-21,VALID,DUP-0010,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1553,Yuki Nakamura,yuki.nakamura@example.com,08.03.2023,Germany,-999,Mid-Market,1,973,yuki.nakamura@example.com,VALID,EMAIL-0164,,AMBIGUOUS,DUP-0046,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1737,Noor da silva,noor.dasilva@example.com,08/03/2024,DE,USD 449.56,consumer,yes,974,noor.dasilva@example.com,VALID,EMAIL-0221,,AMBIGUOUS,DUP-0029,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001049,Yuki weber,yuki.weber@corp.example,2024-12-21,US,$201.9,enterprise,TRUE,975,yuki.weber@corp.example,VALID,EMAIL-0022,2024-12-21,VALID,DUP-0026,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001768,Marcus Brennan,marcus.brennan@corp.example,23 Jan 2023,usa,376,enterprise,Y,976,marcus.brennan@corp.example,VALID,,2023-01-23,VALID,DUP-0131,POSSIBLE_DUPLICATE_LOW,N
+CUST-00001512,Noor PATEL,noor.patel@corp.example,"Jun 13, 2024",uk,USD 113.12,Enterprise,yes,977,noor.patel@corp.example,VALID,,2024-06-13,VALID,DUP-0104,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1770,Mikael Nguyen,mikael.nguyen@example.com,24.10.2024,Germany,USD 150.53,enterprise,false,978,mikael.nguyen@example.com,VALID,EMAIL-0154,2024-10-24,VALID,DUP-0143,CUSTOMER_ID_CONFLICT|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1055,Mikael okafor,mikael.okafor@corp.example,"Dec 17, 2024",BR,50,consumer,TRUE,979,mikael.okafor@corp.example,VALID,EMAIL-0257,2024-12-17,VALID,DUP-0119,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1061,Noor Nakamura,noor.nakamura@mail.test,"Oct 21, 2024",u.s.,USD 451.5,smb,Y,980,noor.nakamura@mail.test,VALID,EMAIL-0191,2024-10-21,VALID,DUP-0107,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1769,Aisha Lindqvist,aisha.lindqvist@example.com,"Feb 17, 2024",france,$43.79,SMB,0,981,aisha.lindqvist@example.com,VALID,EMAIL-0258,2024-02-17,VALID,DUP-0181,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001798,jonas Costa,jonas.costa@mail.test,24.12.2024,usa,$213.42,Small Business,0,982,jonas.costa@mail.test,VALID,EMAIL-0255,2024-12-24,VALID,DUP-0121,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001228,Marcus okafor,marcus.okafor@mail.test,2024-07-09,GB,,smb,false,983,marcus.okafor@mail.test,VALID,EMAIL-0233,2024-07-09,VALID,DUP-0134,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001429,PRIYA Brennan,priya.brennan@example.com,10.09.2023,GB,$657.79,consumer,1,984,priya.brennan@example.com,VALID,EMAIL-0247,,AMBIGUOUS,DUP-0176,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1439,omar Kowalski,omar.kowalski@mail.test,18.12.2024,United States,USD 143.62,midmarket,yes,985,omar.kowalski@mail.test,VALID,,2024-12-18,VALID,DUP-0135,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1568,Sofia PATEL,sofia.patel@example.com,06.03.2024,DE,USD 107.73,ENT,1,986,sofia.patel@example.com,VALID,EMAIL-0242,,AMBIGUOUS,DUP-0180,DATE_AMBIGUOUS_DAY_MONTH:signup_date|EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001219,Leilani Kowalski,leilani.kowalski@mail.test,27 Dec 2024,United Kingdom,221.3,Consumer,no,987,leilani.kowalski@mail.test,VALID,,2024-12-27,VALID,DUP-0101,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1220,Chen Lindqvist,chen.lindqvist@example.com,5 Sep 2023,Germany,USD 1011.09,ENT,Y,988,chen.lindqvist@example.com,VALID,EMAIL-0155,2023-09-05,VALID,DUP-0150,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1008,Marcus Costa,marcus.costa@mail.test,16.08.2024,usa,317,Small Business,FALSE,989,marcus.costa@mail.test,VALID,,2024-08-16,VALID,DUP-0086,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001306,Aisha Lindqvist,aisha.lindqvist@mail.test,"Jul 24, 2023",BR,103,Mid-Market,1,990,aisha.lindqvist@mail.test,VALID,EMAIL-0254,2023-07-24,VALID,DUP-0181,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001697,Chen haddad,chen.haddad@example.com,2025-04-21,uk,USD 401.63,consumer,true,991,chen.haddad@example.com,VALID,EMAIL-0217,2025-04-21,VALID,DUP-0098,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1626,ana Costa,ana.costa@corp.example,13 Mar 2024,u.s.,112.65,Mid-Market,TRUE,992,ana.costa@corp.example,VALID,EMAIL-0107,2024-03-13,VALID,DUP-0123,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001724,jonas da silva,jonas.dasilva@corp.example,,france,$397.75,consumer,N,993,jonas.dasilva@corp.example,VALID,,,MISSING,DUP-0061,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001652,Sofia okafor,sofia.okafor@corp.example,"Jul 26, 2024",United States,$567.1,midmarket,FALSE,994,sofia.okafor@corp.example,VALID,EMAIL-0230,2024-07-26,VALID,DUP-0099,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001658,jonas Ferrari,jonas.ferrari@corp.example,27 Dec 2024,uk,$466.08,enterprise,no,995,jonas.ferrari@corp.example,VALID,EMAIL-0041,2024-12-27,VALID,DUP-0051,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1419,ana Nguyen,ana[at]example.com,"Aug 29, 2024",usa,726.2,ENT,N,996,ana[at]example.com,INVALID,,2024-08-29,VALID,DUP-0114,EMAIL_INVALID|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1699,Leilani Kowalski,leilani.kowalski@corp.example,,GB,USD 147.89,Consumer,0,997,leilani.kowalski@corp.example,VALID,EMAIL-0180,,MISSING,DUP-0101,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1402,omar Ferrari,omar.ferrari@example.com,,FR,46221,Mid-Market,TRUE,998,omar.ferrari@example.com,VALID,,,MISSING,DUP-0128,POSSIBLE_DUPLICATE_HIGH,Y
+CUST-00001303,Mikael Ferrari,,01/19/2024,germany,730,midmarket,true,999,,MISSING,,2024-01-19,VALID,DUP-0048,MISSING_REQUIRED:email|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1290,Grace Nguyen,grace.nguyen@mail.test,2024-07-05,germany,577.77,enterprise,1,1000,grace.nguyen@mail.test,VALID,EMAIL-0232,2024-07-05,VALID,DUP-0111,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
+CUST-1693,tomás weber,toms.weber@corp.example,"Jan 2, 2023",usa,$67.71,ENT,FALSE,1001,toms.weber@corp.example,VALID,EMAIL-0178,2023-01-02,VALID,DUP-0139,EMAIL_DUPLICATE|POSSIBLE_DUPLICATE_HIGH,Y
